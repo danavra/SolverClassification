@@ -145,10 +145,42 @@ def write_data(df, output_path):
     df.to_csv(output_path)
 
 
+def directories_validation():
+    data_dir = os.path.join(os.getcwd(), 'data')
+    if not os.path.isdir(data_dir):
+        os.mkdir(data_dir)
+
+    clust = os.path.join(data_dir, 'clustered data')
+    if not os.path.isdir(clust):
+        os.mkdir(clust)
+        os.mkdir(os.path.join(clust, 'results'))
+    elif not os.path.isdir(os.path.join(clust, 'results')):
+        os.mkdir(os.path.join(clust, 'results'))
+
+    feat = os.path.join(data_dir, 'featured data')
+    if not os.path.isdir(feat):
+        os.mkdir(feat)
+
+    meta = os.path.join(data_dir, 'meta data')
+    if not os.path.isdir(meta):
+        os.mkdir(meta)
+
+    preds = os.path.join(data_dir, 'predictions')
+    if not os.path.isdir(preds):
+        os.mkdir(preds)
+
+    raw = os.path.join(data_dir, 'raw data')
+    if not os.path.isdir(raw):
+        os.mkdir(raw)
+
+
 if __name__ == '__main__':
     with warnings.catch_warnings():
         warnings.filterwarnings('ignore')
-        raw_data_dir_path = os.path.join(os.getcwd(), 'data', 'raw data')
-        make_groups(raw_data_dir_path)
-        mark = '*'*60
-        print('{0} DONE {0}'.format(mark))
+        # raw_data_dir_path = os.path.join(os.getcwd(), 'data', 'raw data')
+        # make_groups(raw_data_dir_path)
+        # mark = '*'*60
+        # print('{0} DONE {0}'.format(mark))
+        print('start')
+        directories_validation()
+        print('end')
