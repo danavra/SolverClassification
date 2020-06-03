@@ -2,10 +2,11 @@ import pandas as pd
 import math
 import statistics
 import json
-from os import getcwd, listdir, sep
+from os import getcwd, listdir
 from os.path import join
 import warnings
 import final_project as fp
+from DataUtil import NOT_ANSWERS
 
 
 def get_highest_voted_ans(dic_prob):
@@ -61,8 +62,37 @@ def get_agg_EAAA(df, dic):
     return statistics.mean(temp), statistics.median(temp), statistics.variance(temp)
 
 
-def get_init_features(df, num_of_answers, first_idx):
+def get_init_features(df, not_answers=NOT_ANSWERS):
     features = {}
+    # all_possible_ans = df.columns[first_idx:first_idx + num_of_answers]
+    cols = list(df.columns.values)
+    all_possible_ans = [col for col in cols if col not in not_answers]
+    df = fp.change_precentage_to_num(df, all_possible_ans)
+    dic = get_answer_distribution(all_possible_ans, df)
+
+    # get probability
+    num_of_subjects = len(df['Answer'])
+    dic_prob = {}
+    for ans in dic:
+        dic_prob[ans] = dic[ans]/num_of_subjects
+
+    # simple meta features extraction
+    features['consensus'] = get_consensus(dic_prob) # divided by log(n) 0: full consensus 1: no consensus
+    features['highest_voted_ans'] = get_highest_voted_ans(dic_prob) # the percentage (amount / all) of the highest voted answer
+    features['variance'] = statistics.variance(list(dic.values())) # variance of the problems answers
+
+    # complex meta features extraction (for each feature: avg, median and var (normalized by max var))
+    features['avg_arrogance'], features['med_arrogance'], features['var_arrogance'] = get_agg_arrogance(df)
+    features['avg_confidence'], features['med_confidence'], features['var_confidence'] = get_agg_confidence(df)
+    features['avg_EMAM'], features['med_EMAM'], features['var_EMAM'] = get_agg_EMAM(df,dic_prob)
+    features['avg_EAAA'], features['med_EAAA'], features['var_EAAA'] = get_agg_EAAA(df,dic_prob)
+
+    return features
+
+
+def get_init_features_old(df, num_of_answers, first_idx):
+    features = {}
+    # all_possible_ans = df.columns[first_idx:first_idx + num_of_answers]
     all_possible_ans = df.columns[first_idx:first_idx + num_of_answers]
     df = fp.change_precentage_to_num(df, all_possible_ans)
     dic = get_answer_distribution(all_possible_ans, df)
@@ -102,7 +132,43 @@ def normalize_var(df, col_names):
     return df
 
 
-def extract_meta_features(all_prob_dir, json_meta_data):
+def extract_meta_features(all_prob_dir):
+    """
+    Calculates the meta features of all the problems in the gived directory.
+    :param all_prob_dir: the path of the directory that hold all of the problems data sets
+    :param json_meta_data: a json file that holds for each problem the answers starting index
+           and the answer amount
+    :return: a data frame with all the problems meta features (normalized between 0,1)
+    """
+    if not all_prob_dir:
+        return None
+    ans = {}
+    all_prob_dir_path = join(getcwd(), 'data', 'raw data')
+
+    # iterate over every problem and extract meta features
+    for problem_file in all_prob_dir:
+        file_name = join(all_prob_dir_path, problem_file)
+        prob_df = pd.read_csv(file_name, index_col='Worker ID', dtype={'Answer': str})
+
+        if 'Confidence' not in prob_df.columns.values:
+            continue
+
+        for group in prob_df.group_number.unique():
+            df = prob_df[prob_df.group_number == group]
+
+            # get initial features
+            ans['{g}'.format(g=group)] = get_init_features(df)
+
+    # change  dic to df
+    ans_df = pd.DataFrame(ans).transpose()
+
+    # normalize variance features [0,1]
+    to_normalize = ['variance', 'var_EAAA', 'var_EMAM', 'var_confidence', 'var_arrogance']
+    ans_df = normalize_var(ans_df, to_normalize)
+    return ans_df
+
+
+def extract_meta_features_old(all_prob_dir, json_meta_data):
     """
     Calculates the meta features of all the problems in the gived directory.
     :param all_prob_dir: the path of the directory that hold all of the problems data sets
@@ -146,19 +212,16 @@ def extract_meta_features(all_prob_dir, json_meta_data):
         return ans_df
 
 
+def meta_feature_extractor():
+    all_prob_dir = listdir(join(getcwd(), 'data', 'raw data'))
+    m_features = extract_meta_features(all_prob_dir)
+    if m_features is not None:
+        m_features.index.names = ['group_number']
+        m_features.to_csv(join(getcwd(), 'data', 'meta data', 'meta_features.csv'))
+
+
 if __name__ == '__main__':
     with warnings.catch_warnings():
         warnings.filterwarnings('ignore')
-        # default values
-        json_meta_data = join(getcwd(), 'data', 'meta data', 'problems_meta_data.JSON')
-        all_prob_dir = listdir(join(getcwd(), 'data', 'raw data'))
-
-        # get meta features
-        m_features = extract_meta_features(all_prob_dir, json_meta_data)
-        print("Success:\n" + str(m_features))
-
-        # add index name (group_number)
-        m_features.index.names = ['group_number']
-        # export_features_csv(m_features)
-        m_features.to_csv(join(getcwd(), 'data', 'meta data', 'meta_features.csv'))
+        meta_feature_extractor()
 
