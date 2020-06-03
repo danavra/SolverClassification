@@ -166,6 +166,47 @@
 
                         <div id="action_selection"
                             style="text-align: left; margin-left: 35%; margin-right: 35%; width: fit-content">
+                            <table>
+                                <tr>
+                                    <td>
+                                        <label class="r_label" for="">BaseLine</label>
+
+                                    </td>
+                                    <td>
+                                        <input type="checkbox" name="base_line" data-toggle="tooltip"
+                                            data-placement="right" title="Run only Baseline report" checked="true">
+
+                                    </td>
+                                </tr>
+                                <!-- <br> -->
+                                <tr>
+                                    <td>
+                                        <label class="r_label" for="">All Data</label>
+
+                                    </td>
+                                    <td>
+                                        <input type="checkbox" name="all_data" data-toggle="tooltip"
+                                            data-placement="right" title="Run only All Data report" checked="true">
+
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <label class="r_label" for="">Context</label>
+
+                                    </td>
+                                    <td>
+                                        <input type="checkbox" name="context" data-toggle="tooltip"
+                                            data-placement="right" title="Run only Context report" checked="true">
+
+                                    </td>
+                                </tr>
+                            </table>
+                            <!-- <br> -->
+
+
+
+                            <!-- <label class="r_label" for="checkbox">Re-build Database</label>
                             <input type="radio" name="textEditor" value="baseLine" checked data-toggle="tooltip"
                                 data-placement="left" title="Run only Baseline report">
                             <label for="dreamweaver">BaseLine</label> <br>
@@ -177,7 +218,7 @@
                             <label for="sublime">Context</label><br>
                             <input type="radio" name="textEditor" value="full" data-toggle="tooltip"
                                 data-placement="left" title="Run a full report on all three">
-                            <label for="sublime">Run Full Report</label><br>
+                            <label for="sublime">Run Full Report</label><br> -->
                         </div>
                     </center>
                 </div>
@@ -186,7 +227,7 @@
                     <center  style="margin: 30%;">
 
                         <button type="button" class="btn btn-default footer_btn_l" data-dismiss="modal">Close</button>
-                        <button type="button" class="btn btn-warning footer_btn_r" onclick="alert('run db Analasys')"
+                        <button type="button" class="btn btn-warning footer_btn_r" onclick="db_analasys()"
                             style="background-color:rgb(137, 27, 211);">Run DB Analasys</button>
                     </center>
                 </div>
@@ -221,7 +262,7 @@
                     <center  style="margin: 30%;">
 
                         <button type="button" class="btn btn-default footer_btn_l" data-dismiss="modal">Close</button>
-                        <button type="button" class="btn btn-info footer_btn_r" onclick="alert('Create DB')"
+                        <button type="button" class="btn btn-info footer_btn_r" onclick="create_db()"
                             style="background-color: rgb(18, 116, 196);">Create DB</button>
                     </center>
                 </div>
