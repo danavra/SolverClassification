@@ -1,45 +1,110 @@
 
+// function solve_problem() {
+//     server = "http://127.0.0.1:5000"
+//     func = '/solve_problem'
+//
+//     toggleNotification('Processing in progress', 'The magic is happening')
+//     $.ajax({
+//         type: "POST",
+//         url: server + func,
+//         data: JSON.stringify(inputs),
+//         dataType: 'json',
+//         success: function (data) {
+//             $('#toggle_modal').modal('hide')
+//             popNotification(JSON.stringify(data), 'It Fucking Works!!', 'green')
+//
+//         }, error: function (data) {
+//             $('#toggle_modal').modal('hide')
+//             popError(data, "OH SHIT!")
+//         }
+//     })
+// }
+
 function solve_problem() {
     server = "http://127.0.0.1:5000"
     func = '/solve_problem'
 
-    toggleNotification('Processing in progress', 'The magic is happening')
-    $.ajax({
-        type: "POST",
-        url: server + func,
-        data: JSON.stringify(inputs),
-        dataType: 'json',
-        success: function (data) {
-            $('#toggle_modal').modal('hide')
-            popNotification(JSON.stringify(data), 'It Fucking Works!!', 'green')
-
-        }, error: function (error) {
-            $('#toggle_modal').modal('hide')
-            popError(data, "OH SHIT!")
-        }
-    })
-}
-
-function solve_problem() {
-
-    // inputs = get_inputs();
-    // errors = validate_inputs(inputs)
-    problem_file = document.getElementById('new_problem').value
-    if(problem_file == null || problem_file === ''){
+    // validate input
+    problem_file = document.getElementById('new_problem')
+    if(problem_file.value == null || problem_file.value === ''){
         popError('Must upload a problem', 'Bad Input','left')
         return
     }
 
     $('#solve_problem').modal('hide')
-    server = "http://127.0.0.1:5000"
-    func = '/solve_problem'
+    var fileInput = document.getElementById('new_problem');
+    var file = fileInput.files[0];
+    var form_data = new FormData();
+    form_data.append('file', file);
+    $.ajax({
+        
+        url:  server + func,
+		dataType: 'text',  // what to expect back from the PHP script, if anything
+		cache: false,
+		contentType: false,
+		processData: false,
+		data: form_data,
+		type: 'post',
+        success: function (data) {
+            $('#toggle_modal').modal('hide')
+            popNotification(JSON.stringify(data), 'It Fucking Works!!', 'green')
 
-    toggleNotification('Processing in progress', 'The magic is happening')
+        }, error: function (data) {
+            $('#toggle_modal').modal('hide')
+            popError('Connection refused', "OH SHIT!")
+        }
+    })
+}
+
+
+function db_analasys() {
+    server = "http://127.0.0.1:5000"
+    func = '/db_analasys'
+    selected = {}
+
+    $('#db_analasys').modal('hide')
+
+
+    // gather users input
+    $('#action_selection input').each(function() {
+        if($(this). is(":checked")){
+            selected[$(this).attr('name')] = "1"
+        }
+        else{
+            selected[$(this).attr('name')] = "0"
+
+        }
+    });
+
+    // send request to server
+    toggleNotification('Analysing DB', 'The magic is happening')
     $.ajax({
         type: "POST",
         url: server + func,
-        data: problem_file,
-        dataType: 'json',
+        data: JSON.stringify(selected),
+        dataType: 'JSON',
+        success: function (data) {
+            $('#toggle_modal').modal('hide')
+            popNotification(JSON.stringify(data), 'It Fucking Works!!', 'green')
+
+        }, error: function (data) {
+            $('#toggle_modal').modal('hide')
+            popError(data, "OH SHIT!")
+        }
+    })
+
+}
+
+
+function create_db(){
+    $('#create_db').modal('hide')
+    server = "http://127.0.0.1:5000"
+    func = '/create_db'
+
+    toggleNotification('Creating DataBase', 'The magic is happening')
+    $.ajax({
+        type: "POST",
+        url: server + func,
         success: function (data) {
             $('#toggle_modal').modal('hide')
             popNotification(JSON.stringify(data), 'It Fucking Works!!', 'green')
