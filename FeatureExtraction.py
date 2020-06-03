@@ -212,4 +212,4 @@ def feature_extraction():
 if __name__ == '__main__':
     with warnings.catch_warnings():
         warnings.filterwarnings('ignore')
-        feature_extraction()
+        # feature_extraction()

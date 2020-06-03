@@ -251,4 +251,4 @@ def run_all_experiments(basline_experiment=True, cluster_experiment=True, full_d
 if __name__ == '__main__':
     with warnings.catch_warnings():
         warnings.filterwarnings('ignore')
-        run_all_experiments()
+        # run_all_experiments()

@@ -1,0 +1,95 @@
+Worker ID,Problem,Age,Gender,Strong hand,Education,Answer,Confidence,Subjective Difficulty,Objective Difficutly,Psolve,a1,a2,a3,a4,Class,group_number
+18,Traveler,17,Male,Right,High School/GED,a4,8,2,3,0.75,0.3,0.25,0.1,0.35,Non-Solver,81
+17,Traveler,29,Male,Right,College,a4,8,3,5,0.6,0.15,0.25,0.05,0.55,Non-Solver,81
+16,Traveler,22,Female,Right,College,a1,5,6,6,0.35,0.5,0.1,0.3,0.1,Non-Solver,81
+15,Traveler,25,Male,Right,Graduate Degree,a2,10,1,7,0.25,0.3,0.25,0.2,0.25,Solver,81
+14,Traveler,26,Male,Right,College,a2,8,6,3,0.65,0.1,0.6,0.0,0.3,Solver,81
+13,Traveler,27,Male,Right,Graduate Degree,a4,10,7,9,0.3,0.05,0.4,0.25,0.3,Non-Solver,81
+12,Traveler,25,Female,Right,Graduate Degree,a4,6,6,8,0.45,0.1,0.3,0.15,0.45,Non-Solver,81
+11,Traveler,28,Male,Right,Graduate Degree,a4,10,1,4,0.9,0.05,0.05,0.0,0.9,Non-Solver,81
+10,Traveler,29,Male,Right,High School/GED,a4,6,3,5,0.5,0.1,0.3,0.1,0.5,Non-Solver,81
+9,Traveler,36,Male,Right,Graduate Degree,a4,10,6,9,0.5,0.25,0.25,0.2,0.3,Non-Solver,81
+8,Traveler,26,Female,Right,College,a2,2,8,7,0.4,0.4,0.4,0.1,0.1,Solver,81
+7,Traveler,35,Female,Left,Graduate Degree,a4,6,5,5,0.6,0.05,0.25,0.1,0.6,Non-Solver,81
+6,Traveler,60,Male,Right,Graduate Degree,a2,10,2,5,0.75,0.05,0.75,0.05,0.15,Solver,81
+5,Traveler,39,Female,Right,Graduate Degree,a4,1,10,8,0.1,0.05,0.6,0.05,0.3,Non-Solver,81
+4,Traveler,62,Female,Right,Graduate Degree,a2,3,4,7,0.25,0.3,0.25,0.2,0.25,Solver,81
+3,Traveler,29,Female,Right,Graduate Degree,a3,5,8,7,0.7,0.0,0.25,0.7,0.05,Non-Solver,81
+2,Traveler,28,Female,Right,Graduate Degree,a2,8,6,2,0.5,0.2,0.4,0.2,0.2,Solver,81
+1,Traveler,33,Male,Right,Graduate Degree,a2,9,7,9,0.4,0.05,0.4,0.1,0.45,Solver,81
+A2WHC086WNUQNB,Traveler,53,Female,Right,College,a2,6,7,5,0.5,0.1,0.45,0.2,0.25,Solver,81
+AMZV70TID53WY,Traveler,26,Male,Right,College,a1,6,3,7,0.5,0.55,0.15,0.1,0.2,Non-Solver,81
+A147F5PJTHOB8A,Traveler,42,Male,Right,High School/GED,a2,1,8,8,0.1,0.3,0.25,0.1,0.35,Solver,81
+A1NZFJHVJ9CNTO,Traveler,29,Male,Right,High School/GED,a3,9,5,5,0.5,0.05,0.05,0.5,0.4,Non-Solver,81
+AO46MWFKLP3ZN,Traveler,30,Male,Right,Graduate Degree,a3,10,1,5,0.5,0.2,0.2,0.5,0.1,Non-Solver,81
+A39YK8LJ8O37OY,Traveler,33,Female,Right,Graduate Degree,a1,8,1,1,0.3,0.35,0.3,0.05,0.3,Non-Solver,81
+AKF2CET7H6C5X,Traveler,32,Male,Right,Graduate Degree,a1,5,5,6,0.3,0.3,0.25,0.1,0.35,Non-Solver,81
+A53WVYONK6B9Q,Traveler,26,Male,Right,High School/GED,a2,3,4,6,0.4,0.4,0.35,0.2,0.05,Solver,81
+AMELYCC59JKB0,Traveler,37,Female,Right,College,a2,3,6,8,0.4,0.25,0.35,0.25,0.15,Solver,81
+A8FCVU1TTDVL0,Traveler,40,Female,Right,College,a2,3,6,6,0.3,0.5,0.25,0.15,0.1,Solver,81
+A198MSVO1VTAT5,Traveler,60,Female,Right,College,a2,10,1,1,0.55,0.2,0.2,0.4,0.2,Solver,81
+A2QUQ0S2F6K3QJ,Traveler,63,Female,Right,High School/GED,a2,5,5,6,0.55,0.05,0.45,0.35,0.15,Solver,81
+A2EI9E6EBZEZO1,Traveler,38,Female,Right,College,a2,2,8,5,0.25,0.25,0.25,0.25,0.25,Solver,82
+APS21FRK7TBKW,Traveler,47,Female,Right,College,a4,2,3,5,0.65,0.25,0.25,0.25,0.25,Non-Solver,82
+A2IQ0QCTQ3KWLT,Traveler,48,Female,Right,High School/GED,a4,1,8,7,0.6,0.15,0.15,0.3,0.4,Non-Solver,82
+A2MWAXV1YRK5GH,Traveler,69,Female,Left,Graduate Degree,a4,5,9,9,0.5,0.0,0.3,0.0,0.7,Non-Solver,82
+A3HOBJ4PJUOCUN,Traveler,59,Female,Right,High School/GED,a2,2,6,5,0.4,0.05,0.6,0.1,0.25,Solver,82
+A1DS0M9DLHAISJ,Traveler,38,Female,Right,College,a2,7,7,9,0.25,0.25,0.5,0.25,0.0,Solver,82
+AAASQIW3J32OL,Traveler,58,Female,Right,College,a4,7,4,4,0.65,0.05,0.25,0.05,0.65,Non-Solver,82
+yijmma,Traveler,33,Male,Right,College,a4,5,4,5,0.25,0.25,0.4,0.15,0.2,Non-Solver,82
+A1M7G9KKXWH76A,Traveler,48,Male,Right,College,a4,1,5,3,0.5,0.5,0.1,0.1,0.3,Non-Solver,82
+A2APG8MSLJ6G2K,Traveler,69,Female,Right,College,a3,2,8,5,0.5,0.25,0.25,0.25,0.25,Non-Solver,82
+AB2GND2ZHOCOT,Traveler,29,Female,Right,Graduate Degree,a4,8,4,5,0.9,0.0,0.1,0.0,0.9,Non-Solver,82
+A3PDTUA1YLJTMC,Traveler,43,Male,Right,College,a2,6,6,7,0.65,0.0,0.65,0.25,0.1,Solver,82
+A2O2Y99RA9GFUJ,Traveler,64,Male,Right,College,a2,6,7,8,0.55,0.1,0.7,0.15,0.05,Solver,82
+AFM65NU0UXIGP,Traveler,31,Male,Right,High School/GED,a4,9,3,5,0.75,0.1,0.1,0.05,0.75,Non-Solver,82
+A1TLNLB9D87H6,Traveler,35,Female,Left,College,a2,1,10,10,0.15,0.25,0.25,0.25,0.25,Solver,82
+200600666,Traveler,31,Male,Left,Graduate Degree,a2,1,6,1,0.8,0.0,0.2,0.2,0.6,Solver,82
+A2EEP8D4MRUIRZ,Traveler,30,Male,Right,High School/GED,a2,3,6,6,0.0,0.05,0.35,0.05,0.55,Solver,82
+A3DHAM13WLSE9V,Traveler,23,Male,Right,High School/GED,a2,1,5,5,0.2,0.35,0.5,0.05,0.1,Solver,82
+A1SIUJEL2LS8UO,Traveler,31,Male,Right,College,a2,5,3,4,0.25,0.15,0.5,0.15,0.2,Solver,82
+AG9LWKO86TNHG,Traveler,48,Female,Left,College,a4,1,6,5,0.25,0.5,0.35,0.1,0.05,Non-Solver,82
+AHYTT3T8W9Y9Y,Traveler,37,Female,Right,College,a2,1,8,6,0.6,0.3,0.3,0.25,0.15,Solver,82
+A1ZT30BGR3266K,Traveler,35,Female,Right,College,a2,3,8,8,0.15,0.1,0.45,0.25,0.2,Solver,82
+A1NKBXOTZAI1YK,Traveler,33,Male,Right,College,a4,10,6,9,0.35,0.1,0.35,0.3,0.25,Non-Solver,82
+A2TTBCUOTC4Y24,Traveler,32,Male,Right,Graduate Degree,a1,1,5,5,0.35,0.25,0.2,0.3,0.25,Non-Solver,82
+A10249252O9I20MRSOBVF,Traveler,56,Female,Both hands are equally strong,High School/GED,a2,3,7,7,0.15,0.05,0.4,0.05,0.5,Solver,82
+A1UNBT94I82S8V,Traveler,25,Male,Left,College,a2,6,6,4,0.6,0.0,0.5,0.15,0.35,Solver,82
+A1V2H0UF94ATWY,Traveler,59,Male,Right,High School/GED,a4,5,7,7,0.3,0.1,0.3,0.25,0.35,Non-Solver,82
+A16HSMUJ7C7QA7,Traveler,65,Female,Left,High School/GED,a3,4,4,4,0.65,0.05,0.15,0.65,0.15,Non-Solver,82
+A30RAYNDOWQ61S,Traveler,57,Male,Right,High School/GED,a2,3,9,9,0.5,0.05,0.45,0.1,0.4,Solver,82
+AVJUIF9QHQRY8,Traveler,35,Female,Right,College,a2,3,4,6,0.55,0.25,0.15,0.1,0.5,Solver,82
+A3U21PUMQ6NGT2,Traveler,38,Female,Right,College,a1,4,6,6,0.35,0.25,0.35,0.1,0.3,Non-Solver,83
+A3J85WP15JFYW0,Traveler,31,Male,Right,College,a3,1,8,8,0.2,0.15,0.15,0.5,0.2,Non-Solver,83
+A2DWPP1KKAY0HG,Traveler,24,Male,Right,College,a2,5,6,6,0.6,0.1,0.4,0.1,0.4,Solver,83
+A2ZLII4MLBHWR4,Traveler,27,Male,Right,Graduate Degree,a4,10,2,1,0.9,0.0,0.1,0.1,0.8,Non-Solver,83
+1532532,Traveler,22,Male,Right,Graduate Degree,a2,9,4,6,0.6,0.15,0.6,0.1,0.15,Solver,83
+A18TCR555RWUZV,Traveler,34,Male,Right,College,a4,10,1,5,0.5,0.2,0.15,0.1,0.55,Non-Solver,83
+A1JVWOBGNA6KJT,Traveler,54,Male,Right,High School/GED,a1,7,3,6,0.3,0.3,0.15,0.2,0.35,Non-Solver,83
+A1O5IL3N3G3WIL,Traveler,45,Female,Right,College,a2,1,6,2,0.6,0.2,0.45,0.35,0.0,Solver,83
+A1ROEDVMTO9Y3X,Traveler,50,Female,Left,College,a4,8,8,8,0.45,0.5,0.0,0.25,0.25,Non-Solver,83
+A1RV2LERVS0A4H,Traveler,33,Female,Right,College,a4,5,5,6,0.5,0.0,0.5,0.0,0.5,Non-Solver,83
+A1WVNDH62P2UNZ,Traveler,26,Female,Right,High School/GED,a2,5,8,3,0.3,0.35,0.25,0.2,0.2,Solver,83
+A21SF3IKIZB0VN,Traveler,73,Female,Left,Graduate Degree,a4,8,4,2,0.9,0.05,0.05,0.35,0.55,Non-Solver,83
+A23BWWRR7J5XLS,Traveler,42,Male,Right,High School/GED,a4,8,7,7,0.65,0.05,0.25,0.05,0.65,Non-Solver,83
+A23KAJRDVCVGOE,Traveler,41,Male,Left,High School/GED,a2,4,8,7,0.25,0.2,0.6,0.1,0.1,Solver,83
+A2541C8MY0BYV3,Traveler,29,Male,Right,College,a3,3,9,10,0.1,0.1,0.35,0.45,0.1,Non-Solver,83
+A270HX8LH9LJ8W,Traveler,38,Male,Right,Graduate Degree,a4,5,4,6,0.25,0.25,0.1,0.4,0.25,Non-Solver,83
+A2B2HQHFBYLTXU,Traveler,36,Male,Right,Graduate Degree,a3,4,6,6,0.4,0.2,0.1,0.5,0.2,Non-Solver,83
+A2GNG7DWHQA6ZZ,Traveler,34,Male,Right,Graduate Degree,a4,7,3,4,0.8,0.05,0.4,0.05,0.5,Non-Solver,83
+A2VLTSW6CXIUMR,Traveler,44,Male,Right,High School/GED,a2,5,6,7,0.45,0.1,0.6,0.1,0.2,Solver,83
+A2YCMT5BPA0AG9,Traveler,50,Male,Right,College,a3,7,6,3,0.6,0.0,0.15,0.6,0.25,Non-Solver,83
+A2YWSSQEXXCRGK,Traveler,51,Female,Right,Graduate Degree,a4,6,5,5,0.7,0.05,0.1,0.15,0.7,Non-Solver,83
+A3ADVMXAYYYPD2,Traveler,42,Male,Right,Graduate Degree,a1,9,4,4,0.65,0.65,0.1,0.2,0.05,Non-Solver,83
+A3C8NUIBNZYMT2,Traveler,30,Male,Right,College,a4,5,8,6,0.4,0.55,0.2,0.15,0.1,Non-Solver,83
+A3LLOANE52R4LT,Traveler,35,Male,Right,College,a4,7,7,7,0.55,0.25,0.1,0.3,0.35,Non-Solver,83
+A3QLGMZOLGMBQ1,Traveler,51,Male,Right,Graduate Degree,a2,4,7,7,0.55,0.1,0.45,0.2,0.25,Solver,83
+A3R5OJR60C6004,Traveler,45,Male,Right,College,a2,7,6,7,0.45,0.25,0.45,0.1,0.2,Solver,83
+A3S1DILZ70PXC,Traveler,41,Female,Right,College,a2,5,7,6,0.25,0.0,0.5,0.2,0.3,Solver,83
+A3URLNXHLP4ARU,Traveler,47,Female,Right,Graduate Degree,a4,8,3,5,0.6,0.05,0.25,0.1,0.6,Non-Solver,83
+A4IH4CO046EV3,Traveler,40,Male,Right,College,a2,9,2,6,0.7,0.05,0.7,0.2,0.05,Solver,83
+AAQREZOK13OV7,Traveler,31,Male,Right,College,a2,7,7,6,0.4,0.2,0.4,0.1,0.3,Solver,83
+AFQ9W6WA8O9EH,Traveler,51,Female,Left,Graduate Degree,a4,8,5,9,0.3,0.5,0.3,0.1,0.1,Non-Solver,83
+AN9MVFWRCF2OP,Traveler,29,Male,Right,College,a2,6,7,6,0.3,0.2,0.5,0.1,0.2,Solver,83
+AY2U544TCVPMQ,Traveler,37,Male,Right,Graduate Degree,a3,5,2,8,0.2,0.2,0.45,0.2,0.15,Non-Solver,83
+AYW62R027PUT1,Traveler,44,Male,Right,College,a4,5,6,6,0.25,0.2,0.3,0.35,0.15,Non-Solver,83

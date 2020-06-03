@@ -1,0 +1,122 @@
+Worker ID,Problem,Age,Gender,Education,Answer,Confidence,Subjective Difficulty,Objective Difficutly,Psolve,Picture A,Picture B,Picture C,Picture D,Picture E,Picture F,Class,group_number
+A10249252O9I20MRSO,RH_4,56,Female,High School/GED,Picture B,5,9,9,20%,15%,20%,15%,15%,20%,15%,Non-Solver,94
+A110KENBXU7SUJ,RH_4,47,Male,High School/GED,Picture C,7,7,8,40%,15%,12%,40%,10%,13%,10%,Non-Solver,94
+A12ASB8854TT4,RH_4,33,Male,High School/GED,Picture E,8,7,6,26%,5%,5%,30%,30%,20%,10%,Non-Solver,94
+A142G97TKHM9BL,RH_4,47,Female,Graduate Degree,Picture A,8,2,2,85%,65%,5%,10%,10%,5%,5%,Non-Solver,94
+A1BPBUD67XIJXM,RH_4,31,Female,High School/GED,Picture A,7,10,8,30%,50%,10%,10%,10%,10%,10%,Non-Solver,94
+A1DIKLERUZ5WS0,RH_4,29,Male,Graduate Degree,Picture E,8,7,7,90%,10%,20%,20%,10%,30%,10%,Non-Solver,94
+A1F9KLZGHE9DTA,RH_4,45,Male,High School/GED,Picture D,9,4,5,75%,5%,5%,5%,75%,5%,5%,Solver,94
+A1FDT9TI1EUTUT,RH_4,47,Female,Graduate Degree,Picture C,8,7,5,85%,10%,10%,50%,10%,10%,10%,Non-Solver,94
+A1K2A46I18MO46,RH_4,35,Male,Graduate Degree,Picture E,7,4,4,70%,10%,10%,30%,5%,40%,5%,Non-Solver,94
+A1OUUZSD5DD4ZN,RH_4,47,Female,College,Picture C,10,1,1,100%,0%,0%,100%,0%,0%,0%,Non-Solver,94
+A1P37ODJ8MY8UK,RH_4,22,Male,College,Picture D,10,3,4,80%,0%,0%,20%,80%,0%,0%,Solver,94
+A1YT6E0W0SDP0R,RH_4,43,Male,High School/GED,Picture D,6,5,5,60%,5%,5%,5%,75%,5%,5%,Solver,94
+A23KAJRDVCVGOE,RH_4,41,Male,High School/GED,Picture E,8,9,10,40%,30%,20%,20%,20%,0%,10%,Non-Solver,94
+A2541C8MY0BYV3,RH_4,29,Male,College,Picture E,1,10,10,20%,10%,20%,20%,30%,10%,10%,Non-Solver,94
+A2LPDO04W2P4OW,RH_4,28,Female,College,Picture D,10,7,8,85%,10%,20%,25%,10%,20%,15%,Solver,94
+A2Y2AZ8DBFU47Q,RH_4,26,Female,College,Picture D,8,3,4,60%,10%,20%,10%,40%,10%,10%,Solver,94
+A30KYQGABO7JER,RH_4,35,Female,College,Picture D,8,5,8,40%,10%,10%,10%,40%,10%,20%,Solver,94
+A37R0JYAB3QEX9,RH_4,47,Male,High School/GED,Picture D,4,7,7,40%,5%,5%,30%,25%,10%,25%,Solver,94
+A3ABAYPIXFEJ7O,RH_4,51,Male,College,Picture F,10,4,7,40%,0%,0%,0%,20%,20%,60%,Non-Solver,94
+A3VR4B1I5K2K86,RH_4,47,Female,Graduate Degree,Picture C,7,8,7,85%,20%,15%,30%,15%,10%,10%,Non-Solver,94
+A7D8NYR8B92VK,RH_4,45,Male,Graduate Degree,Picture D,5,5,5,60%,10%,20%,10%,50%,5%,5%,Solver,94
+AD175NX7MG25W,RH_4,39,Male,Graduate Degree,Picture B,10,9,8,90%,10%,50%,10%,10%,10%,10%,Non-Solver,94
+AJFO6Q9JBD48Q,RH_4,30,Male,Graduate Degree,Picture A,9,5,4,100%,50%,10%,10%,10%,10%,10%,Non-Solver,94
+APS21FRK7TBKW,RH_4,47,Female,College,Picture C,5,5,5,50%,20%,20%,20%,20%,20%,0%,Non-Solver,94
+AVBRJBJONL47I,RH_4,45,Female,Graduate Degree,Picture B,5,8,6,70%,10%,40%,20%,10%,10%,10%,Non-Solver,94
+AXJ1PE87PD0KK,RH_4,30,Female,Graduate Degree,Picture D,8,6,6,50%,0%,0%,25%,50%,20%,5%,Solver,94
+A10JXOU89D5RXR,RH_4,58,Female,College,Picture F,9,2,3,80%,0%,0%,30%,0%,0%,70%,Non-Solver,94
+A147F5PJTHOB8A,RH_4,43,Male,High School/GED,Picture E,2,10,10,10%,20%,10%,30%,10%,10%,20%,Non-Solver,94
+A15J42M6EC7Y1K,RH_4,30,Male,College,Picture D,10,5,7,50%,5%,0%,30%,55%,5%,5%,Solver,94
+A1FB5AD91CD1W0,RH_4,27,Female,Graduate Degree,Picture D,10,7,9,50%,20%,20%,10%,50%,0%,0%,Solver,94
+A1FKUZN5M2FSOP,RH_4,55,Male,College,Picture F,6,6,4,3%,20%,15%,20%,15%,20%,10%,Non-Solver,95
+A1JJNB108BPMRN,RH_4,59,Female,High School/GED,Picture F,10,2,2,80%,10%,10%,10%,10%,10%,50%,Non-Solver,95
+A1QAWECOJYKVO4,RH_4,38,Female,College,Picture D,10,7,9,20%,25%,10%,25%,10%,10%,20%,Solver,95
+A1ROEDVMTO9Y3X,RH_4,50,Female,High School/GED,Picture D,5,6,5,60%,20%,20%,20%,20%,20%,0%,Solver,95
+A1TBRQBLEJI3O5,RH_4,50,Female,High School/GED,Picture E,10,3,4,70%,5%,5%,5%,5%,75%,5%,Non-Solver,95
+A1U4O7W4F3TMS9,RH_4,45,Male,Graduate Degree,Picture E,10,10,10,50%,25%,30%,15%,10%,10%,10%,Non-Solver,95
+A1XXNB42VP10RB,RH_4,22,Male,College,Picture D,10,6,7,60%,0%,10%,10%,60%,10%,10%,Solver,95
+A230VUDYOCRZ4N,RH_4,55,Female,College,Picture F,1,10,10,20%,15%,20%,10%,10%,15%,30%,Non-Solver,95
+A272X64FOZFYLB,RH_4,26,Male,College,Picture F,5,7,8,25%,20%,10%,10%,25%,10%,25%,Non-Solver,95
+A2BNOEYZ3VRW2R,RH_4,68,Female,College,Picture E,3,9,9,17%,5%,6%,2%,9%,48%,30%,Non-Solver,95
+A2FGKKWP33DFWS,RH_4,51,Male,College,Picture D,7,3,3,60%,10%,10%,10%,50%,10%,10%,Solver,95
+A2SR85I8JMO1ZZ,RH_4,27,Female,College,Picture C,7,3,2,50%,2%,5%,50%,8%,15%,20%,Non-Solver,95
+A2V27A9GZA1NR2,RH_4,38,Male,College,Picture D,6,5,7,60%,10%,10%,10%,50%,10%,10%,Solver,95
+A37K1ICCYT6EU1,RH_4,42,Female,Graduate Degree,Picture C,7,8,8,30%,10%,10%,30%,5%,20%,25%,Non-Solver,95
+A3DS5B06ZCD3E3,RH_4,44,Male,High School/GED,Picture F,8,5,7,60%,5%,5%,5%,5%,30%,50%,Non-Solver,95
+A3L8LSM7V7KX3T,RH_4,39,Male,High School/GED,Picture D,10,7,5,85%,3%,3%,3%,85%,3%,3%,Solver,95
+A3NAGZAFHCJ6V,RH_4,29,Male,Graduate Degree,Picture C,1,9,8,1%,20%,10%,20%,20%,20%,10%,Non-Solver,95
+A3SZF91DCOQPW3,RH_4,36,Female,College,Picture A,7,7,8,30%,20%,20%,20%,10%,20%,10%,Non-Solver,95
+A3UP4PP3Z,RH_4,31,Male,Graduate Degree,Picture C,9,1,1,50%,15%,15%,15%,15%,20%,20%,Non-Solver,95
+A4IH4CO046EV3,RH_4,40,Male,College,Picture D,4,6,7,60%,8%,8%,8%,60%,8%,8%,Solver,95
+AJM4334V07JDQ,RH_4,41,Male,College,Picture F,7,6,5,45%,10%,20%,0%,10%,30%,30%,Non-Solver,95
+AJXIC6Q5EM76P,RH_4,61,Male,High School/GED,Picture D,10,5,7,40%,15%,5%,25%,30%,15%,10%,Solver,95
+AQV468FB908WI,RH_4,35,Female,College,Picture D,5,10,9,20%,10%,30%,10%,20%,20%,10%,Solver,95
+A11BSFO4LMHPXQ,RH_4,42,Female,College,Picture D,6,8,9,50%,10%,10%,20%,40%,10%,10%,Solver,95
+A19L8SNH73AX1Z,RH_4,56,Female,High School/GED,Picture D,1,9,8,20%,20%,15%,20%,25%,10%,10%,Solver,95
+A1BIJGB7XA0GME,RH_4,55,Female,College,Picture F,8,9,6,70%,10%,20%,15%,15%,20%,20%,Non-Solver,95
+A1D0VH7ZS1C5H0,RH_4,45,Male,Graduate Degree,Picture D,9,2,5,60%,40%,0%,0%,50%,5%,5%,Solver,95
+A1KBQ30L5IJCAI,RH_4,52,Male,Graduate Degree,Picture F,9,10,6,40%,30%,20%,15%,10%,10%,15%,Non-Solver,95
+A1KS9LITOVPAT8,RH_4,34,Male,High School/GED,Picture F,10,4,7,75%,0%,0%,30%,0%,0%,70%,Non-Solver,95
+A1P6OXEJ86HQRM,RH_4,37,Male,College,Picture E,3,8,8,30%,10%,20%,20%,10%,30%,10%,Non-Solver,95
+A1SHLWKA0UH1IS,RH_4,55,Female,College,Picture F,8,4,5,65%,8%,8%,9%,5%,5%,65%,Non-Solver,96
+A1ZI4VU6650Q8B,RH_4,57,Male,College,Picture D,10,6,7,40%,10%,10%,10%,50%,10%,10%,Solver,96
+A21TM2CB9HS7IM,RH_4,35,Female,Graduate Degree,Picture F,7,7,8,20%,0%,20%,10%,20%,5%,45%,Non-Solver,96
+A28J7H4TH29DC3,RH_4,49,Female,College,Picture D,7,7,8,45%,5%,5%,30%,50%,5%,5%,Solver,96
+A2DF8W7SDWLURD,RH_4,45,Female,High School/GED,Picture C,4,8,5,55%,0%,25%,55%,10%,5%,5%,Non-Solver,96
+A2OVX9UW5WANQE,RH_4,46,Female,College,Picture B,1,10,9,20%,20%,20%,20%,20%,10%,10%,Non-Solver,96
+A2P76QVLSGJR45,RH_4,41,Female,Graduate Degree,Picture E,7,7,7,65%,5%,10%,10%,20%,30%,25%,Non-Solver,96
+A2YTO4EY3MNYAJ,RH_4,46,Female,College,Picture A,9,6,7,67%,12%,45%,15%,11%,10%,7%,Non-Solver,96
+A2ZK5I1MDWNPRU,RH_4,26,Female,College,Picture B,10,10,10,10%,0%,70%,0%,0%,20%,10%,Non-Solver,96
+A3D2U4QF7821ZW,RH_4,25,Female,Graduate Degree,Picture D,10,3,4,80%,10%,0%,30%,50%,0%,10%,Solver,96
+A3E8NUUS90EWXW,RH_4,25,Male,Graduate Degree,Picture B,6,8,9,70%,30%,10%,20%,20%,10%,10%,Non-Solver,96
+A3N1AJWCS8MPKH,RH_4,27,Female,Graduate Degree,Picture A,7,5,6,75%,80%,5%,5%,5%,0%,5%,Non-Solver,96
+A3R5OJR60C6004,RH_4,45,Male,College,Picture B,6,6,6,40%,10%,40%,25%,15%,5%,5%,Non-Solver,96
+A3SL5QRF7MX2P1,RH_4,40,Female,Graduate Degree,Picture E,4,10,8,20%,10%,10%,20%,20%,20%,20%,Non-Solver,96
+A8028AFBBS29G,RH_4,65,Female,High School/GED,Picture D,8,5,4,70%,0%,10%,20%,70%,0%,0%,Solver,96
+A9LSEP71DNP4O,RH_4,34,Male,College,Picture D,10,5,5,60%,0%,10%,10%,60%,10%,10%,Solver,96
+AHEVIE2NY1W1Z,RH_4,30,Female,College,Picture B,5,7,5,45%,20%,20%,20%,20%,10%,10%,Non-Solver,96
+ASL7RAI80NUN3,RH_4,34,Female,College,Picture D,6,8,9,5%,20%,20%,20%,5%,20%,15%,Solver,96
+A11G2VFRF4FMPX,RH_4,22,Female,College,Picture C,4,8,8,15%,10%,5%,50%,25%,5%,5%,Non-Solver,96
+A1C7XI68SED8JE,RH_4,37,Female,College,Picture B,3,7,7,20%,15%,15%,20%,20%,15%,15%,Non-Solver,96
+A1CSCD4EOGH7U6,RH_4,30,Male,Graduate Degree,Picture A,7,5,4,6%,50%,10%,10%,10%,10%,10%,Non-Solver,96
+A1DS5O8MSI3Z0,RH_4,43,Male,College,Picture A,6,7,8,3%,25%,5%,10%,20%,20%,20%,Non-Solver,96
+A1O8D22H0D03W1,RH_4,28,Male,Graduate Degree,Picture D,8,10,10,80%,0%,0%,35%,45%,10%,10%,Solver,96
+A1P2RQ166VS5BT,RH_4,62,Female,College,Picture D,2,9,8,70%,20%,20%,20%,20%,20%,0%,Solver,96
+A1QKIA8XRNEXIG ,RH_4,37,Female,High School/GED,Picture B,2,9,8,50%,15%,25%,15%,15%,15%,15%,Non-Solver,96
+A1TLNLB9D87H6,RH_4,36,Female,College,Picture C,1,10,10,35%,8%,30%,12%,5%,35%,10%,Non-Solver,96
+A1WNYE5MNHTKI3,RH_4,32,Female,Graduate Degree,Picture B,9,2,2,90%,10%,50%,10%,10%,10%,10%,Non-Solver,96
+A22BBAU24IEHPL,RH_4,42,Male,College,Picture C,9,8,9,90%,30%,20%,10%,10%,10%,20%,Non-Solver,96
+A266LNUJOVKCDS,RH_4,34,Female,High School/GED,Picture B,1,6,9,50%,0%,0%,100%,0%,0%,0%,Non-Solver,96
+A2G9QDQGHYWSYV,RH_4,27,Female,College,Picture A,10,9,7,8%,10%,10%,20%,20%,20%,20%,Non-Solver,96
+A2ITJNPW1LDUN7,RH_4,25,Male,College,Picture D,1,9,9,5%,12%,20%,10%,15%,23%,20%,Solver,97
+A2JP2AKYT7CMS8,RH_4,48,Female,Graduate Degree,Picture D,8,10,10,10%,20%,20%,20%,10%,15%,15%,Solver,97
+A2QBFXY9UQMJTT,RH_4,38,Male,College,Picture D,10,5,5,80%,4%,4%,4%,80%,4%,4%,Solver,97
+A3285GZE6R7AIA,RH_4,40,Male,Graduate Degree,Picture D,8,5,5,50%,10%,20%,20%,40%,0%,10%,Solver,97
+A3LNM77PCQOTHJ,RH_4,35,Male,High School/GED,Picture D,7,5,5,7%,0%,0%,0%,70%,30%,0%,Solver,97
+A3PIJN4LHKKNPH,RH_4,33,Female,College,Picture C,5,9,10,10%,0%,0%,25%,25%,25%,25%,Non-Solver,97
+A3PIUNG7VXQWTR,RH_4,41,Male,Graduate Degree,Picture E,7,6,7,35%,15%,10%,30%,20%,10%,15%,Non-Solver,97
+A3PYD7EU2WFST6,RH_4,31,Male,Graduate Degree,Picture D,9,7,7,55%,15%,10%,5%,45%,15%,10%,Solver,97
+ACWVHNV57A8IJ,RH_4,28,Male,Graduate Degree,Picture D,10,7,6,50%,0%,0%,20%,40%,20%,20%,Solver,97
+AN9MVFWRCF2OP,RH_4,29,Male,College,Picture B,6,7,7,50%,10%,50%,10%,10%,10%,10%,Non-Solver,97
+AQ9OSZ8KP2AJZ,RH_4,32,Male,Graduate Degree,Picture E,8,5,7,80%,20%,20%,20%,10%,10%,20%,Non-Solver,97
+AR0LAU6HMO8R1,RH_4,61,Female,Graduate Degree,Picture A,10,10,10,10%,20%,16%,16%,16%,16%,16%,Non-Solver,97
+AR1IWBDA7MC86,RH_4,33,Male,College,Picture D,10,1,2,90%,0%,0%,10%,90%,0%,0%,Solver,97
+AYW62R027PUT1,RH_4,45,Male,College,Picture D,6,5,5,50%,10%,10%,10%,50%,10%,10%,Solver,97
+A1A8MBDIAQT43U,RH_4,29,Male,Graduate Degree,Picture D,10,2,4,75%,0%,0%,0%,80%,10%,10%,Solver,97
+A1C5T9VNTCXU44,RH_4,31,Female,College,Picture D,7,7,6,30%,15%,15%,15%,30%,15%,10%,Solver,97
+A1JVWOBGNA6KJT,RH_4,54,Male,High School/GED,Picture E,5,7,7,40%,1%,1%,0%,25%,55%,18%,Non-Solver,97
+A1PEDOFX00RHUM,RH_4,26,Male,College,Picture C,9,9,7,50%,10%,10%,50%,10%,10%,10%,Non-Solver,97
+A1RV2LERVS0A4H,RH_4,33,Female,College,Picture D,1,10,10,20%,20%,20%,20%,20%,10%,10%,Solver,97
+A213CX3NWZN0Z,RH_4,30,Female,College,Picture C,6,5,6,7%,20%,10%,40%,10%,10%,10%,Non-Solver,97
+A28HXF0W09319G ,RH_4,50,Male,Graduate Degree,Picture A,7,2,3,50%,20%,20%,20%,20%,20%,0%,Non-Solver,97
+A29AF16RLMI0ES,RH_4,69,Male,Graduate Degree,Picture B,1,10,10,10%,10%,10%,20%,40%,10%,10%,Non-Solver,97
+A2C84POENS2UNY,RH_4,39,Female,Graduate Degree,Picture F,1,10,10,15%,15%,15%,20%,15%,15%,20%,Non-Solver,97
+A2EI9E6EBZEZO1,RH_4,38,Female,College,Picture F,5,5,5,50%,10%,10%,20%,20%,20%,20%,Non-Solver,97
+A2J51BI7XS5ZYU,RH_4,41,Male,College,Picture D,10,3,7,5%,10%,5%,15%,50%,10%,10%,Solver,97
+A2MOC4PTJYY15B,RH_4,28,Male,High School/GED,Picture F,5,5,7,5%,10%,25%,25%,10%,10%,20%,Non-Solver,97
+A365SN61J4UNGR,RH_4,33,Male,High School/GED,Picture F,3,8,8,20%,10%,15%,30%,10%,15%,20%,Non-Solver,97
+A3D2GO0IFRFN6R,RH_4,35,Female,College,Picture D,8,3,3,50%,25%,0%,0%,50%,0%,25%,Solver,97
+ACJ6NSCIWMUZI,RH_4,52,Male,College,Picture C,6,4,5,50%,10%,10%,20%,20%,20%,20%,Non-Solver,97
+AMYURTQIMAC8T,RH_4,31,Female,Graduate Degree,Picture A,8,8,8,50%,100%,0%,0%,0%,0%,0%,Non-Solver,97
+ATP2BJPDK4K2B,RH_4,29,Female,High School/GED,Picture C,1,10,10,10%,10%,10%,30%,20%,15%,15%,Non-Solver,97

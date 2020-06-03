@@ -1,0 +1,95 @@
+Worker ID,Problem,Age,Gender,Strong hand,Education,Answer,Confidence,Subjective Difficulty,Objective Difficutly,Psolve,1 mile,2 miles,3 miles,4 miles,5 miles,6 miles,7 miles,8 miles,9 miles,10 miles,11 miles,12 miles,Class,group_number
+18,ThreeRobots,17,Male,Right,High School/GED,9 miles,3,7,8,10%,0%,0%,10%,5%,0%,35%,0%,15%,10%,5%,0%,20%,Non-Solver,7
+17,ThreeRobots,29,Male,Right,College,10 miles,3,9,9,15%,0%,0%,0%,10%,20%,15%,5%,15%,10%,20%,0%,5%,Solver,7
+16,ThreeRobots,22,Female,Right,College,6 miles,1,7,7,40%,5%,5%,10%,5%,5%,30%,5%,5%,5%,5%,5%,15%,Non-Solver,7
+15,ThreeRobots,25,Male,Right,Graduate Degree,7 miles,1,9,8,5%,5%,5%,10%,10%,5%,5%,15%,15%,5%,5%,15%,5%,Non-Solver,7
+14,ThreeRobots,26,Male,Right,College,10 miles,9,2,3,70%,0%,0%,0%,0%,0%,0%,0%,5%,10%,70%,10%,5%,Solver,7
+13,ThreeRobots,27,Male,Right,Graduate Degree,10 miles,10,2,5,85%,0%,0%,0%,0%,5%,0%,0%,0%,5%,85%,5%,0%,Solver,7
+12,ThreeRobots,25,Female,Right,Graduate Degree,10 miles,10,2,4,90%,0%,0%,0%,0%,0%,0%,0%,0%,10%,80%,10%,0%,Solver,7
+11,ThreeRobots,28,Male,Right,Graduate Degree,10 miles,6,3,6,80%,0%,0%,0%,0%,0%,0%,0%,85%,5%,5%,5%,0%,Solver,7
+10,ThreeRobots,29,Male,Right,High School/GED,10 miles,3,6,7,30%,0%,0%,5%,5%,5%,20%,10%,10%,10%,30%,5%,0%,Solver,7
+9,ThreeRobots,36,Male,Right,Graduate Degree,10 miles,10,1,5,50%,0%,0%,0%,0%,0%,10%,10%,10%,10%,50%,5%,5%,Solver,7
+8,ThreeRobots,26,Female,Right,College,7 miles,1,9,9,20%,10%,10%,10%,10%,10%,5%,5%,10%,10%,10%,5%,5%,Non-Solver,7
+7,ThreeRobots,35,Female,Left,Graduate Degree,10 miles,10,8,9,25%,0%,0%,0%,5%,10%,10%,5%,10%,5%,40%,5%,10%,Solver,7
+6,ThreeRobots,60,Male,Right,Graduate Degree,10 miles,10,2,5,60%,0%,0%,0%,0%,25%,15%,0%,0%,0%,60%,0%,0%,Solver,7
+5,ThreeRobots,39,Female,Right,Graduate Degree,10 miles,4,5,8,60%,0%,0%,10%,0%,10%,10%,0%,0%,5%,60%,5%,0%,Solver,7
+4,ThreeRobots,62,Female,Right,Graduate Degree,10 miles,10,2,6,80%,0%,0%,0%,0%,20%,0%,0%,0%,0%,80%,0%,0%,Solver,7
+3,ThreeRobots,29,Female,Right,Graduate Degree,7 miles,1,10,8,35%,0%,10%,10%,10%,10%,15%,0%,5%,10%,10%,10%,10%,Non-Solver,7
+2,ThreeRobots,28,Female,Right,Graduate Degree,6 miles,1,10,5,50%,5%,5%,10%,10%,10%,10%,10%,10%,10%,10%,5%,5%,Non-Solver,7
+1,ThreeRobots,33,Male,Right,Graduate Degree,10 miles,10,2,5,45%,0%,0%,0%,0%,0%,10%,0%,10%,5%,45%,15%,15%,Solver,7
+A2WHC086WNUQNB,ThreeRobots,53,Female,Right,College,5 miles,1,8,5,70%,10%,10%,20%,10%,20%,10%,5%,5%,5%,5%,0%,0%,Non-Solver,7
+AMZV70TID53WY,ThreeRobots,26,Male,Right,College,7 miles,1,7,8,30%,10%,10%,0%,15%,0%,10%,0%,15%,0%,20%,0%,20%,Non-Solver,7
+A147F5PJTHOB8A,ThreeRobots,42,Male,Right,High School/GED,3 miles,1,10,8,10%,15%,20%,10%,20%,15%,5%,5%,5%,5%,0%,0%,0%,Non-Solver,7
+A1NZFJHVJ9CNTO,ThreeRobots,29,Male,Right,High School/GED,3 miles,7,5,5,70%,0%,0%,75%,0%,0%,0%,0%,0%,10%,5%,10%,0%,Non-Solver,7
+AO46MWFKLP3ZN,ThreeRobots,30,Male,Right,Graduate Degree,6 miles,5,1,4,40%,10%,10%,10%,5%,5%,10%,10%,10%,5%,5%,10%,10%,Non-Solver,7
+A39YK8LJ8O37OY,ThreeRobots,33,Female,Right,Graduate Degree,4 miles,2,1,1,10%,5%,5%,5%,5%,5%,10%,10%,15%,15%,15%,5%,5%,Non-Solver,7
+AKF2CET7H6C5X,ThreeRobots,32,Male,Right,Graduate Degree,6 miles,5,5,6,75%,5%,5%,5%,5%,5%,15%,10%,15%,10%,10%,10%,5%,Non-Solver,7
+A53WVYONK6B9Q,ThreeRobots,26,Male,Right,High School/GED,4 miles,4,5,3,5%,10%,10%,5%,10%,5%,25%,5%,5%,10%,10%,5%,0%,Non-Solver,7
+AMELYCC59JKB0,ThreeRobots,37,Female,Right,College,10 miles,1,9,8,30%,10%,10%,15%,10%,5%,5%,5%,10%,10%,10%,5%,5%,Solver,7
+A8FCVU1TTDVL0,ThreeRobots,40,Female,Right,College,5 miles,3,7,8,20%,0%,0%,0%,0%,50%,0%,0%,0%,0%,0%,0%,50%,Non-Solver,7
+A198MSVO1VTAT5,ThreeRobots,60,Female,Right,College,10 miles,8,1,1,30%,10%,10%,10%,5%,0%,0%,5%,5%,5%,40%,5%,5%,Solver,7
+A2QUQ0S2F6K3QJ,ThreeRobots,63,Female,Right,High School/GED,5 miles,1,8,7,20%,0%,0%,15%,10%,35%,10%,10%,10%,5%,5%,0%,0%,Non-Solver,7
+A2EI9E6EBZEZO1,ThreeRobots,38,Female,Right,College,6 miles,1,10,10,10%,5%,5%,5%,15%,20%,35%,5%,5%,5%,0%,0%,0%,Non-Solver,8
+APS21FRK7TBKW,ThreeRobots,47,Female,Right,College,2 miles,1,4,5,15%,10%,10%,5%,10%,10%,10%,10%,10%,5%,5%,5%,10%,Non-Solver,8
+A2IQ0QCTQ3KWLT,ThreeRobots,48,Female,Right,High School/GED,3 miles,1,8,7,60%,100%,0%,0%,0%,0%,0%,0%,0%,0%,0%,0%,0%,Non-Solver,8
+A2MWAXV1YRK5GH,ThreeRobots,69,Female,Left,Graduate Degree,3 miles,1,10,10,15%,10%,10%,10%,10%,10%,10%,5%,10%,5%,10%,10%,0%,Non-Solver,8
+A3HOBJ4PJUOCUN,ThreeRobots,59,Female,Right,High School/GED,2 miles,1,9,7,35%,10%,10%,30%,15%,10%,10%,10%,5%,0%,0%,0%,0%,Non-Solver,8
+A1DS0M9DLHAISJ,ThreeRobots,38,Female,Right,College,5 miles,1,10,10,50%,0%,0%,0%,50%,50%,0%,0%,0%,0%,0%,0%,0%,Non-Solver,8
+AAASQIW3J32OL,ThreeRobots,58,Female,Right,College,8 miles,3,8,9,20%,0%,0%,5%,10%,10%,15%,15%,15%,5%,10%,10%,5%,Non-Solver,8
+yijmma,ThreeRobots,33,Male,Right,College,2 miles,1,8,8,15%,10%,15%,15%,10%,5%,5%,5%,10%,10%,15%,0%,0%,Non-Solver,8
+A1M7G9KKXWH76A,ThreeRobots,48,Male,Right,College,3 miles,1,8,4,20%,10%,20%,20%,10%,10%,30%,0%,0%,0%,0%,0%,0%,Non-Solver,8
+A2APG8MSLJ6G2K,ThreeRobots,69,Female,Right,College,10 miles,6,5,5,75%,0%,0%,0%,0%,0%,0%,5%,5%,5%,75%,5%,5%,Solver,8
+AB2GND2ZHOCOT,ThreeRobots,29,Female,Right,Graduate Degree,10 miles,3,9,9,20%,0%,0%,0%,0%,0%,0%,0%,20%,20%,20%,20%,20%,Solver,8
+A3PDTUA1YLJTMC,ThreeRobots,43,Male,Right,College,9 miles,2,9,9,40%,0%,0%,0%,0%,0%,25%,0%,20%,25%,10%,15%,5%,Non-Solver,8
+A2O2Y99RA9GFUJ,ThreeRobots,64,Male,Right,College,5 miles,3,9,9,30%,0%,0%,20%,30%,35%,15%,0%,0%,0%,0%,0%,0%,Non-Solver,8
+AFM65NU0UXIGP,ThreeRobots,31,Male,Right,High School/GED,10 miles,9,3,3,65%,0%,0%,0%,0%,20%,10%,0%,0%,0%,70%,0%,0%,Solver,8
+A1TLNLB9D87H6,ThreeRobots,35,Female,Left,College,8 miles,1,10,10,5%,10%,5%,5%,5%,10%,10%,5%,5%,5%,20%,10%,10%,Non-Solver,8
+200600666,ThreeRobots,31,Male,Left,Graduate Degree,5 miles,1,6,4,30%,10%,0%,0%,15%,15%,0%,0%,0%,0%,0%,0%,60%,Non-Solver,8
+A2EEP8D4MRUIRZ,ThreeRobots,30,Male,Right,High School/GED,5 miles,10,4,2,90%,0%,0%,0%,0%,100%,0%,0%,0%,0%,0%,0%,0%,Non-Solver,8
+A3DHAM13WLSE9V,ThreeRobots,23,Male,Right,High School/GED,5 miles,1,10,10,5%,10%,10%,10%,10%,5%,5%,5%,5%,10%,10%,10%,10%,Non-Solver,8
+A1SIUJEL2LS8UO,ThreeRobots,31,Male,Right,College,3 miles,3,7,7,30%,10%,10%,30%,20%,10%,5%,5%,5%,5%,0%,0%,0%,Non-Solver,8
+AG9LWKO86TNHG,ThreeRobots,48,Female,Left,College,2 miles,2,10,10,15%,10%,5%,5%,5%,5%,10%,10%,5%,10%,10%,15%,10%,Non-Solver,8
+AHYTT3T8W9Y9Y,ThreeRobots,37,Female,Right,College,1 mile,1,10,7,25%,20%,35%,20%,20%,5%,0%,0%,0%,0%,0%,0%,0%,Non-Solver,8
+A1ZT30BGR3266K,ThreeRobots,35,Female,Right,College,3 miles,2,9,9,15%,10%,10%,10%,10%,10%,10%,10%,5%,5%,10%,5%,5%,Non-Solver,8
+A1NKBXOTZAI1YK,ThreeRobots,33,Male,Right,College,3 miles,5,7,8,20%,0%,5%,40%,35%,20%,0%,0%,0%,0%,0%,0%,0%,Non-Solver,8
+A2TTBCUOTC4Y24,ThreeRobots,32,Male,Right,Graduate Degree,6 miles,4,5,7,30%,5%,5%,10%,15%,10%,20%,10%,5%,5%,5%,5%,5%,Non-Solver,8
+A10249252O9I20MRSOBVF,ThreeRobots,56,Female,Both hands are equally strong,High School/GED,6 miles,1,10,9,10%,5%,5%,5%,5%,5%,25%,5%,5%,10%,10%,10%,10%,Non-Solver,8
+A1UNBT94I82S8V,ThreeRobots,25,Male,Left,College,3 miles,5,7,7,25%,10%,10%,30%,0%,20%,10%,0%,0%,15%,5%,0%,0%,Non-Solver,8
+A1V2H0UF94ATWY,ThreeRobots,59,Male,Right,High School/GED,10 miles,4,8,8,50%,0%,0%,0%,20%,0%,10%,0%,20%,0%,50%,0%,0%,Solver,8
+A16HSMUJ7C7QA7,ThreeRobots,65,Female,Left,High School/GED,2 miles,3,7,7,30%,0%,55%,35%,10%,0%,0%,0%,0%,0%,0%,0%,0%,Non-Solver,8
+A30RAYNDOWQ61S,ThreeRobots,57,Male,Right,High School/GED,6 miles,2,10,10,10%,10%,10%,10%,10%,10%,10%,10%,10%,5%,5%,5%,5%,Non-Solver,8
+AVJUIF9QHQRY8,ThreeRobots,35,Female,Right,College,3 miles,1,6,6,35%,20%,15%,25%,15%,15%,10%,0%,0%,0%,0%,0%,0%,Non-Solver,8
+A3U21PUMQ6NGT2,ThreeRobots,38,Female,Right,College,10 miles,3,8,7,40%,5%,10%,3%,10%,20%,2%,0%,20%,0%,25%,0%,5%,Solver,9
+A3J85WP15JFYW0,ThreeRobots,31,Male,Right,College,9 miles,4,8,8,30%,0%,0%,0%,0%,5%,5%,5%,10%,30%,30%,10%,5%,Non-Solver,9
+A2DWPP1KKAY0HG,ThreeRobots,24,Male,Right,College,10 miles,10,7,7,60%,0%,0%,0%,0%,30%,0%,0%,0%,0%,65%,0%,5%,Solver,9
+A2ZLII4MLBHWR4,ThreeRobots,27,Male,Right,Graduate Degree,5 miles,1,7,3,50%,0%,0%,40%,0%,50%,0%,10%,0%,0%,0%,0%,0%,Non-Solver,9
+1532532,ThreeRobots,22,Male,Right,Graduate Degree,1 mile,6,4,6,60%,60%,10%,5%,10%,5%,10%,0%,0%,0%,0%,0%,0%,Non-Solver,9
+A18TCR555RWUZV,ThreeRobots,34,Male,Right,College,4 miles,1,10,9,20%,10%,10%,10%,10%,10%,10%,10%,5%,5%,10%,5%,5%,Non-Solver,9
+A1JVWOBGNA6KJT,ThreeRobots,54,Male,Right,High School/GED,6 miles,1,5,3,15%,15%,10%,10%,5%,5%,5%,5%,5%,5%,5%,10%,15%,Non-Solver,9
+A1O5IL3N3G3WIL,ThreeRobots,45,Female,Right,College,3 miles,1,10,10,15%,10%,10%,10%,20%,10%,5%,5%,5%,5%,5%,5%,10%,Non-Solver,9
+A1ROEDVMTO9Y3X,ThreeRobots,50,Female,Left,College,5 miles,3,9,9,20%,15%,15%,15%,15%,0%,10%,15%,10%,0%,0%,0%,0%,Non-Solver,9
+A1RV2LERVS0A4H,ThreeRobots,33,Female,Right,College,10 miles,10,5,6,60%,0%,0%,0%,0%,40%,0%,0%,0%,0%,60%,0%,0%,Solver,9
+A1WVNDH62P2UNZ,ThreeRobots,26,Female,Right,High School/GED,10 miles,1,10,4,50%,0%,0%,0%,0%,0%,45%,5%,17%,6%,19%,8%,0%,Solver,9
+A21SF3IKIZB0VN,ThreeRobots,73,Female,Left,Graduate Degree,7 miles,2,10,8,10%,0%,0%,0%,0%,5%,10%,30%,20%,20%,10%,5%,0%,Non-Solver,9
+A23BWWRR7J5XLS,ThreeRobots,42,Male,Right,High School/GED,3 miles,2,8,8,20%,20%,0%,60%,0%,0%,20%,0%,0%,0%,0%,0%,0%,Non-Solver,9
+A23KAJRDVCVGOE,ThreeRobots,41,Male,Left,High School/GED,9 miles,1,10,9,5%,5%,5%,5%,5%,5%,0%,25%,5%,25%,5%,5%,10%,Non-Solver,9
+A2541C8MY0BYV3,ThreeRobots,29,Male,Right,College,6 miles,3,8,9,20%,25%,15%,0%,10%,0%,0%,15%,0%,20%,0%,5%,10%,Non-Solver,9
+A270HX8LH9LJ8W,ThreeRobots,38,Male,Right,Graduate Degree,11 miles,1,10,9,10%,5%,5%,5%,5%,5%,10%,10%,10%,10%,15%,10%,10%,Non-Solver,9
+A2B2HQHFBYLTXU,ThreeRobots,36,Male,Right,Graduate Degree,10 miles,6,5,5,55%,5%,10%,5%,5%,5%,10%,5%,5%,5%,30%,5%,10%,Solver,9
+A2GNG7DWHQA6ZZ,ThreeRobots,34,Male,Right,Graduate Degree,9 miles,2,9,9,0%,0%,0%,0%,0%,10%,10%,10%,20%,25%,10%,10%,5%,Non-Solver,9
+A2VLTSW6CXIUMR,ThreeRobots,44,Male,Right,High School/GED,8 miles,1,10,10,5%,0%,0%,0%,0%,10%,10%,20%,25%,30%,5%,0%,0%,Non-Solver,9
+A2YCMT5BPA0AG9,ThreeRobots,50,Male,Right,College,10 miles,3,8,7,20%,10%,30%,10%,10%,5%,5%,5%,10%,5%,10%,0%,0%,Solver,9
+A2YWSSQEXXCRGK,ThreeRobots,51,Female,Right,Graduate Degree,10 miles,8,7,8,55%,0%,0%,0%,5%,10%,5%,0%,5%,5%,55%,5%,10%,Solver,9
+A3ADVMXAYYYPD2,ThreeRobots,42,Male,Right,Graduate Degree,4 miles,3,10,10,40%,5%,10%,10%,30%,15%,10%,15%,5%,0%,0%,0%,0%,Non-Solver,9
+A3C8NUIBNZYMT2,ThreeRobots,30,Male,Right,College,3 miles,3,7,8,20%,0%,10%,10%,15%,15%,5%,10%,10%,0%,15%,5%,5%,Non-Solver,9
+A3LLOANE52R4LT,ThreeRobots,35,Male,Right,College,2 miles,6,7,7,70%,15%,55%,25%,5%,0%,0%,0%,0%,0%,0%,0%,0%,Non-Solver,9
+A3QLGMZOLGMBQ1,ThreeRobots,51,Male,Right,Graduate Degree,7 miles,3,10,10,15%,0%,5%,5%,20%,20%,20%,25%,5%,0%,0%,0%,0%,Non-Solver,9
+A3R5OJR60C6004,ThreeRobots,45,Male,Right,College,7 miles,2,9,8,15%,0%,0%,5%,20%,10%,10%,25%,15%,10%,5%,0%,0%,Non-Solver,9
+A3S1DILZ70PXC,ThreeRobots,41,Female,Right,College,4 miles,1,10,6,50%,10%,10%,10%,10%,10%,10%,10%,10%,5%,5%,5%,5%,Non-Solver,9
+A3URLNXHLP4ARU,ThreeRobots,47,Female,Right,Graduate Degree,9 miles,1,10,10,15%,0%,0%,0%,0%,0%,10%,15%,15%,15%,15%,15%,15%,Non-Solver,9
+A4IH4CO046EV3,ThreeRobots,40,Male,Right,College,10 miles,3,9,9,15%,0%,0%,0%,0%,15%,0%,0%,0%,0%,75%,5%,5%,Solver,9
+AAQREZOK13OV7,ThreeRobots,31,Male,Right,College,10 miles,9,9,6,35%,0%,0%,0%,0%,10%,5%,5%,20%,10%,35%,5%,10%,Solver,9
+AFQ9W6WA8O9EH,ThreeRobots,51,Female,Left,Graduate Degree,6 miles,9,1,1,5%,10%,0%,20%,0%,0%,5%,0%,0%,25%,20%,0%,20%,Non-Solver,9
+AN9MVFWRCF2OP,ThreeRobots,29,Male,Right,College,7 miles,7,10,9,20%,0%,0%,0%,5%,25%,15%,25%,20%,10%,0%,0%,0%,Non-Solver,9
+AY2U544TCVPMQ,ThreeRobots,37,Male,Right,Graduate Degree,7 miles,2,10,10,5%,5%,5%,5%,10%,10%,15%,15%,15%,5%,5%,5%,5%,Non-Solver,9
+AYW62R027PUT1,ThreeRobots,44,Male,Right,College,8 miles,7,8,8,25%,5%,5%,5%,5%,5%,5%,10%,25%,10%,10%,10%,5%,Non-Solver,9

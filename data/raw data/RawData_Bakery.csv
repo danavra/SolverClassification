@@ -1,0 +1,92 @@
+Worker ID,Problem,Age,Gender,Strong hand,Education,Answer,Confidence,Subjective Difficulty,Objective Difficutly,Psolve,80,90,100,200,300,400,500,Class,group_number
+AJBOT9QX4WF9U,Bakery,36,Female,Both hands are equally strong,Graduate Degree,300,10,1,2,100%,0%,0%,0%,0%,100%,0%,0%,Non-Solver,13
+A3C4Z92TK10YLG,Bakery,37,Female,Right,Graduate Degree,300,10,1,2,100%,0%,0%,0%,0%,100%,0%,0%,Non-Solver,13
+A3IAGHFA00V6MY,Bakery,40,Male,Right,Graduate Degree,80,4,3,6,95%,50%,10%,5%,10%,10%,10%,5%,Non-Solver,13
+A2GOYSTIL3LOV1,Bakery,45,Female,Right,Graduate Degree,100,8,4,7,45%,50%,0%,45%,0%,0%,0%,5%,Solver,13
+A2G9QDQGHYWSYV,Bakery,27,Female,Right,College,80,8,8,5,70%,40%,10%,10%,10%,10%,10%,10%,Non-Solver,13
+A12HWPFXQPITHD,Bakery,29,Male,Right,College,80,8,1,1,90%,90%,5%,5%,0%,0%,0%,0%,Non-Solver,13
+A3K00L9I9L92BJ,Bakery,29,Female,Right,Graduate Degree,100,10,1,2,95%,0%,0%,85%,0%,0%,0%,15%,Solver,13
+A2A4Q3XU50SBE2,Bakery,35,Male,Right,High School/GED,80,10,2,2,90%,90%,1%,1%,5%,1%,1%,1%,Non-Solver,13
+A1GRPIBHW72HDU,Bakery,30,Male,Right,College,100,10,2,4,65%,30%,5%,65%,0%,0%,0%,0%,Solver,13
+A107MHGX27KJLR,Bakery,29,Male,Right,Graduate Degree,80,10,7,6,90%,100%,0%,0%,0%,0%,0%,0%,Non-Solver,13
+A7L5FHBFIVN0T,Bakery,45,Male,Right,Graduate Degree,80,10,3,4,65%,60%,5%,5%,5%,10%,15%,0%,Non-Solver,13
+A3HZFB2JLF3JMY,Bakery,32,Male,Right,College,100,6,3,6,57%,35%,15%,15%,10%,10%,10%,5%,Solver,13
+A1K35CNHGJEI9Q,Bakery,32,Male,Right,Graduate Degree,80,9,4,3,85%,20%,20%,10%,5%,15%,20%,10%,Non-Solver,13
+AJFO6Q9JBD48Q,Bakery,30,Male,Right,Graduate Degree,500,9,5,3,85%,10%,5%,5%,5%,5%,5%,65%,Non-Solver,13
+A3EM2M2S1VKR85,Bakery,40,Female,Right,Graduate Degree,80,10,5,5,80%,70%,20%,10%,0%,0%,0%,0%,Non-Solver,13
+AIZ4C8S4DW2WG,Bakery,33,Female,Right,Graduate Degree,80,10,2,4,85%,85%,10%,5%,0%,0%,0%,0%,Non-Solver,13
+A28J7H4TH29DC3,Bakery,49,Female,Right,College,500,10,2,2,90%,10%,0%,0%,0%,0%,0%,90%,Non-Solver,13
+ACZK4PTILUFAP,Bakery,30,Male,Right,High School/GED,80,10,1,5,50%,20%,15%,20%,20%,5%,10%,10%,Non-Solver,13
+A1UEX245I12ZH7,Bakery,63,Female,Right,College,100,10,7,4,85%,5%,5%,85%,5%,0%,0%,0%,Solver,13
+A6EOG99281TB3,Bakery,30,Male,Both hands are equally strong,Graduate Degree,300,8,6,7,80%,0%,0%,0%,5%,80%,15%,0%,Non-Solver,13
+A3CASN6JG7104,Bakery,44,Male,Right,Graduate Degree,80,9,7,8,80%,50%,10%,15%,10%,5%,5%,5%,Non-Solver,13
+AUAN582MLI96N,Bakery,41,Male,Right,Graduate Degree,80,10,1,2,90%,90%,5%,5%,0%,0%,0%,0%,Non-Solver,13
+A38DHLB88V8DL8,Bakery,45,Female,Right,College,80,10,2,2,90%,90%,10%,0%,0%,0%,0%,0%,Non-Solver,13
+A11BSFO4LMHPXQ,Bakery,42,Female,Right,College,80,9,2,3,60%,60%,15%,10%,5%,5%,5%,0%,Non-Solver,13
+A19BXCY9Q8IZOK,Bakery,29,Male,Right,College,80,9,9,8,90%,70%,5%,5%,5%,5%,5%,5%,Non-Solver,13
+A1M7H40V3FRIOX,Bakery,27,Male,Right,Graduate Degree,80,10,1,4,10%,15%,20%,10%,10%,10%,30%,5%,Non-Solver,13
+A2BVVFXMQU8AC7,Bakery,36,Male,Right,College,80,9,3,5,65%,40%,15%,20%,5%,10%,5%,5%,Non-Solver,13
+ACWVHNV57A8IJ,Bakery,28,Male,Right,Graduate Degree,100,10,6,6,40%,65%,10%,25%,0%,0%,0%,0%,Solver,13
+A3BX2W07QY9NNG,Bakery,28,Male,Right,Graduate Degree,80,10,4,4,80%,25%,15%,15%,10%,10%,15%,10%,Non-Solver,13
+AUFOO8PU2BK37,Bakery,38,Female,Right,College,80,10,5,4,85%,85%,5%,5%,5%,0%,0%,0%,Non-Solver,13
+A30KYQGABO7JER,Bakery,35,Female,Right,College,100,10,3,5,55%,45%,5%,40%,0%,0%,0%,10%,Solver,14
+A3PKTPXXORWR97,Bakery,26,Female,Right,Graduate Degree,100,9,2,5,20%,50%,30%,20%,0%,0%,0%,0%,Solver,14
+A1C7XI68SED8JE,Bakery,37,Female,Left,College,100,10,3,3,90%,10%,0%,90%,0%,0%,0%,0%,Solver,14
+A3SZF91DCOQPW3,Bakery,36,Female,Right,College,200,7,8,9,5%,30%,0%,0%,40%,0%,0%,30%,Non-Solver,14
+A12A5GVJX5RZC4,Bakery,39,Male,Right,High School/GED,80,6,4,2,80%,80%,15%,5%,0%,0%,0%,0%,Non-Solver,14
+A1F9KLZGHE9DTA,Bakery,45,Male,Right,High School/GED,80,10,1,1,80%,80%,0%,5%,0%,0%,5%,10%,Non-Solver,14
+A1I72NHC21347A,Bakery,55,Female,Right,High School/GED,80,10,1,3,80%,70%,15%,15%,0%,0%,0%,0%,Non-Solver,14
+AYW62R027PUT1,Bakery,45,Male,Right,College,80,8,5,5,40%,40%,25%,15%,5%,5%,5%,5%,Non-Solver,14
+A32LHQYJY0ELFS,Bakery,30,Female,Right,Graduate Degree,80,10,3,7,40%,40%,20%,20%,20%,0%,0%,0%,Non-Solver,14
+A3KF6O09H04SP7,Bakery,36,Male,Right,College,80,8,3,3,85%,85%,10%,5%,0%,0%,0%,0%,Non-Solver,14
+A1O8D22H0D03W1,Bakery,28,Male,Right,Graduate Degree,80,10,2,4,65%,65%,20%,10%,5%,0%,0%,0%,Non-Solver,14
+AHALO0LU7AL0T,Bakery,27,Male,Right,College,80,10,5,7,80%,30%,15%,15%,10%,10%,10%,10%,Non-Solver,14
+AX3N0BBAJ39GG,Bakery,30,Male,Right,College,80,10,1,5,60%,60%,5%,10%,10%,5%,5%,5%,Non-Solver,14
+A1LBXBV4KZ952A,Bakery,27,Male,Right,Graduate Degree,400,4,4,6,20%,15%,15%,10%,10%,20%,10%,20%,Non-Solver,14
+A3180VXVP8MOIH,Bakery,34,Female,Right,Graduate Degree,80,5,3,2,90%,70%,30%,0%,0%,0%,0%,0%,Non-Solver,14
+A3PYD7EU2WFST6,Bakery,32,Male,Right,Graduate Degree,80,10,5,6,60%,60%,10%,10%,0%,0%,0%,20%,Non-Solver,14
+A2MHY064OSYIBI,Bakery,49,Female,Right,College,80,10,2,3,60%,60%,15%,5%,5%,5%,5%,5%,Non-Solver,14
+A2EZNZ6X58RTNR,Bakery,37,Male,Right,Graduate Degree,500,10,2,4,85%,0%,0%,0%,0%,5%,10%,85%,Non-Solver,14
+A1BVG13MHBM1YD,Bakery,43,Female,Left,High School/GED,80,10,1,1,95%,95%,5%,0%,0%,0%,0%,0%,Non-Solver,14
+ACJ6NSCIWMUZI,Bakery,52,Male,Right,High School/GED,80,4,7,4,80%,45%,30%,5%,5%,5%,5%,5%,Non-Solver,14
+A8B5O56Q0YJXW,Bakery,40,Male,Right,Graduate Degree,100,10,1,1,75%,40%,5%,5%,10%,15%,15%,10%,Solver,14
+A1A8MBDIAQT43U,Bakery,29,Male,Right,Graduate Degree,500,10,1,3,30%,10%,20%,30%,20%,10%,10%,0%,Non-Solver,14
+A1VXDD6BFF97OF,Bakery,33,Female,Right,College,80,10,3,2,75%,75%,15%,10%,0%,0%,0%,0%,Non-Solver,14
+A1H2UHJ78F185L,Bakery,30,Male,Right,Graduate Degree,80,7,4,5,70%,80%,15%,5%,0%,0%,0%,0%,Non-Solver,14
+A1SHLWKA0UH1IS,Bakery,55,Female,Right,College,100,10,1,6,65%,30%,0%,65%,0%,0%,0%,5%,Solver,14
+A2TVJTQ4VXATE6,Bakery,28,Male,Right,High School/GED,500,10,1,1,75%,0%,0%,0%,0%,0%,25%,75%,Non-Solver,14
+A12ABRH7TAD6ZJ,Bakery,48,Male,Right,Graduate Degree,500,10,1,1,100%,0%,0%,0%,0%,0%,0%,100%,Non-Solver,14
+A2QBFXY9UQMJTT,Bakery,38,Male,Right,College,100,10,2,2,85%,5%,5%,85%,5%,0%,0%,0%,Solver,14
+A3IA63S5XSB41S,Bakery,33,Female,Right,Graduate Degree,80,9,3,2,75%,45%,10%,15%,10%,10%,5%,5%,Non-Solver,14
+A37GOGQDYDT44K,Bakery,31,Female,Right,College,80,5,7,7,40%,40%,0%,60%,0%,0%,0%,0%,Non-Solver,14
+A3V2XCDF45VN9X,Bakery,44,Male,Right,Graduate Degree,100,10,1,5,75%,5%,15%,75%,5%,0%,0%,0%,Solver,15
+A30HUZHJBOX1LK,Bakery,52,Male,Right,Graduate Degree,100,10,2,4,80%,10%,10%,80%,0%,0%,0%,0%,Solver,15
+A1IDTE46L2A3OB,Bakery,48,Male,Right,Graduate Degree,80,10,7,4,80%,30%,30%,10%,10%,10%,10%,0%,Non-Solver,15
+.ALADMO4F1UNQ6,Bakery,47,Female,Right,Graduate Degree,80,7,4,2,80%,80%,5%,0%,5%,5%,5%,0%,Non-Solver,15
+A1KS9LITOVPAT8,Bakery,34,Male,Right,College,80,10,1,5,75%,75%,0%,25%,0%,0%,0%,0%,Non-Solver,15
+A1V2H0UF94ATWY,Bakery,60,Male,Right,High School/GED,100,9,2,4,80%,15%,0%,80%,0%,0%,0%,5%,Solver,15
+A3BJ8CUB26XYJC,Bakery,62,Female,Right,Graduate Degree,80,10,5,6,50%,70%,5%,5%,5%,5%,5%,5%,Non-Solver,15
+A248QG4DPULP46,Bakery,64,Female,Right,College,80,10,1,3,95%,95%,5%,0%,0%,0%,0%,0%,Non-Solver,15
+A8028AFBBS29G,Bakery,65,Female,Right,High School/GED,80,8,4,3,90%,90%,5%,5%,0%,0%,0%,0%,Non-Solver,15
+A24ZP6TOKYBSQS,Bakery,22,Male,Right,College,80,10,3,4,50%,20%,50%,20%,5%,5%,0%,0%,Non-Solver,15
+AB036D1V69QGV,Bakery,35,Female,Right,Graduate Degree,80,9,4,4,95%,95%,0%,0%,0%,0%,5%,0%,Non-Solver,15
+A37R0JYAB3QEX9,Bakery,47,Male,Right,High School/GED,80,10,1,1,95%,90%,5%,5%,0%,0%,0%,0%,Non-Solver,15
+A21TM2CB9HS7IM,Bakery,35,Female,Right,Graduate Degree,100,10,1,1,10%,70%,15%,10%,0%,0%,5%,0%,Solver,15
+A1F1BIPJR11LSR,Bakery,34,Prefer not to say,Right,College,80,9,2,3,80%,80%,10%,5%,5%,0%,0%,0%,Non-Solver,15
+A1SIUJEL2LS8UO,Bakery,31,Male,Right,College,80,10,1,1,90%,90%,5%,5%,0%,0%,0%,0%,Non-Solver,15
+A15GLNTVDPCXUQ,Bakery,32,Male,Right,Graduate Degree,100,4,2,7,23%,10%,10%,23%,7%,50%,0%,0%,Solver,15
+AJXIC6Q5EM76P,Bakery,61,Male,Right,High School/GED,80,10,2,4,40%,50%,0%,50%,0%,0%,0%,0%,Non-Solver,15
+A2YCMT5BPA0AG9,Bakery,50,Male,Right,College,100,7,3,4,90%,10%,20%,70%,0%,0%,0%,0%,Solver,15
+2054606,Bakery,31,Male,Left,Graduate Degree,100,8,3,6,30%,50%,15%,30%,5%,0%,0%,0%,Solver,15
+A09354962P34U7ILOPYKP,Bakery,50,Male,Right,Graduate Degree,200,5,5,6,60%,5%,50%,25%,20%,0%,0%,0%,Non-Solver,15
+AV3CA0IYNRCCJ,Bakery,63,Female,Right,College,80,10,3,3,80%,80%,20%,0%,0%,0%,0%,0%,Non-Solver,15
+AIH3QEU3564PA,Bakery,28,Male,Right,Graduate Degree,100,10,6,7,40%,25%,20%,15%,15%,10%,10%,5%,Solver,15
+A1MJHGH55K3O0,Bakery,30,Female,Right,College,80,10,4,4,55%,50%,10%,10%,10%,10%,5%,5%,Non-Solver,15
+AFDC9A6Z60W2Z,Bakery,48,Male,Right,High School/GED,100,10,2,4,75%,5%,3%,75%,3%,3%,3%,8%,Solver,15
+AMZV70TID53WY,Bakery,26,Male,Right,College,80,8,2,3,80%,85%,0%,0%,0%,5%,5%,5%,Non-Solver,15
+A1UCB0D27PY623,Bakery,35,Prefer not to say,Right,High School/GED,100,10,1,1,60%,5%,5%,75%,5%,0%,0%,10%,Solver,15
+A3RLCGRXA34GC0,Bakery,50,Male,Left,College,100,9,3,5,50%,40%,20%,40%,0%,0%,0%,0%,Solver,15
+A2541C8MY0BYV3,Bakery,29,Male,Right,College,200,6,5,6,35%,15%,30%,40%,5%,5%,5%,0%,Non-Solver,15
+AZNIEFUIVB2H0,Bakery,52,Male,Left,College,100,8,5,2,75%,10%,15%,75%,0%,0%,0%,0%,Solver,15
+A2MBONFYCEPP8K,Bakery,38,Female,Right,High School/GED,80,8,3,4,40%,60%,20%,5%,5%,5%,5%,0%,Non-Solver,15
+A23KAJRDVCVGOE,Bakery,41,Male,Left,High School/GED,80,9,3,6,98%,85%,10%,5%,0%,0%,0%,0%,Non-Solver,15

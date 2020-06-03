@@ -62,7 +62,7 @@ final_features = ['Problem', 'Worker ID', 'Answer', 'group_number', 'psma', 'chi
 # final_features = ['Problem', 'Worker ID', 'Answer', 'group_number', 'psma', 'chisqr', 'bs', 'EAMA', 'EAAA', 'ec',
 #                       'arrogance', 'cad', 'cadg', 'Confidence', 'Psolve', 'Class']
 data_path = join(getcwd(), 'data', 'raw data')
-files = getAllFilesInFolder(data_path)
+# files = getAllFilesInFolder(data_path)
 precentageDict = {
     "0-10%": 0.1,
     "11-20%": 0.2,
@@ -219,20 +219,20 @@ if __name__ == '__main__':
     with warnings.catch_warnings():
         warnings.simplefilter('ignore')
         # list_of_dfs_solver = []
-        list_of_dfs_answer = []
-        for f in files:
-            df = pd.read_csv(f, index_col='Worker ID')
-            cols = list(df.columns.values)
-            answers = [col for col in cols if col not in not_answers]
-            groups = df.group_number.unique()
-            for group in groups:
-                df_2_add = get_solver_features(answers, df[df['group_number'] == group])
-                list_of_dfs_answer.append(get_answer_features(answers, df_2_add))
-                # list_of_dfs_solver.append(df_2_add.drop(answers, axis=1))
-
-        # all_data_solver = pd.concat(list_of_dfs_solver)
-        all_data_ans = pd.concat(list_of_dfs_answer)
-        # all_data_solver.to_csv('subjects_features_allFeatures.csv')
-        all_data_ans.to_csv('answers_features_Conf.csv')
-
-        print('*********************************************************')
+        # list_of_dfs_answer = []
+        # for f in files:
+        #     df = pd.read_csv(f, index_col='Worker ID')
+        #     cols = list(df.columns.values)
+        #     answers = [col for col in cols if col not in not_answers]
+        #     groups = df.group_number.unique()
+        #     for group in groups:
+        #         df_2_add = get_solver_features(answers, df[df['group_number'] == group])
+        #         list_of_dfs_answer.append(get_answer_features(answers, df_2_add))
+        #         # list_of_dfs_solver.append(df_2_add.drop(answers, axis=1))
+        #
+        # # all_data_solver = pd.concat(list_of_dfs_solver)
+        # all_data_ans = pd.concat(list_of_dfs_answer)
+        # # all_data_solver.to_csv('subjects_features_allFeatures.csv')
+        # all_data_ans.to_csv('answers_features_Conf.csv')
+        #
+        # print('*********************************************************')

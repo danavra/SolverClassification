@@ -1,0 +1,122 @@
+Worker ID,Problem,Age,Gender,Education,Answer,Confidence,Subjective Difficulty,Objective Difficutly,Psolve,Less than 7 moves,7 moves,8 moves,9 moves,10 moves,More than 10 moves,Class,group_number
+A10249252O9I20MRSO,RH1,56,Female,High School/GED,9 moves,8,3,3,99%,0%,0%,20%,70%,10%,0%,Non-Solver,84
+A110KENBXU7SUJ,RH1,47,Male,High School/GED,8 moves,9,3,5,88%,5%,10%,65%,10%,5%,5%,Solver,84
+A12ASB8854TT4,RH1,33,Male,High School/GED,9 moves,7,2,2,90%,5%,15%,20%,30%,20%,10%,Non-Solver,84
+A142G97TKHM9BL,RH1,47,Female,Graduate Degree,More than 10 moves,8,2,2,70%,0%,0%,0%,0%,0%,100%,Non-Solver,84
+A1BPBUD67XIJXM,RH1,31,Female,High School/GED,More than 10 moves,7,7,5,80%,10%,20%,30%,30%,5%,5%,Non-Solver,84
+A1DIKLERUZ5WS0,RH1,29,Male,Graduate Degree,7 moves,9,2,6,90%,25%,30%,15%,10%,10%,10%,Non-Solver,84
+A1F9KLZGHE9DTA,RH1,45,Male,High School/GED,Less than 7 moves,9,2,3,70%,50%,30%,10%,5%,4%,1%,Non-Solver,84
+A1FDT9TI1EUTUT,RH1,47,Female,Graduate Degree,10 moves,8,9,8,90%,10%,10%,10%,10%,50%,10%,Non-Solver,84
+A1K2A46I18MO46,RH1,35,Male,Graduate Degree,More than 10 moves,10,1,3,70%,5%,5%,25%,20%,5%,40%,Non-Solver,84
+A1OUUZSD5DD4ZN,RH1,47,Female,College,8 moves,8,1,1,100%,0%,0%,80%,10%,10%,0%,Solver,84
+A1P37ODJ8MY8UK,RH1,22,Male,College,8 moves,7,2,2,80%,0%,10%,80%,5%,5%,0%,Solver,84
+A1YT6E0W0SDP0R,RH1,43,Male,High School/GED,8 moves,6,1,1,100%,0%,0%,100%,0%,0%,0%,Solver,84
+A23KAJRDVCVGOE,RH1,41,Male,High School/GED,8 moves,9,4,4,90%,10%,70%,10%,10%,0%,0%,Solver,84
+A2541C8MY0BYV3,RH1,29,Male,College,8 moves,8,2,2,90%,0%,40%,50%,10%,0%,0%,Solver,84
+A2LPDO04W2P4OW,RH1,28,Female,College,More than 10 moves,10,8,8,80%,15%,25%,15%,10%,20%,15%,Non-Solver,84
+A2Y2AZ8DBFU47Q,RH1,26,Female,College,9 moves,7,3,4,5%,5%,20%,25%,40%,5%,5%,Non-Solver,84
+A30KYQGABO7JER,RH1,35,Female,College,8 moves,5,2,6,30%,10%,10%,30%,10%,10%,30%,Solver,84
+A37R0JYAB3QEX9,RH1,47,Male,High School/GED,7 moves,7,1,2,100%,0%,70%,20%,7%,3%,0%,Non-Solver,84
+A3ABAYPIXFEJ7O,RH1,51,Male,College,8 moves,10,1,3,60%,0%,0%,50%,20%,20%,10%,Solver,84
+A3VR4B1I5K2K86,RH1,47,Female,Graduate Degree,Less than 7 moves,8,1,5,85%,40%,15%,15%,10%,10%,10%,Non-Solver,84
+A7D8NYR8B92VK,RH1,45,Male,Graduate Degree,8 moves,5,5,5,60%,30%,10%,50%,5%,5%,0%,Solver,84
+AD175NX7MG25W,RH1,39,Male,Graduate Degree,10 moves,9,5,6,99%,10%,10%,10%,10%,10%,50%,Non-Solver,84
+AJFO6Q9JBD48Q,RH1,30,Male,Graduate Degree,8 moves,10,4,3,100%,4%,6%,50%,20%,10%,10%,Solver,84
+APS21FRK7TBKW,RH1,47,Female,College,8 moves,7,1,5,5%,20%,20%,20%,20%,0%,20%,Solver,84
+AVBRJBJONL47I,RH1,45,Female,Graduate Degree,8 moves,8,2,2,90%,0%,10%,80%,10%,0%,0%,Solver,84
+AXJ1PE87PD0KK,RH1,30,Female,Graduate Degree,8 moves,8,2,3,90%,10%,20%,40%,20%,6%,4%,Solver,84
+A10JXOU89D5RXR,RH1,58,Female,College,7 moves,8,2,2,80%,20%,70%,10%,0%,0%,0%,Non-Solver,84
+A147F5PJTHOB8A,RH1,43,Male,High School/GED,8 moves,1,3,6,60%,30%,10%,20%,10%,10%,20%,Solver,84
+A15J42M6EC7Y1K,RH1,30,Male,College,8 moves,10,2,3,95%,0%,10%,85%,5%,0%,0%,Solver,84
+A1FB5AD91CD1W0,RH1,27,Female,Graduate Degree,8 moves,6,2,3,30%,0%,5%,20%,20%,20%,35%,Solver,84
+A1FKUZN5M2FSOP,RH1,55,Male,College,More than 10 moves,9,8,9,7%,5%,5%,5%,5%,5%,75%,Non-Solver,85
+A1JJNB108BPMRN,RH1,59,Female,High School/GED,Less than 7 moves,5,6,4,80%,40%,40%,20%,0%,0%,0%,Non-Solver,85
+A1QAWECOJYKVO4,RH1,38,Female,College,9 moves,8,3,5,98%,0%,0%,20%,30%,50%,0%,Non-Solver,85
+A1ROEDVMTO9Y3X,RH1,50,Female,High School/GED,More than 10 moves,10,9,10,50%,20%,20%,20%,0%,20%,20%,Non-Solver,85
+A1TBRQBLEJI3O5,RH1,50,Female,High School/GED,10 moves,7,7,8,25%,10%,25%,30%,20%,10%,5%,Non-Solver,85
+A1U4O7W4F3TMS9,RH1,45,Male,Graduate Degree,9 moves,10,1,1,50%,7%,7%,8%,9%,10%,59%,Non-Solver,85
+A1XXNB42VP10RB,RH1,22,Male,College,8 moves,8,3,3,90%,0%,0%,90%,10%,0%,0%,Solver,85
+A230VUDYOCRZ4N,RH1,55,Female,College,9 moves,9,9,8,50%,10%,15%,20%,20%,20%,15%,Non-Solver,85
+A272X64FOZFYLB,RH1,26,Male,College,8 moves,7,2,3,85%,10%,15%,30%,20%,15%,10%,Solver,85
+A2BNOEYZ3VRW2R,RH1,68,Female,College,Less than 7 moves,9,2,3,99%,0%,84%,16%,0%,0%,0%,Non-Solver,85
+A2FGKKWP33DFWS,RH1,51,Male,College,7 moves,6,7,7,5%,20%,50%,10%,10%,10%,0%,Non-Solver,85
+A2SR85I8JMO1ZZ,RH1,27,Female,College,8 moves,9,2,2,85%,0%,0%,45%,10%,25%,20%,Solver,85
+A2V27A9GZA1NR2,RH1,38,Male,College,7 moves,6,3,4,80%,10%,50%,20%,10%,5%,5%,Non-Solver,85
+A37K1ICCYT6EU1,RH1,42,Female,Graduate Degree,8 moves,8,2,2,85%,3%,20%,60%,10%,5%,2%,Solver,85
+A3DS5B06ZCD3E3,RH1,44,Male,High School/GED,8 moves,8,3,5,98%,5%,5%,75%,5%,5%,5%,Solver,85
+A3L8LSM7V7KX3T,RH1,39,Male,High School/GED,10 moves,5,5,2,90%,0%,0%,5%,10%,55%,30%,Non-Solver,85
+A3NAGZAFHCJ6V,RH1,29,Male,Graduate Degree,10 moves,10,1,10,90%,50%,10%,10%,10%,10%,10%,Non-Solver,85
+A3SZF91DCOQPW3,RH1,36,Female,College,8 moves,7,7,7,30%,10%,20%,20%,30%,10%,10%,Solver,85
+A3UP4PP3Z,RH1,31,Male,Graduate Degree,7 moves,9,1,2,90%,10%,20%,25%,15%,20%,10%,Non-Solver,85
+A4IH4CO046EV3,RH1,40,Male,College,9 moves,9,2,3,75%,0%,10%,20%,40%,20%,10%,Non-Solver,85
+AJM4334V07JDQ,RH1,41,Male,College,8 moves,8,2,2,40%,10%,50%,30%,10%,0%,0%,Solver,85
+AJXIC6Q5EM76P,RH1,61,Male,High School/GED,8 moves,10,2,2,50%,0%,25%,65%,10%,0%,0%,Solver,85
+AQV468FB908WI,RH1,35,Female,College,8 moves,7,4,3,60%,20%,20%,20%,20%,20%,0%,Solver,85
+A11BSFO4LMHPXQ,RH1,42,Female,College,8 moves,8,1,2,50%,0%,30%,30%,20%,10%,10%,Solver,85
+A19L8SNH73AX1Z,RH1,56,Female,High School/GED,Less than 7 moves,2,4,4,20%,35%,35%,20%,5%,5%,0%,Non-Solver,85
+A1BIJGB7XA0GME,RH1,55,Female,College,10 moves,8,2,1,100%,40%,20%,10%,10%,10%,10%,Non-Solver,85
+A1D0VH7ZS1C5H0,RH1,45,Male,Graduate Degree,8 moves,9,2,4,70%,0%,10%,70%,10%,10%,0%,Solver,85
+A1KBQ30L5IJCAI,RH1,52,Male,Graduate Degree,More than 10 moves,10,5,6,70%,5%,15%,10%,10%,20%,40%,Non-Solver,85
+A1KS9LITOVPAT8,RH1,34,Male,High School/GED,8 moves,10,1,3,95%,0%,5%,95%,0%,0%,0%,Solver,85
+A1P6OXEJ86HQRM,RH1,37,Male,College,7 moves,7,2,3,90%,5%,25%,40%,25%,5%,0%,Non-Solver,85
+A1SHLWKA0UH1IS,RH1,55,Female,College,8 moves,2,2,2,99%,2%,25%,50%,18%,3%,2%,Solver,86
+A1ZI4VU6650Q8B,RH1,57,Male,College,10 moves,10,3,4,50%,0%,0%,30%,40%,20%,10%,Non-Solver,86
+A21TM2CB9HS7IM,RH1,35,Female,Graduate Degree,8 moves,10,1,8,60%,10%,20%,23%,25%,2%,20%,Solver,86
+A28J7H4TH29DC3,RH1,49,Female,College,8 moves,7,3,4,75%,20%,20%,25%,25%,5%,5%,Solver,86
+A2DF8W7SDWLURD,RH1,45,Female,High School/GED,8 moves,2,1,1,100%,0%,0%,100%,0%,0%,0%,Solver,86
+A2OVX9UW5WANQE,RH1,46,Female,College,8 moves,5,5,5,50%,10%,20%,50%,10%,10%,0%,Solver,86
+A2P76QVLSGJR45,RH1,41,Female,Graduate Degree,8 moves,5,5,5,35%,10%,20%,25%,25%,10%,10%,Solver,86
+A2YTO4EY3MNYAJ,RH1,46,Female,College,10 moves,10,1,1,98%,16%,17%,8%,20%,25%,14%,Non-Solver,86
+A2ZK5I1MDWNPRU,RH1,26,Female,College,Less than 7 moves,8,8,9,60%,5%,15%,15%,20%,25%,20%,Non-Solver,86
+A3D2U4QF7821ZW,RH1,25,Female,Graduate Degree,7 moves,8,3,4,85%,0%,5%,40%,40%,10%,5%,Non-Solver,86
+A3E8NUUS90EWXW,RH1,25,Male,Graduate Degree,8 moves,7,5,7,60%,10%,20%,20%,30%,10%,10%,Solver,86
+A3N1AJWCS8MPKH,RH1,27,Female,Graduate Degree,9 moves,9,2,7,85%,10%,25%,20%,10%,25%,10%,Non-Solver,86
+A3R5OJR60C6004,RH1,45,Male,College,8 moves,7,1,1,95%,5%,10%,60%,15%,10%,0%,Solver,86
+A3SL5QRF7MX2P1,RH1,40,Female,Graduate Degree,9 moves,6,4,7,50%,10%,25%,25%,20%,10%,10%,Non-Solver,86
+A8028AFBBS29G,RH1,65,Female,High School/GED,8 moves,3,5,3,85%,10%,15%,50%,10%,10%,5%,Solver,86
+A9LSEP71DNP4O,RH1,34,Male,College,7 moves,10,2,2,70%,0%,25%,30%,30%,10%,5%,Non-Solver,86
+AHEVIE2NY1W1Z,RH1,30,Female,College,More than 10 moves,5,7,5,7%,20%,20%,20%,10%,10%,20%,Non-Solver,86
+ASL7RAI80NUN3,RH1,34,Female,College,9 moves,6,7,3,68%,5%,10%,10%,15%,20%,40%,Non-Solver,86
+A11G2VFRF4FMPX,RH1,22,Female,College,8 moves,9,1,1,80%,0%,1%,20%,50%,19%,10%,Solver,86
+A1C7XI68SED8JE,RH1,37,Female,College,8 moves,6,3,3,80%,10%,10%,50%,10%,10%,10%,Solver,86
+A1CSCD4EOGH7U6,RH1,30,Male,Graduate Degree,9 moves,6,5,6,8%,10%,8%,8%,20%,30%,24%,Non-Solver,86
+A1DS5O8MSI3Z0,RH1,43,Male,College,More than 10 moves,5,4,6,5%,3%,7%,15%,20%,20%,35%,Non-Solver,86
+A1O8D22H0D03W1,RH1,28,Male,Graduate Degree,9 moves,8,6,5,70%,0%,25%,45%,25%,5%,0%,Non-Solver,86
+A1P2RQ166VS5BT,RH1,62,Female,College,10 moves,7,7,7,80%,5%,5%,40%,5%,10%,35%,Non-Solver,86
+A1QKIA8XRNEXIG ,RH1,37,Female,High School/GED,8 moves,9,1,2,90%,0%,0%,70%,20%,5%,5%,Solver,86
+A1TLNLB9D87H6,RH1,36,Female,College,7 moves,1,5,7,4%,2%,8%,40%,25%,20%,5%,Non-Solver,86
+A1WNYE5MNHTKI3,RH1,32,Female,Graduate Degree,More than 10 moves,9,2,1,85%,10%,10%,10%,10%,10%,50%,Non-Solver,86
+A22BBAU24IEHPL,RH1,42,Male,College,More than 10 moves,10,4,8,70%,10%,20%,10%,30%,20%,10%,Non-Solver,86
+A266LNUJOVKCDS,RH1,34,Female,High School/GED,7 moves,1,4,4,100%,0%,0%,0%,0%,100%,0%,Non-Solver,86
+A2G9QDQGHYWSYV,RH1,27,Female,College,More than 10 moves,10,5,5,5%,5%,10%,15%,20%,25%,25%,Non-Solver,86
+A2ITJNPW1LDUN7,RH1,25,Male,College,7 moves,4,2,3,25%,2%,5%,20%,33%,10%,30%,Non-Solver,87
+A2JP2AKYT7CMS8,RH1,48,Female,Graduate Degree,8 moves,10,5,5,100%,0%,20%,50%,10%,10%,10%,Solver,87
+A2QBFXY9UQMJTT,RH1,38,Male,College,8 moves,9,2,1,50%,0%,1%,75%,20%,3%,1%,Solver,87
+A3285GZE6R7AIA,RH1,40,Male,Graduate Degree,8 moves,8,2,3,90%,0%,5%,35%,40%,10%,10%,Solver,87
+A3LNM77PCQOTHJ,RH1,35,Male,High School/GED,8 moves,9,2,2,99%,0%,0%,60%,20%,5%,15%,Solver,87
+A3PIJN4LHKKNPH,RH1,33,Female,College,8 moves,10,2,2,75%,0%,0%,75%,10%,10%,5%,Solver,87
+A3PIUNG7VXQWTR,RH1,41,Male,Graduate Degree,8 moves,6,3,3,75%,15%,35%,20%,15%,10%,5%,Solver,87
+A3PYD7EU2WFST6,RH1,31,Male,Graduate Degree,7 moves,9,7,7,80%,10%,30%,15%,30%,10%,5%,Non-Solver,87
+ACWVHNV57A8IJ,RH1,28,Male,Graduate Degree,8 moves,10,4,4,70%,0%,10%,60%,10%,10%,10%,Solver,87
+AN9MVFWRCF2OP,RH1,29,Male,College,10 moves,8,4,3,80%,0%,10%,10%,30%,40%,10%,Non-Solver,87
+AQ9OSZ8KP2AJZ,RH1,32,Male,Graduate Degree,8 moves,8,5,8,90%,20%,30%,20%,10%,10%,10%,Solver,87
+AR0LAU6HMO8R1,RH1,61,Female,Graduate Degree,7 moves,10,10,10,100%,16%,16%,16%,16%,16%,20%,Non-Solver,87
+AR1IWBDA7MC86,RH1,33,Male,College,8 moves,9,1,1,85%,0%,10%,85%,5%,0%,0%,Solver,87
+AYW62R027PUT1,RH1,45,Male,College,8 moves,6,2,2,65%,15%,20%,60%,5%,0%,0%,Solver,87
+A1A8MBDIAQT43U,RH1,29,Male,Graduate Degree,8 moves,8,4,3,75%,0%,40%,60%,0%,0%,0%,Solver,87
+A1C5T9VNTCXU44,RH1,31,Female,College,8 moves,9,4,5,50%,10%,20%,20%,10%,10%,30%,Solver,87
+A1JVWOBGNA6KJT,RH1,54,Male,High School/GED,7 moves,8,2,2,99%,40%,40%,10%,10%,0%,0%,Non-Solver,87
+A1PEDOFX00RHUM,RH1,26,Male,College,10 moves,10,5,6,70%,5%,10%,15%,25%,20%,25%,Non-Solver,87
+A1RV2LERVS0A4H,RH1,33,Female,College,9 moves,8,2,2,60%,0%,0%,10%,60%,20%,10%,Non-Solver,87
+A213CX3NWZN0Z,RH1,30,Female,College,7 moves,8,5,6,7%,50%,10%,10%,10%,10%,10%,Non-Solver,87
+A28HXF0W09319G ,RH1,50,Male,Graduate Degree,7 moves,7,1,2,50%,20%,30%,20%,10%,10%,10%,Non-Solver,87
+A29AF16RLMI0ES,RH1,69,Male,Graduate Degree,7 moves,3,1,1,75%,20%,50%,20%,10%,0%,0%,Non-Solver,87
+A2C84POENS2UNY,RH1,39,Female,Graduate Degree,9 moves,2,8,5,30%,20%,20%,30%,20%,5%,5%,Non-Solver,87
+A2EI9E6EBZEZO1,RH1,38,Female,College,9 moves,9,2,2,90%,10%,10%,20%,50%,5%,5%,Non-Solver,87
+A2J51BI7XS5ZYU,RH1,41,Male,College,8 moves,10,1,3,90%,0%,10%,80%,5%,5%,0%,Solver,87
+A2MOC4PTJYY15B,RH1,28,Male,High School/GED,Less than 7 moves,6,6,6,8%,30%,40%,20%,10%,0%,0%,Non-Solver,87
+A365SN61J4UNGR,RH1,33,Male,High School/GED,7 moves,5,4,5,70%,0%,15%,60%,20%,5%,0%,Non-Solver,87
+A3D2GO0IFRFN6R,RH1,35,Female,College,10 moves,1,5,1,50%,50%,10%,10%,10%,10%,10%,Non-Solver,87
+ACJ6NSCIWMUZI,RH1,52,Male,College,8 moves,8,3,3,90%,0%,10%,80%,10%,0%,0%,Solver,87
+AMYURTQIMAC8T,RH1,31,Female,Graduate Degree,7 moves,7,7,7,50%,25%,10%,15%,25%,10%,15%,Non-Solver,87
+ATP2BJPDK4K2B,RH1,29,Female,High School/GED,More than 10 moves,10,5,5,75%,5%,10%,10%,10%,20%,45%,Non-Solver,87
