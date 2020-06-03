@@ -14,6 +14,10 @@ COLUMNS = ['Problem', 'group_num', 'classifier', 'aggregation', 'entity', 'featu
 def baseline(raw_data_dir_path, not_answers=None):
     print('{m} BASELINE : START {m}'.format(m='-'*100))
     files = [os.path.join(raw_data_dir_path, f) for f in os.listdir(raw_data_dir_path) if f.endswith('.csv')]
+
+    if not files:
+        return None
+
     final_res = {'correct_answer': [], 'Problem': [], 'Classifier': [], 'Classification': [], 'group_number': [],
                  'is_correct': [], 'aggregation': [], 'features': [], 'entity': []}
     for file in files:
@@ -88,61 +92,37 @@ def add_data_values(df, values):
 
 
 def get_normalized_features_df(featured_dir_path, answer_features_file, solver_features_file):
-    answer_features = pd.read_csv(os.path.join(featured_dir_path, answer_features_file))
+    answer_features_path = os.path.join(featured_dir_path, answer_features_file)
+    solver_features_path = os.path.join(featured_dir_path, solver_features_file)
+
+    if not os.path.isfile(answer_features_path) or not os.path.isfile(solver_features_path):
+        return None, None
+
+    answer_features = pd.read_csv(answer_features_path)
     answer_features['AvgPS'] = answer_features['AvgPS'].fillna(answer_features['AvgPS'].median())
     answer_features['AvgConf'] = answer_features['AvgConf'].fillna(answer_features['AvgConf'].median())
-    # answer_features.fillna(-1, inplace=True)
-    # answer_features = answer_features[answer_features.AvgConf > 0]
-    solver_features = pd.read_csv(os.path.join(featured_dir_path, solver_features_file))
+    solver_features = pd.read_csv(solver_features_path)
     solver_features['cad'] = solver_features['cad'].fillna(solver_features['cad'].median())
     solver_features['cadg'] = solver_features['cadg'].fillna(solver_features['cadg'].median())
     solver_features['Psolve'] = solver_features['Psolve'].fillna(solver_features['Psolve'].median())
     solver_features['arrogance'] = solver_features['arrogance'].fillna(solver_features['arrogance'].median())
     solver_features['Confidence'] = solver_features['Confidence'].fillna(solver_features['Confidence'].median())
-    # solver_features.fillna(-1, inplace=True)
-    # solver_features = solver_features[solver_features.Confidence > 0]
     return answer_features, solver_features
 
 
-def all_data(featured_dir_path, answer_features_file, solver_features_file):
-    print('{m} ALL_DATA : START {m}'.format(m='-'*100))
+def full_data(featured_dir_path, answer_features_file, solver_features_file):
+    print('{m} FULL_DATA : START {m}'.format(m='-'*100))
 
     answer_features, solver_features = get_normalized_features_df(featured_dir_path, answer_features_file, solver_features_file)
 
+    if answer_features is None or solver_features is None:
+        return None
+
     dfs_list = []
-    # answer_minFeatures_group_out_res, answer_minFeatures_group_out_preds = leave_one_out(answer_features, ANSWER_MIN_FEATURES)
-    vals = {'aggregation': 'all_group', 'features': 'minFeatures', 'entity': 'answer'}
-    # dfs_list.append(add_data_values(answer_minFeatures_group_out_res, vals))
-
-    # solver_minFeatures_group_out_res, solver_minFeatures_group_out_preds = leave_one_out(solver_features, SOLVER_MIN_FEATURES)
-    vals['entity'] = 'solver'
-    # dfs_list.append(add_data_values(solver_minFeatures_group_out_res, vals))
-
-    # ensemble_minFeatures_group_out_res = ensembles_leave_one_out(answer_features, ANSWER_MIN_FEATURES, solver_features, SOLVER_MIN_FEATURES)
-    vals['entity'] = 'ensemble'
-    # dfs_list.append(add_data_values(ensemble_minFeatures_group_out_res, vals))
-
-    # answer_minFeatures_problem_out_res, answer_minFeatures_problem_out_preds = leave_one_out(answer_features, ANSWER_MIN_FEATURES, bool_problem=True)
-    vals['aggregation'] = 'all_problem'
-    vals['entity'] = 'answer'
-    # dfs_list.append(add_data_values(answer_minFeatures_problem_out_res, vals))
-
-    # solver_minFeatures_problem_out_res, solver_minFeatures_problem_out_preds = leave_one_out(solver_features, SOLVER_MIN_FEATURES, bool_problem=True)
-    vals['entity'] = 'solver'
-    # dfs_list.append(add_data_values(solver_minFeatures_problem_out_res, vals))
-
-    # ensemble_minFeatures_problem_out_res = ensembles_leave_one_out(answer_features, ANSWER_MIN_FEATURES, solver_features, SOLVER_MIN_FEATURES, bool_problem=True)
-    vals['entity'] = 'ensemble'
-    # dfs_list.append(add_data_values(ensemble_minFeatures_problem_out_res, vals))
-
-    # answer_features = answer_features[answer_features.AvgConf != -1]
-    # solver_features = solver_features[solver_features.Confidence != 0]
+    vals = {'aggregation': 'all_group', 'features': 'minPlus', 'entity': 'answer'}
 
     kwargs = {'answer': True}
     answer_Conf_group_out_res, answer_Conf_group_out_preds = leave_one_out(answer_features, ANSWER_FEATURES, **kwargs)
-    vals['features'] = 'minPlus'
-    vals['entity'] = 'answer'
-    vals['aggregation'] = 'all_group'
     dfs_list.append(add_data_values(answer_Conf_group_out_res, vals))
 
     solver_Conf_group_out_res, solver_Conf_group_out_preds = leave_one_out(solver_features, SOLVER_FEATURES)
@@ -150,32 +130,13 @@ def all_data(featured_dir_path, answer_features_file, solver_features_file):
     dfs_list.append(add_data_values(solver_Conf_group_out_res, vals))
 
     combined_Conf_group_out_res = combined_leave_one_out(answer_features, ANSWER_FEATURES, solver_features, SOLVER_FEATURES)
-    vals['entity'] = 'ensemble'
+    vals['entity'] = 'combined'
     dfs_list.append(add_data_values(combined_Conf_group_out_res, vals))
-
-    # answer_Conf_problem_out_res, answer_Conf_problem_out_preds = leave_one_out(answer_features, ANSWER_FEATURES, bool_problem=True)
-    # vals['aggregation'] = 'all_problem'
-    # vals['entity'] = 'answer'
-    # dfs_list.append(add_data_values(answer_Conf_problem_out_res, vals))
-
-    # solver_Conf_problem_out_res, solver_Conf_problem_out_preds = leave_one_out(solver_features, SOLVER_FEATURES, bool_problem=True)
-    # vals['entity'] = 'solver'
-    # dfs_list.append(add_data_values(solver_Conf_problem_out_res, vals))
-
-    # ensemble_Conf_problem_out_res = combined_leave_one_out(answer_features, ANSWER_FEATURES, solver_features, SOLVER_FEATURES, bool_problem=True)
-    # vals['entity'] = 'solver'
-    # dfs_list.append(add_data_values(ensemble_Conf_problem_out_res, vals))
 
     try:
         for key in answer_Conf_group_out_preds.keys():
-            # pd.concat(answer_minFeatures_group_out_preds[key]).to_csv(os.path.join(os.getcwd(), 'data', 'groups_problems', 'results', 'answer_minFeatures_group_{}.csv'.format(key)))
-            # pd.concat(solver_minFeatures_group_out_preds[key]).to_csv(os.path.join(os.getcwd(), 'data', 'groups_problems', 'results', 'solver_minFeatures_group_{}.csv'.format(key)))
-            # pd.concat(answer_minFeatures_problem_out_preds[key]).to_csv(os.path.join(os.getcwd(), 'data', 'groups_problems', 'results', 'answer_minFeatures_problem_{}.csv'.format(key)))
-            # pd.concat(solver_minFeatures_problem_out_preds[key]).to_csv(os.path.join(os.getcwd(), 'data', 'groups_problems', 'results', 'solver_minFeatures_problem_{}.csv'.format(key)))
             pd.concat(answer_Conf_group_out_preds[key]).to_csv(os.path.join(os.getcwd(), 'data', 'predictions', 'answer_Conf_group_{}.csv'.format(key)))
             pd.concat(solver_Conf_group_out_preds[key]).to_csv(os.path.join(os.getcwd(), 'data', 'predictions', 'solver_Conf_group_{}.csv'.format(key)))
-            # pd.concat(answer_Conf_problem_out_preds[key]).to_csv(os.path.join(os.getcwd(), 'data', 'groups_problems', 'results', 'answer_Conf_problem_{}.csv'.format(key)))
-            # pd.concat(solver_Conf_problem_out_preds[key]).to_csv(os.path.join(os.getcwd(), 'data', 'groups_problems', 'results', 'solver_Conf_problem_{}.csv'.format(key)))
     except Exception as e:
         print(e)
 
@@ -187,8 +148,8 @@ def all_data(featured_dir_path, answer_features_file, solver_features_file):
 def get_cluster(group, cluster_df):
     clustered = cluster_df[cluster_df.group_number == group]
     res = clustered.cluster.unique()
-    zb = res[0] if len(res) else -2
-    return zb
+    clstr = res[0] if len(res) else -2
+    return clstr
 
 
 def clusterwise(featured_dir_path, answer_features_file, solver_features_file, cluster_dir_path):
@@ -197,6 +158,9 @@ def clusterwise(featured_dir_path, answer_features_file, solver_features_file, c
     answer_features, solver_features = get_normalized_features_df(featured_dir_path, answer_features_file,
                                                                   solver_features_file)
 
+    if answer_features is None or solver_features is None:
+        return None
+
     files = [os.path.join(cluster_dir_path, f) for f in os.listdir(cluster_dir_path) if f.endswith('.csv')]
     results = []
     for file_path in files:
@@ -204,12 +168,6 @@ def clusterwise(featured_dir_path, answer_features_file, solver_features_file, c
         print('{t}{m} Clustering: {met} {m}'.format(t=' '*30, m='-'*70, met=method))
 
         cluster_df = pd.read_csv(file_path)
-        # answer_features['cluster'] = answer_features.apply(
-        #     lambda x: -2 if x['AvgConf'] == -1
-        #     else cluster_df[cluster_df.group_number == x['group_number']].cluster.unique()[0], axis=1)
-        # solver_features['cluster'] = solver_features.apply(
-        #     lambda x: -2 if x['Confidence'] == 0
-        #     else cluster_df[cluster_df.group_number == x['group_number']].cluster.unique()[0], axis=1)
         answer_features['cluster'] = answer_features['group_number'].apply(
             lambda x: get_cluster(x, cluster_df))
         solver_features['cluster'] = solver_features['group_number'].apply(
@@ -222,10 +180,6 @@ def clusterwise(featured_dir_path, answer_features_file, solver_features_file, c
             print('{t}{m} Cluster: {c} {m}'.format(t=' ' * 50, m='-' * 50, c=cluster))
             answer_cluster_df = answer_features[answer_features.cluster == cluster]
             solver_cluster_df = solver_features[solver_features.cluster == cluster]
-            s = SOLVER_FEATURES
-            solvv = solver_cluster_df[s]
-            solvv2 = solvv.isnull().values
-            solvv2 = solvv[solvv.isnull().values]
             answer_2_add, answer_pred_dict = leave_one_out(answer_cluster_df, ANSWER_FEATURES)
             solver_2_add, solver_pred_dict = leave_one_out(solver_cluster_df, SOLVER_FEATURES)
             ensemble_2_add = combined_leave_one_out(answer_cluster_df, ANSWER_FEATURES, solver_cluster_df, SOLVER_FEATURES)
@@ -266,17 +220,35 @@ def clusterwise(featured_dir_path, answer_features_file, solver_features_file, c
     return final_df
 
 
+def run_all_experiments(basline_experiment=True, cluster_experiment=True, full_data_experiment=True):
+    features_dir = os.path.join(os.getcwd(), 'data', 'featured data')
+    answer_feature_f = 'answer_features.csv'
+    solver_feature_f = 'solver_features.csv'
+    cluster_dir = os.path.join(os.getcwd(), 'data', 'clustered data')
+    raw_data_dir = os.path.join(os.getcwd(), 'data', 'raw data')
+
+    dataframes_list = []
+
+    if basline_experiment:
+        res = baseline(raw_data_dir)
+        if res is not None:
+            dataframes_list.append(res)
+
+    if cluster_experiment:
+        res = clusterwise(features_dir, answer_feature_f, solver_feature_f, cluster_dir)
+        if res is not None:
+            dataframes_list.append(res)
+
+    if full_data_experiment:
+        res = full_data(features_dir, answer_feature_f, solver_feature_f)
+        if res is not None:
+            dataframes_list.append(res)
+
+    if dataframes_list:
+        pd.concat(dataframes_list).to_csv(os.path.join(os.getcwd(), 'data', 'results.csv'))
+
+
 if __name__ == '__main__':
     with warnings.catch_warnings():
         warnings.filterwarnings('ignore')
-        features_dir = os.path.join(os.getcwd(), 'data', 'featured data')
-        answer_feature_f = 'answer_features.csv'
-        solver_feature_f = 'solver_features.csv'
-        cluster_dir = os.path.join(os.getcwd(), 'data', 'clustered data')
-        raw_data_dir = os.path.join(os.getcwd(), 'data', 'raw data')
-        dataframes_list = [
-            baseline(raw_data_dir),
-            clusterwise(features_dir, answer_feature_f, solver_feature_f, cluster_dir),
-            all_data(features_dir, answer_feature_f, solver_feature_f)
-        ]
-        pd.concat(dataframes_list).to_csv(os.path.join(os.getcwd(), 'data', 'no_arrogance_results.csv'))
+        run_all_experiments()

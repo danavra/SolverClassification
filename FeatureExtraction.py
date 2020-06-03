@@ -176,6 +176,9 @@ def extract_features_from_dir(dir_path, not_answers=NOT_ANSWERS):
     files_paths = [os.path.join(dir_path, file) for file in os.listdir(dir_path) if
                    os.path.isfile(os.path.join(dir_path, file)) and file.endswith('.csv')]
 
+    if not files_paths:
+        return None, None
+
     list_of_dfs_solver = []
     list_of_dfs_answer = []
 
@@ -198,10 +201,15 @@ def extract_features_from_dir(dir_path, not_answers=NOT_ANSWERS):
     return all_data_solver, all_data_ans
 
 
+def feature_extraction():
+    raw_data_path = os.path.join(os.getcwd(), 'data', 'raw data')
+    solver_features, answer_features = extract_features_from_dir(raw_data_path)
+    if solver_features is not None and answer_features is not None:
+        write_data(solver_features, os.path.join(os.getcwd(), 'data', 'featured data', 'solver_features.csv'))
+        write_data(answer_features, os.path.join(os.getcwd(), 'data', 'featured data', 'answer_features.csv'))
+
+
 if __name__ == '__main__':
     with warnings.catch_warnings():
         warnings.filterwarnings('ignore')
-        raw_data_path = os.path.join(os.getcwd(), 'data', 'raw data')
-        solver_features, answer_features = extract_features_from_dir(raw_data_path)
-        write_data(solver_features, os.path.join(os.getcwd(), 'data', 'featured data', 'solver_features.csv'))
-        write_data(answer_features, os.path.join(os.getcwd(), 'data', 'featured data', 'answer_features.csv'))
+        feature_extraction()
