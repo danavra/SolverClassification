@@ -172,8 +172,8 @@ def all_data(featured_dir_path, answer_features_file, solver_features_file):
             # pd.concat(solver_minFeatures_group_out_preds[key]).to_csv(os.path.join(os.getcwd(), 'data', 'groups_problems', 'results', 'solver_minFeatures_group_{}.csv'.format(key)))
             # pd.concat(answer_minFeatures_problem_out_preds[key]).to_csv(os.path.join(os.getcwd(), 'data', 'groups_problems', 'results', 'answer_minFeatures_problem_{}.csv'.format(key)))
             # pd.concat(solver_minFeatures_problem_out_preds[key]).to_csv(os.path.join(os.getcwd(), 'data', 'groups_problems', 'results', 'solver_minFeatures_problem_{}.csv'.format(key)))
-            pd.concat(answer_Conf_group_out_preds[key]).to_csv(os.path.join(os.getcwd(), 'data', 'groups_problems', 'results', 'answer_Conf_group_{}.csv'.format(key)))
-            pd.concat(solver_Conf_group_out_preds[key]).to_csv(os.path.join(os.getcwd(), 'data', 'groups_problems', 'results', 'solver_Conf_group_{}.csv'.format(key)))
+            pd.concat(answer_Conf_group_out_preds[key]).to_csv(os.path.join(os.getcwd(), 'data', 'predictions', 'answer_Conf_group_{}.csv'.format(key)))
+            pd.concat(solver_Conf_group_out_preds[key]).to_csv(os.path.join(os.getcwd(), 'data', 'predictions', 'solver_Conf_group_{}.csv'.format(key)))
             # pd.concat(answer_Conf_problem_out_preds[key]).to_csv(os.path.join(os.getcwd(), 'data', 'groups_problems', 'results', 'answer_Conf_problem_{}.csv'.format(key)))
             # pd.concat(solver_Conf_problem_out_preds[key]).to_csv(os.path.join(os.getcwd(), 'data', 'groups_problems', 'results', 'solver_Conf_problem_{}.csv'.format(key)))
     except Exception as e:
