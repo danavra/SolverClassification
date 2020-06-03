@@ -1,0 +1,76 @@
+.material-icons {
+    font-family: 'Material Icons';
+    font-weight: normal;
+    font-style: normal;
+    font-size: 24px;  /* Preferred icon size */
+    display: inline-block;
+    line-height: 1;
+    text-transform: none;
+    letter-spacing: normal;
+    word-wrap: normal;
+    white-space: nowrap;
+    direction: ltr;
+  
+    /* Support for all WebKit browsers. */
+    -webkit-font-smoothing: antialiased;
+    /* Support for Safari and Chrome. */
+    text-rendering: optimizeLegibility;
+  
+    /* Support for Firefox. */
+    -moz-osx-font-smoothing: grayscale;
+  
+    /* Support for IE. */
+    font-feature-settings: 'liga';
+  }
+  
+  header {
+    padding: 15px;  
+  }
+  section {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .tooltip-container {
+    position: relative;
+    &:hover {
+      .tooltip-content {
+        visibility: visible;
+        opacity: 1;
+        transition: .25s all ease;
+        transition-delay: 0s;
+        top: -125px;
+      }
+    }
+  }
+  .tooltip-content {
+    visibility: hidden;
+    opacity: 0;
+    position: absolute;
+    background: #000000;
+    left: -38px;
+    top: -130px;
+    padding: 0 15px;
+    margin: 16px;
+    font-size: 15px;  
+    width: 250px;
+    transition: .25s all ease;
+    transition-delay: .25s;
+    z-index: 2;
+    color: #FFFFFF;
+      .align-right {
+        text-align: right;
+        a {
+          color: red;
+          text-decoration: none;
+          &:hover {
+            text-decoration: underline;
+          }
+        }
+      }
+    &:after {
+        
+    }
+  }
