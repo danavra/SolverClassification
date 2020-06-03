@@ -64,21 +64,8 @@ def clustering():
         clustered_df = make_cluster(file_name)
         clustered_df.to_csv(join(getcwd(), 'data', 'clustered data', 'dbscan02.csv'))
 
+
 if __name__ == '__main__':
     with warnings.catch_warnings():
         warnings.filterwarnings('ignore')
-        clustering()
-
-        # featured_dir_path = join(getcwd(), 'data', 'featured data')
-        # answer_features, solver_features = get_normalized_features_df(featured_dir_path, 'answer_features.csv',
-        #                                                               'solver_features.csv')
-
-        # meta_features = pd.read_csv(join(getcwd(), 'data', 'clustered data', 'dbscan02.csv'))
-        # meta_features.rename(columns={'cluster': 'Class'}, inplace=True)
-        # mark = '*'*50
-        # print('{m}Solver Feature Importance{m}'.format(m=mark))
-        # feature_importance(solver_features, SOLVER_FEATURES)
-        # print('{m}Answer Feature Importance{m}'.format(m=mark))
-        # feature_importance(answer_features, ANSWER_FEATURES)
-        # print('{m}Meta Feature Importance{m}'.format(m=mark))
-        # feature_importance(meta_features, META_FEATURES)
+        # clustering()

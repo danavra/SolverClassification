@@ -6,7 +6,7 @@ PERCENTAGE_DICT = {"0-10%": 0.1, "11-20%": 0.2, "21-30%": 0.3, "31-40%": 0.4, "4
                    "61-70%": 0.7, "71-80%": 0.8, "81-90%": 0.9, "91-100%": 1.0, "51-100%": 0.75}
 NOT_ANSWERS = ['Gender', 'Education', 'Confidence', 'Problem', 'Worker ID', 'Age', 'Strong hand', 'Psolve', 'Hand',
                'Subjective Difficulty', 'Objective Difficutly', 'Class', 'group_number', 'Answer']
-
+RAW_DATA_DIR = os.path.join(os.getcwd(), 'data', 'raw data')
 
 def get_answers_from_df(df_raw, not_answers=NOT_ANSWERS):
     """
@@ -123,7 +123,7 @@ def separate_to_groups(df_path, group_num):
     return group_num
 
 
-def make_groups(dir_path):
+def make_groups(dir_path=RAW_DATA_DIR):
     """
     given a directory path divide all the dfs to group (add to the file another column to 'group_number')
     :param dir_path: the path to the directory
@@ -181,6 +181,6 @@ if __name__ == '__main__':
         # make_groups(raw_data_dir_path)
         # mark = '*'*60
         # print('{0} DONE {0}'.format(mark))
-        print('start')
-        directories_validation()
-        print('end')
+        # print('start')
+        # directories_validation()
+        # print('end')

@@ -1,0 +1,125 @@
+Worker ID,Problem,Age,Gender,Strong hand,Education,Answer,Confidence,Psolve,ABC,ACB,BCA,BAC,CAB,CBA,Class,group_number
+A3C8NUIBNZYMT2,Pills,29,Male,Right,College,CBA,5,31-40%,61-70%,21-30%,31-40%,41-50%,51-60%,61-70%,Non-Solver,73
+A1SX8IVV82M0LW,Pills,18,Male,Right,High School/GED,CAB,10,51-60%,0-10%,0-10%,0-10%,11-20%,71-80%,0-10%,Non-Solver,73
+AU7A3QNJF3O00,Pills,30,Male,Right,College,ACB,3,11-20%,11-20%,21-30%,11-20%,11-20%,11-20%,0-10%,Solver,73
+A27MJOV91GA8R3,Pills,32,Male,Right,College,BAC,1,11-20%,11-20%,11-20%,11-20%,21-30%,11-20%,11-20%,Non-Solver,73
+A326O3VWP8TO8N,Pills,27,Male,Right,College,ACB,5,41-50%,11-20%,41-50%,0-10%,21-30%,0-10%,0-10%,Solver,73
+A2TVJTQ4VXATE6,Pills,27,Male,Right,High School/GED,ABC,1,11-20%,0-10%,11-20%,21-30%,0-10%,0-10%,0-10%,Non-Solver,73
+APGX2WZ59OWDN,Pills,25,Female,Right,College,ACB,5,21-30%,11-20%,21-30%,11-20%,11-20%,11-20%,11-20%,Solver,73
+AIZTLQM7HHQN6,Pills,27,Male,Right,College,BAC,3,11-20%,41-50%,11-20%,0-10%,21-30%,21-30%,0-10%,Non-Solver,73
+A3UN1F1EOHKKE6,Pills,37,Male,Right,High School/GED,CAB,1,11-20%,11-20%,11-20%,11-20%,11-20%,11-20%,11-20%,Non-Solver,73
+AUFOO8PU2BK37,Pills,37,Female,Right,College,ACB,8,81-90%,21-30%,71-80%,21-30%,21-30%,51-60%,21-30%,Solver,73
+A3U21PUMQ6NGT2,Pills,37,Female,Right,College,BCA,4,31-40%,11-20%,0-10%,21-30%,41-50%,21-30%,21-30%,Non-Solver,73
+AAQREZOK13OV7,Pills,30,Male,Right,College,ABC,8,61-70%,61-70%,11-20%,0-10%,11-20%,0-10%,0-10%,Non-Solver,73
+AQ9Y6WD8O72ZC,Pills,29,Female,Right,High School/GED,ACB,7,41-50%,11-20%,11-20%,11-20%,11-20%,0-10%,0-10%,Solver,73
+A11FFJZ0C984W4,Pills,25,Female,Right,College,CAB,8,61-70%,11-20%,11-20%,11-20%,11-20%,41-50%,11-20%,Non-Solver,73
+AKHH4W14A6AN9,Pills,37,Female,Right,College,ABC,2,21-30%,31-40%,11-20%,0-10%,0-10%,0-10%,0-10%,Non-Solver,73
+A3LRZX8477TYYZ,Pills,40,Male,Right,Graduate Degree,ABC,3,71-80%,71-80%,0-10%,0-10%,0-10%,0-10%,0-10%,Non-Solver,73
+A12DY4HHG6MYF0,Pills,26,Male,Right,College,ABC,10,71-80%,71-80%,21-30%,31-40%,51-60%,41-50%,61-70%,Non-Solver,73
+A2DM5XGRO22AO9,Pills,33,Male,Right,Graduate Degree,ACB,6,11-20%,21-30%,41-50%,31-40%,41-50%,21-30%,41-50%,Solver,73
+A2DVJ6OMVVYTC7,Pills,30,Male,Right,College,BCA,3,51-60%,11-20%,21-30%,21-30%,11-20%,31-40%,21-30%,Non-Solver,73
+A1EZ1021PEAFQJ,Pills,28,Male,Right,Graduate Degree,BCA,8,61-70%,61-70%,51-60%,61-70%,71-80%,51-60%,61-70%,Non-Solver,73
+A397QMUM40C4SH,Pills,25,Female,Right,High School/GED,ABC,6,21-30%,31-40%,51-60%,11-20%,21-30%,21-30%,51-60%,Non-Solver,73
+A25JCKN3DMCYA0,Pills,23,Male,Left,College,ABC,10,31-40%,31-40%,11-20%,0-10%,0-10%,0-10%,0-10%,Non-Solver,73
+A1QJ2VPPZG16EG,Pills,62,Female,Left,College,BAC,1,21-30%,21-30%,21-30%,21-30%,21-30%,21-30%,21-30%,Non-Solver,73
+ABL3H3O3BI8ZD,Pills,29,Male,Right,College,BAC,7,31-40%,41-50%,41-50%,51-60%,41-50%,31-40%,31-40%,Non-Solver,73
+AZCGSVDT79E6X,Pills,25,Male,Right,Less than High School,CAB,3,11-20%,11-20%,11-20%,11-20%,11-20%,11-20%,11-20%,Non-Solver,73
+A6FE2ZQNFW12V,Pills,29,Female,Right,College,BAC,10,81-90%,11-20%,11-20%,21-30%,11-20%,51-60%,11-20%,Non-Solver,73
+A1DS5O8MSI3ZH0,Pills,42,Male,Right,College,CAB,3,11-20%,21-30%,31-40%,11-20%,11-20%,21-30%,31-40%,Non-Solver,73
+A3774HPOUKYTX7,Pills,36,Male,Right,College,BAC,7,41-50%,41-50%,51-60%,61-70%,71-80%,51-60%,61-70%,Non-Solver,73
+A250FES5PFCGK9,Pills,36,Male,Right,Graduate Degree,ACB,5,41-50%,0-10%,41-50%,0-10%,0-10%,11-20%,21-30%,Solver,73
+A26SF9CTNKKBYB,Pills,33,Male,Right,College,ACB,6,0-10%,41-50%,0-10%,0-10%,0-10%,0-10%,0-10%,Solver,73
+A3W6T1WDYXMR3,Pills,25,Male,Right,High School/GED,ACB,8,61-70%,21-30%,51-60%,0-10%,0-10%,0-10%,0-10%,Solver,74
+AOTCPS24JM5DQ,Pills,26,Male,Right,College,BAC,7,31-40%,51-60%,31-40%,31-40%,21-30%,61-70%,71-80%,Non-Solver,74
+AIEKCWYZTS41V,Pills,33,Male,Right,High School/GED,ACB,8,41-50%,0-10%,41-50%,11-20%,11-20%,11-20%,11-20%,Solver,74
+A12A5GVJX5RZC4,Pills,37,Male,Right,High School/GED,ABC,10,71-80%,71-80%,31-40%,11-20%,11-20%,11-20%,11-20%,Non-Solver,74
+A2KYOM2ZGYDJGT,Pills,37,Male,Right,College,ABC,4,31-40%,51-60%,11-20%,11-20%,11-20%,11-20%,11-20%,Non-Solver,74
+AR9U4CJEF2TIJ,Pills,29,Male,Right,Graduate Degree,ACB,7,31-40%,41-50%,51-60%,51-60%,61-70%,41-50%,31-40%,Solver,74
+A258MR1IS96JEP,Pills,35,Male,Left,High School/GED,ACB,1,0-10%,21-30%,21-30%,21-30%,21-30%,21-30%,21-30%,Solver,74
+A2XQ3P6M9NZNYB,Pills,30,Male,Right,College,ABC,3,51-60%,21-30%,61-70%,51-60%,31-40%,41-50%,61-70%,Non-Solver,74
+A3CWEIEY3TGJFX,Pills,43,Male,Right,College,ACB,7,71-80%,0-10%,61-70%,0-10%,0-10%,0-10%,0-10%,Solver,74
+AURYD2FH3FUOQ,Pills,57,Female,Right,College,ACB,10,41-50%,0-10%,41-50%,0-10%,0-10%,0-10%,0-10%,Solver,74
+A1IV1O890FN1QA,Pills,28,Female,Right,College,ACB,10,91-100%,71-80%,81-90%,71-80%,71-80%,81-90%,81-90%,Solver,74
+A1I1OKH7O2QMD1,Pills,29,Male,Right,College,BAC,8,31-40%,61-70%,51-60%,51-60%,31-40%,71-80%,61-70%,Non-Solver,74
+A1JGAS94S72D26,Pills,23,Male,Right,College,ACB,6,21-30%,21-30%,11-20%,31-40%,11-20%,0-10%,0-10%,Solver,74
+A1JWHMZP93XXVY,Pills,34,Female,Right,Graduate Degree,ACB,5,11-20%,11-20%,0-10%,11-20%,11-20%,11-20%,11-20%,Solver,74
+ACGZDI611LU0I,Pills,34,Male,Right,Graduate Degree,ABC,9,31-40%,31-40%,31-40%,11-20%,11-20%,0-10%,0-10%,Non-Solver,74
+A32U64W0S9PUA3,Pills,24,Male,Right,College,CAB,6,21-30%,31-40%,31-40%,31-40%,31-40%,31-40%,31-40%,Non-Solver,74
+A19L8SNH73AX1Z,Pills,55,Female,Both hands are equally strong,High School/GED,ABC,5,21-30%,0-10%,21-30%,0-10%,11-20%,11-20%,0-10%,Non-Solver,74
+A2YGAEODJ5SSF6,Pills,42,Male,Right,High School/GED,ACB,3,21-30%,31-40%,21-30%,21-30%,11-20%,0-10%,21-30%,Solver,74
+A10BY3JE3Q69TE,Pills,41,Male,Right,College,BCA,8,21-30%,51-60%,41-50%,51-60%,41-50%,51-60%,51-60%,Non-Solver,74
+A2XQ3CFB5HT2ZQ,Pills,56,Female,Right,College,ACB,3,11-20%,11-20%,51-60%,21-30%,0-10%,31-40%,41-50%,Solver,74
+A27HVVLSZZ13XK,Pills,48,Male,Right,High School/GED,ACB,7,51-60%,11-20%,61-70%,0-10%,0-10%,0-10%,0-10%,Solver,74
+A3MYPYBVHX7FQ2,Pills,48,Male,Both hands are equally strong,College,CBA,10,51-60%,21-30%,21-30%,0-10%,0-10%,31-40%,0-10%,Non-Solver,74
+A3OB6REG5CGHK1,Pills,57,Male,Right,College,ACB,7,11-20%,11-20%,11-20%,11-20%,11-20%,11-20%,11-20%,Solver,74
+A1V595KBP0VLEO,Pills,28,Male,Right,College,BAC,6,41-50%,41-50%,51-60%,41-50%,61-70%,51-60%,41-50%,Non-Solver,74
+A5V3P23WEJLOV,Pills,28,Male,Right,College,BCA,9,51-60%,61-70%,71-80%,61-70%,51-60%,71-80%,61-70%,Non-Solver,74
+A10MQ5029FTEDI,Pills,49,Male,Right,College,BAC,9,71-80%,71-80%,61-70%,81-90%,81-90%,71-80%,61-70%,Non-Solver,74
+A3LNM77PCQOTHJ,Pills,34,Male,Right,High School/GED,CAB,8,31-40%,11-20%,11-20%,11-20%,11-20%,41-50%,11-20%,Non-Solver,74
+ATWAJESPOXKOF,Pills,29,Female,Right,Graduate Degree,ABC,9,31-40%,71-80%,61-70%,41-50%,51-60%,31-40%,31-40%,Non-Solver,74
+AHIJACUG7ZL9B,Pills,29,Male,Right,High School/GED,BAC,3,11-20%,11-20%,11-20%,11-20%,11-20%,11-20%,0-10%,Non-Solver,74
+A3MWDD6PZZ9SM3,Pills,25,Male,Right,College,BAC,8,21-30%,61-70%,51-60%,41-50%,41-50%,51-60%,41-50%,Non-Solver,74
+A110KENBXU7SUJ,Pills,46,Male,Both hands are equally strong,High School/GED,ABC,7,51-60%,21-30%,0-10%,0-10%,11-20%,0-10%,11-20%,Non-Solver,75
+A2VFEDAK5C1E1O,Pills,38,Male,Right,High School/GED,ACB,10,41-50%,0-10%,41-50%,0-10%,0-10%,0-10%,0-10%,Solver,75
+A1NTZ2XCWWT6E5,Pills,35,Female,Right,College,ACB,8,61-70%,0-10%,21-30%,11-20%,0-10%,41-50%,21-30%,Solver,75
+AFLEU7YLJ3MMF,Pills,42,Male,Right,Graduate Degree,ACB,8,21-30%,51-60%,31-40%,61-70%,71-80%,61-70%,51-60%,Solver,75
+A3P4253DFNPWIB,Pills,28,Male,Right,College,ABC,5,61-70%,31-40%,11-20%,0-10%,11-20%,11-20%,0-10%,Non-Solver,75
+A27NBGO9FXJS8Q,Pills,31,Male,Right,College,CAB,6,11-20%,0-10%,71-80%,41-50%,61-70%,31-40%,21-30%,Non-Solver,75
+A30VLAIIJIG5IS,Pills,53,Male,Right,Graduate Degree,CBA,4,61-70%,11-20%,0-10%,11-20%,0-10%,0-10%,31-40%,Non-Solver,75
+APRZ7BR8C0ZMQ,Pills,55,Male,Right,College,ABC,3,31-40%,51-60%,41-50%,31-40%,31-40%,21-30%,31-40%,Non-Solver,75
+A2YP22IYWPZWR0,Pills,29,Male,Right,College,BAC,3,21-30%,11-20%,31-40%,21-30%,0-10%,11-20%,0-10%,Non-Solver,75
+A3RI0ZY01U4UHF,Pills,25,Female,Right,College,ACB,7,11-20%,51-60%,61-70%,51-60%,71-80%,61-70%,61-70%,Solver,75
+A3908297ZI3LES,Pills,57,Female,Right,High School/GED,ABC,6,51-60%,51-60%,41-50%,21-30%,31-40%,11-20%,0-10%,Non-Solver,75
+A3A9PARKHSKRWI,Pills,41,Male,Right,Graduate Degree,BAC,8,21-30%,11-20%,31-40%,31-40%,41-50%,41-50%,61-70%,Non-Solver,75
+A2SB9HU5RD9QCP,Pills,29,Male,Right,College,ACB,7,21-30%,11-20%,21-30%,0-10%,11-20%,0-10%,0-10%,Solver,75
+AZ79FR04OLJX8,Pills,66,Female,Right,College,ABC,3,11-20%,11-20%,11-20%,11-20%,0-10%,11-20%,11-20%,Non-Solver,75
+AFXUY512E31AP,Pills,37,Male,Right,Graduate Degree,BAC,10,71-80%,81-90%,71-80%,71-80%,81-90%,71-80%,81-90%,Non-Solver,75
+A14SEFVPXYZ9TN,Pills,26,Male,Right,High School/GED,ACB,5,21-30%,11-20%,61-70%,11-20%,0-10%,0-10%,0-10%,Solver,75
+A3J55BJGV95JKH,Pills,45,Female,Right,College,ACB,10,91-100%,0-10%,81-90%,0-10%,0-10%,0-10%,0-10%,Solver,75
+A12GJUCS7AJ4K,Pills,33,Male,Left,High School/GED,BAC,4,21-30%,41-50%,11-20%,11-20%,21-30%,11-20%,11-20%,Non-Solver,75
+A2DHLRV1OE925A,Pills,28,Male,Right,College,ABC,7,51-60%,51-60%,61-70%,61-70%,51-60%,51-60%,61-70%,Non-Solver,75
+A1VOHR7TYJPT0R,Pills,36,Female,Right,College,ACB,7,21-30%,21-30%,21-30%,0-10%,0-10%,0-10%,0-10%,Solver,75
+A1C5H6OY3HGO4U,Pills,36,Male,Right,Graduate Degree,ACB,5,31-40%,11-20%,21-30%,31-40%,31-40%,11-20%,11-20%,Solver,75
+A27OFZ8AKEIQ0K,Pills,35,Female,Right,College,ABC,8,61-70%,41-50%,51-60%,31-40%,41-50%,31-40%,41-50%,Non-Solver,75
+A3HMDGRGC5JB7E,Pills,33,Female,Right,College,BCA,2,21-30%,31-40%,11-20%,0-10%,21-30%,41-50%,51-60%,Non-Solver,75
+A18ILYDB04VEE9,Pills,26,Female,Right,Graduate Degree,ABC,8,41-50%,61-70%,51-60%,51-60%,31-40%,51-60%,41-50%,Non-Solver,75
+A2LR1HKNOVDTJ8,Pills,49,Male,Left,College,BAC,1,11-20%,11-20%,11-20%,11-20%,11-20%,11-20%,11-20%,Non-Solver,75
+A28AX4H70DPKKK,Pills,30,Male,Right,High School/GED,BAC,10,91-100%,0-10%,0-10%,0-10%,81-90%,0-10%,0-10%,Non-Solver,75
+A377LTGWJKY2IW,Pills,50,Female,Right,High School/GED,ABC,1,0-10%,0-10%,11-20%,21-30%,0-10%,11-20%,0-10%,Non-Solver,75
+A39VDI1CVOMMIN,Pills,21,Male,Right,College,ACB,8,41-50%,21-30%,11-20%,0-10%,0-10%,0-10%,0-10%,Solver,75
+A2A6FH0F7LD9ND,Pills,55,Female,Right,High School/GED,BAC,9,21-30%,0-10%,0-10%,21-30%,21-30%,31-40%,0-10%,Non-Solver,75
+A2YOVBJ9EXAI8W,Pills,33,Male,Right,High School/GED,ACB,7,31-40%,21-30%,31-40%,21-30%,0-10%,0-10%,0-10%,Solver,75
+A3MFK5UEUG95M3,Pills,35,Male,Right,College,ACB,8,21-30%,11-20%,21-30%,11-20%,11-20%,0-10%,11-20%,Solver,76
+A2WHC086WNUQNB,Pills,52,Female,Right,College,ACB,7,51-60%,41-50%,51-60%,21-30%,21-30%,21-30%,21-30%,Solver,76
+A39ROW50DWRRKT,Pills,35,Male,Right,High School/GED,BAC,4,31-40%,11-20%,21-30%,21-30%,11-20%,21-30%,21-30%,Non-Solver,76
+A2ZL5GAZK6S0H1,Pills,27,Male,Left,Graduate Degree,BCA,8,71-80%,11-20%,31-40%,31-40%,41-50%,51-60%,51-60%,Non-Solver,76
+AA8PZKO9XGCKO,Pills,26,Female,Right,High School/GED,ACB,7,41-50%,0-10%,41-50%,0-10%,0-10%,0-10%,0-10%,Solver,76
+A15F0IM3OS0NJG,Pills,32,Male,Right,Graduate Degree,BAC,8,31-40%,61-70%,41-50%,61-70%,51-60%,51-60%,71-80%,Non-Solver,76
+A27CB6JIC5MZFR,Pills,29,Male,Right,College,ACB,6,21-30%,11-20%,21-30%,21-30%,11-20%,11-20%,0-10%,Solver,76
+A2FE0I7W269C1C,Pills,37,Female,Right,High School/GED,CAB,3,21-30%,0-10%,0-10%,21-30%,11-20%,11-20%,0-10%,Non-Solver,76
+A379F1RR5E3SVU,Pills,39,Male,Right,College,ACB,8,61-70%,0-10%,61-70%,0-10%,31-40%,0-10%,0-10%,Solver,76
+A349KZN1TIW8XQ,Pills,29,Male,Right,Graduate Degree,BAC,9,81-90%,61-70%,41-50%,71-80%,61-70%,51-60%,41-50%,Non-Solver,76
+A1LWWVCY9FPIAW,Pills,23,Male,Left,High School/GED,ACB,5,11-20%,0-10%,0-10%,0-10%,0-10%,0-10%,0-10%,Solver,76
+A2GNG7DWHQA6ZZ,Pills,33,Male,Right,College,ABC,6,31-40%,31-40%,0-10%,0-10%,21-30%,0-10%,0-10%,Non-Solver,76
+A3T08B0RTD7PRH,Pills,30,Male,Right,College,ACB,7,51-60%,31-40%,51-60%,41-50%,21-30%,51-60%,51-60%,Solver,76
+A3CXK1KSRGU27V,Pills,29,Male,Right,High School/GED,ABC,2,21-30%,21-30%,31-40%,11-20%,11-20%,31-40%,11-20%,Non-Solver,76
+AA4KKLIU4C3NY,Pills,43,Male,Right,College,ACB,9,11-20%,21-30%,31-40%,21-30%,21-30%,31-40%,31-40%,Solver,76
+A2MHPG30DV35JM,Pills,30,Female,Right,Graduate Degree,BAC,7,41-50%,41-50%,31-40%,11-20%,41-50%,21-30%,11-20%,Non-Solver,76
+A8VFIXE5FL8C6,Pills,27,Female,Right,College,ACB,9,41-50%,11-20%,41-50%,11-20%,11-20%,11-20%,11-20%,Solver,76
+A3RYI5HXC2MJLN,Pills,38,Male,Right,High School/GED,ABC,7,41-50%,51-100%,0-10%,11-20%,0-10%,0-10%,0-10%,Non-Solver,76
+A36SM7QM8OK3H6,Pills,31,Female,Right,College,BAC,8,31-40%,11-20%,11-20%,11-20%,21-30%,11-20%,11-20%,Non-Solver,76
+A320QA9HJFUOZO,Pills,32,Male,Right,College,CAB,3,21-30%,21-30%,11-20%,21-30%,11-20%,11-20%,11-20%,Non-Solver,76
+A2FGDZX6Q0AFVM,Pills,21,Male,Left,High School/GED,ABC,5,21-30%,31-40%,0-10%,11-20%,11-20%,0-10%,0-10%,Non-Solver,76
+A2N2GFB33ZMYGF,Pills,37,Male,Right,College,ACB,5,21-30%,11-20%,21-30%,11-20%,11-20%,21-30%,11-20%,Solver,76
+A2EJ7U3TZAKROG,Pills,42,Male,Right,Graduate Degree,ACB,6,21-30%,0-10%,21-30%,11-20%,0-10%,11-20%,0-10%,Solver,76
+A2PXJTMWGUE5DC,Pills,59,Female,Right,College,BCA,2,21-30%,0-10%,41-50%,11-20%,21-30%,31-40%,51-100%,Non-Solver,76
+AL2J5M8WQIKMI,Pills,39,Male,Right,High School/GED,BCA,3,11-20%,11-20%,11-20%,11-20%,11-20%,11-20%,11-20%,Non-Solver,76
+AJXUWIDZ3HTC6,Pills,35,Male,Right,College,BCA,6,11-20%,41-50%,31-40%,21-30%,41-50%,41-50%,31-40%,Non-Solver,76
+A2WZ8ZEB00LYF7,Pills,27,Male,Right,High School/GED,ACB,5,31-40%,31-40%,21-30%,31-40%,21-30%,21-30%,41-50%,Solver,76
+A48WNR6C4CI3J,Pills,35,Male,Right,High School/GED,BAC,1,11-20%,11-20%,11-20%,11-20%,11-20%,11-20%,11-20%,Non-Solver,76
+A1PTH9KTRO06EG,Pills,24,Male,Right,College,ACB,10,41-50%,41-50%,51-100%,0-10%,0-10%,0-10%,0-10%,Solver,76
+A1VAL7L9L79IN0,Pills,28,Male,Right,High School/GED,ACB,7,51-100%,11-20%,31-40%,0-10%,11-20%,11-20%,0-10%,Solver,76
+A6ZAKE3FP8YKY,Pills,30,Male,Right,Graduate Degree,BAC,1,21-30%,31-40%,11-20%,11-20%,31-40%,11-20%,11-20%,Non-Solver,76
+A31681CCEVDIH3,Pills,31,Female,Right,College,BCA,1,21-30%,0-10%,11-20%,21-30%,0-10%,11-20%,11-20%,Non-Solver,76
+A2N825X4R5H7EK,Pills,30,Male,Right,College,ABC,9,51-100%,41-50%,31-40%,31-40%,41-50%,41-50%,31-40%,Non-Solver,76
+A1CQ45RYFB2K5P,Pills,26,Female,Right,Graduate Degree,ABC,10,51-100%,51-100%,11-20%,0-10%,0-10%,0-10%,11-20%,Non-Solver,76

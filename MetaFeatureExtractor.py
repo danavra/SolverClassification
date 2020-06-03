@@ -223,5 +223,5 @@ def meta_feature_extractor():
 if __name__ == '__main__':
     with warnings.catch_warnings():
         warnings.filterwarnings('ignore')
-        meta_feature_extractor()
+        # meta_feature_extractor()
 

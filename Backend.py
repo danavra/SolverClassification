@@ -1,7 +1,11 @@
 import pandas as pd
 from flask import Flask, request, jsonify
 from flask_cors import CORS
-import json
+from DataUtil import directories_validation, make_groups
+from FeatureExtraction import feature_extraction
+from MetaFeatureExtractor import meta_feature_extractor
+from Clustering import clustering
+from run_all_experiments import run_all_experiments
 
 app = Flask(__name__)
 CORS(app)
@@ -30,7 +34,11 @@ def solve_problem():
 @app.route('/create_db', methods=['POST'])
 def create_db():
  print("Running function create_db()")
-
+ directories_validation()
+ make_groups()
+ feature_extraction()
+ meta_feature_extractor()
+ clustering()
 
 
  # Server response

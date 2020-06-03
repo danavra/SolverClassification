@@ -1,0 +1,98 @@
+Worker ID,Problem,Age,Gender,Strong hand,Education,Answer,Confidence,Subjective Difficulty,Objective Difficutly,Psolve,12.5,33,37.5,50,62.5,87.5,100,Class,group_number
+AJBOT9QX4WF9U,Coin,36,Female,Both hands are equally strong,Graduate Degree,12.5,10,2,3,100%,100%,0%,0%,0%,0%,0%,0%,Non-Solver,16
+A3C4Z92TK10YLG,Coin,37,Female,Right,Graduate Degree,12.5,10,1,1,100%,100%,0%,0%,0%,0%,0%,0%,Non-Solver,16
+A3IAGHFA00V6MY,Coin,40,Male,Right,Graduate Degree,12.5,9,6,4,100%,55%,0%,0%,10%,15%,10%,10%,Non-Solver,16
+A2GOYSTIL3LOV1,Coin,45,Female,Right,Graduate Degree,62.5,2,8,5,40%,0%,0%,0%,0%,35%,35%,30%,Non-Solver,16
+A2G9QDQGHYWSYV,Coin,27,Female,Right,College,37.5,7,8,5,80%,15%,20%,25%,10%,10%,10%,10%,Non-Solver,16
+A12HWPFXQPITHD,Coin,29,Male,Right,College,37.5,10,1,1,85%,0%,0%,85%,15%,0%,0%,0%,Non-Solver,16
+A3K00L9I9L92BJ,Coin,29,Female,Right,Graduate Degree,87.5,9,6,7,60%,5%,5%,10%,20%,0%,60%,0%,Solver,16
+A2A4Q3XU50SBE2,Coin,35,Male,Right,High School/GED,37.5,7,8,8,30%,0%,20%,30%,40%,0%,0%,10%,Non-Solver,16
+A1GRPIBHW72HDU,Coin,30,Male,Right,College,87.5,8,4,7,30%,15%,20%,10%,15%,0%,30%,10%,Solver,16
+A107MHGX27KJLR,Coin,29,Male,Right,Graduate Degree,50,10,9,8,100%,0%,0%,0%,100%,0%,0%,0%,Non-Solver,16
+A7L5FHBFIVN0T,Coin,45,Male,Right,Graduate Degree,12.5,4,6,7,95%,60%,5%,10%,15%,5%,5%,0%,Non-Solver,16
+A3HZFB2JLF3JMY,Coin,32,Male,Right,College,37.5,2,5,9,75%,15%,20%,25%,15%,10%,10%,5%,Non-Solver,16
+A2W02BZI9OCDNX,Coin,25,Male,Right,Graduate Degree,37.5,5,3,4,25%,20%,20%,20%,15%,10%,5%,10%,Non-Solver,16
+A1K35CNHGJEI9Q,Coin,32,Male,Right,Graduate Degree,50,5,4,4,60%,20%,20%,20%,15%,5%,10%,10%,Non-Solver,16
+AJFO6Q9JBD48Q,Coin,30,Male,Right,Graduate Degree,33,9,5,6,75%,10%,50%,5%,5%,10%,10%,10%,Non-Solver,16
+A3EM2M2S1VKR85,Coin,40,Female,Right,Graduate Degree,100,10,1,1,90%,0%,0%,0%,0%,0%,10%,90%,Non-Solver,16
+AIZ4C8S4DW2WG,Coin,33,Female,Right,Graduate Degree,87.5,9,10,8,20%,0%,0%,0%,55%,0%,20%,25%,Solver,16
+A28J7H4TH29DC3,Coin,49,Female,Right,College,37.5,5,6,7,25%,0%,0%,25%,50%,0%,25%,0%,Non-Solver,16
+ACZK4PTILUFAP,Coin,30,Male,Right,High School/GED,33,5,7,4,10%,20%,15%,10%,10%,10%,15%,20%,Non-Solver,16
+A1UEX245I12ZH7,Coin,63,Female,Right,College,100,8,4,3,55%,0%,30%,0%,10%,10%,0%,50%,Non-Solver,16
+A6EOG99281TB3,Coin,30,Male,Both hands are equally strong,Graduate Degree,50,5,8,5,40%,0%,15%,55%,30%,0%,0%,0%,Non-Solver,16
+A3CASN6JG7104,Coin,44,Male,Right,Graduate Degree,33,8,10,7,60%,10%,35%,15%,40%,0%,0%,0%,Non-Solver,16
+AUAN582MLI96N,Coin,41,Male,Right,Graduate Degree,87.5,5,10,10,10%,5%,30%,10%,40%,5%,5%,5%,Solver,16
+A38DHLB88V8DL8,Coin,45,Female,Right,College,33,6,5,6,65%,0%,65%,0%,35%,0%,0%,0%,Non-Solver,16
+A11BSFO4LMHPXQ,Coin,42,Female,Right,College,87.5,9,2,5,30%,0%,5%,15%,30%,15%,20%,15%,Solver,16
+A19BXCY9Q8IZOK,Coin,29,Male,Right,College,50,6,6,6,55%,10%,10%,10%,40%,10%,10%,10%,Non-Solver,16
+A1M7H40V3FRIOX,Coin,27,Male,Right,Graduate Degree,12.5,10,4,5,15%,45%,15%,10%,15%,10%,5%,0%,Non-Solver,16
+A2BVVFXMQU8AC7,Coin,36,Male,Right,College,87.5,7,4,6,45%,0%,20%,0%,30%,0%,20%,30%,Solver,16
+ACWVHNV57A8IJ,Coin,28,Male,Right,Graduate Degree,87.5,10,4,5,40%,30%,10%,5%,5%,0%,50%,0%,Solver,16
+A3BX2W07QY9NNG,Coin,28,Male,Right,Graduate Degree,33,5,6,6,60%,5%,60%,5%,5%,10%,10%,5%,Non-Solver,16
+AUFOO8PU2BK37,Coin,38,Female,Right,College,33,5,5,5,75%,0%,75%,25%,0%,0%,0%,0%,Non-Solver,17
+A30KYQGABO7JER,Coin,35,Female,Right,College,87.5,10,2,7,30%,5%,10%,10%,25%,15%,30%,5%,Solver,17
+A3PKTPXXORWR97,Coin,26,Female,Right,Graduate Degree,87.5,6,5,5,50%,5%,5%,5%,10%,20%,50%,5%,Solver,17
+A1C7XI68SED8JE,Coin,37,Female,Left,College,87.5,9,4,4,85%,0%,0%,0%,0%,0%,90%,10%,Solver,17
+A3EQO5ZIDBTSVK,Coin,25,Female,Left,Graduate Degree,33,7,3,4,70%,0%,50%,0%,50%,0%,0%,0%,Non-Solver,17
+A3SZF91DCOQPW3,Coin,36,Female,Right,College,50,6,8,8,35%,10%,10%,10%,30%,20%,20%,0%,Non-Solver,17
+A12A5GVJX5RZC4,Coin,39,Male,Right,High School/GED,33,2,8,1,80%,0%,80%,10%,0%,10%,0%,0%,Non-Solver,17
+A1F9KLZGHE9DTA,Coin,45,Male,Right,High School/GED,50,4,8,7,45%,0%,25%,0%,45%,30%,0%,0%,Non-Solver,17
+A1I72NHC21347A,Coin,55,Female,Right,High School/GED,87.5,9,5,9,30%,0%,0%,0%,15%,30%,55%,0%,Solver,17
+AYW62R027PUT1,Coin,45,Male,Right,College,87.5,7,3,4,60%,0%,10%,10%,10%,10%,60%,0%,Solver,17
+A2182DBITJFCMZ,Coin,30,Male,Right,Graduate Degree,33,8,8,6,90%,50%,20%,10%,5%,5%,5%,5%,Non-Solver,17
+A32LHQYJY0ELFS,Coin,30,Female,Right,Graduate Degree,87.5,10,5,7,30%,10%,10%,10%,10%,10%,30%,20%,Solver,17
+A1OUUZSD5DD4ZN,Coin,47,Female,Both hands are equally strong,Graduate Degree,87.5,10,6,7,40%,0%,40%,0%,20%,0%,40%,0%,Solver,17
+AKVY81H51JZ6Q,Coin,29,Male,Right,Graduate Degree,12.5,8,3,3,40%,100%,0%,0%,0%,0%,0%,0%,Non-Solver,17
+A3KF6O09H04SP7,Coin,36,Male,Right,College,12.5,8,3,3,80%,80%,10%,0%,10%,0%,0%,0%,Non-Solver,17
+A1O8D22H0D03W1,Coin,28,Male,Right,Graduate Degree,87.5,10,7,7,30%,40%,10%,0%,5%,0%,40%,5%,Solver,17
+AHALO0LU7AL0T,Coin,27,Male,Right,College,37.5,5,7,7,50%,10%,20%,30%,10%,10%,10%,10%,Non-Solver,17
+AX3N0BBAJ39GG,Coin,30,Male,Right,College,87.5,3,8,9,20%,10%,20%,15%,15%,20%,15%,5%,Solver,17
+A1LBXBV4KZ952A,Coin,27,Male,Right,Graduate Degree,37.5,4,7,3,10%,15%,15%,15%,15%,15%,15%,10%,Non-Solver,17
+A3180VXVP8MOIH,Coin,34,Female,Right,Graduate Degree,33,1,4,2,70%,15%,50%,20%,10%,5%,0%,0%,Non-Solver,17
+A3PYD7EU2WFST6,Coin,32,Male,Right,Graduate Degree,50,9,7,8,70%,0%,0%,0%,70%,0%,0%,30%,Non-Solver,17
+A2MHY064OSYIBI,Coin,49,Female,Right,College,33,9,2,2,65%,5%,65%,5%,10%,5%,5%,5%,Non-Solver,17
+A2EZNZ6X58RTNR,Coin,37,Male,Right,Graduate Degree,87.5,8,7,9,15%,0%,35%,0%,25%,0%,40%,0%,Solver,17
+A1BVG13MHBM1YD,Coin,43,Female,Left,High School/GED,87.5,4,5,7,40%,5%,10%,10%,10%,20%,35%,10%,Solver,17
+ACJ6NSCIWMUZI,Coin,52,Male,Right,High School/GED,50,5,8,7,70%,0%,50%,0%,50%,0%,0%,0%,Non-Solver,17
+A8B5O56Q0YJXW,Coin,40,Male,Right,Graduate Degree,33,7,4,5,40%,10%,35%,15%,10%,10%,10%,10%,Non-Solver,17
+A1A8MBDIAQT43U,Coin,29,Male,Right,Graduate Degree,87.5,10,5,6,50%,0%,0%,0%,0%,50%,50%,0%,Solver,17
+A1VXDD6BFF97OF,Coin,33,Female,Right,College,50,7,3,4,50%,0%,50%,0%,50%,0%,0%,0%,Non-Solver,17
+A1H2UHJ78F185L,Coin,30,Male,Right,Graduate Degree,12.5,4,8,7,40%,40%,60%,0%,0%,0%,0%,0%,Non-Solver,17
+A1SHLWKA0UH1IS,Coin,55,Female,Right,College,62.5,3,8,7,55%,10%,15%,15%,5%,20%,15%,20%,Non-Solver,17
+AND4JA5WQ3QS9,Coin,29,Male,Right,Graduate Degree,62.5,5,7,7,55%,15%,15%,10%,10%,30%,10%,10%,Non-Solver,18
+A2TVJTQ4VXATE6,Coin,28,Male,Right,High School/GED,33,10,1,1,80%,5%,65%,5%,10%,5%,5%,5%,Non-Solver,18
+A2QBFXY9UQMJTT,Coin,38,Male,Right,College,50,3,8,5,65%,0%,30%,15%,40%,15%,0%,0%,Non-Solver,18
+A3IA63S5XSB41S,Coin,33,Female,Right,Graduate Degree,12.5,8,5,4,75%,60%,0%,0%,40%,0%,0%,0%,Non-Solver,18
+A37GOGQDYDT44K,Coin,31,Female,Right,College,87.5,7,8,6,40%,0%,0%,10%,50%,0%,40%,0%,Solver,18
+A3V2XCDF45VN9X,Coin,44,Male,Right,Graduate Degree,62.5,2,8,9,5%,0%,5%,10%,25%,50%,10%,0%,Non-Solver,18
+A30HUZHJBOX1LK,Coin,52,Male,Right,Graduate Degree,50,10,1,7,50%,0%,0%,0%,50%,0%,0%,50%,Non-Solver,18
+A1IDTE46L2A3OB,Coin,48,Male,Right,Graduate Degree,33,5,4,6,45%,20%,20%,25%,20%,15%,0%,0%,Non-Solver,18
+.ALADMO4F1UNQ6,Coin,47,Female,Right,Graduate Degree,37.5,7,4,5,90%,0%,10%,90%,0%,0%,0%,0%,Non-Solver,18
+A1KS9LITOVPAT8,Coin,34,Male,Right,College,100,10,1,1,100%,0%,0%,0%,0%,0%,0%,100%,Non-Solver,18
+A1V2H0UF94ATWY,Coin,60,Male,Right,High School/GED,50,1,10,10,25%,0%,0%,0%,25%,25%,25%,25%,Non-Solver,18
+A3BJ8CUB26XYJC,Coin,62,Female,Right,Graduate Degree,12.5,10,1,5,85%,65%,10%,5%,5%,5%,5%,5%,Non-Solver,18
+A248QG4DPULP46,Coin,64,Female,Right,College,50,1,1,6,70%,0%,0%,0%,70%,30%,0%,0%,Non-Solver,18
+A8028AFBBS29G,Coin,65,Female,Right,High School/GED,33,5,5,3,75%,0%,60%,20%,0%,10%,10%,0%,Non-Solver,18
+A24ZP6TOKYBSQS,Coin,22,Male,Right,College,50,8,4,4,50%,5%,5%,10%,40%,30%,5%,5%,Non-Solver,18
+AB036D1V69QGV,Coin,35,Female,Right,Graduate Degree,33,8,6,6,65%,5%,55%,5%,10%,10%,10%,5%,Non-Solver,18
+A37R0JYAB3QEX9,Coin,47,Male,Right,High School/GED,87.5,4,8,9,25%,0%,10%,10%,40%,30%,10%,0%,Solver,18
+A21TM2CB9HS7IM,Coin,35,Female,Right,Graduate Degree,50,10,6,9,15%,20%,10%,15%,15%,15%,25%,0%,Non-Solver,18
+A1F1BIPJR11LSR,Coin,34,Prefer not to say,Right,College,87.5,8,3,6,50%,10%,10%,10%,15%,20%,30%,5%,Solver,18
+A8TIL9U6YHG5,Coin,33,Female,Right,Graduate Degree,50,7,9,10,60%,0%,10%,10%,60%,15%,5%,0%,Non-Solver,18
+A1SIUJEL2LS8UO,Coin,31,Male,Right,College,50,10,1,5,50%,0%,20%,5%,50%,20%,5%,0%,Non-Solver,18
+A15GLNTVDPCXUQ,Coin,32,Male,Right,Graduate Degree,33,10,1,2,100%,0%,100%,0%,0%,0%,0%,0%,Non-Solver,18
+AJXIC6Q5EM76P,Coin,61,Male,Right,High School/GED,87.5,10,6,8,30%,0%,0%,0%,35%,20%,35%,10%,Solver,18
+A2YCMT5BPA0AG9,Coin,50,Male,Right,College,87.5,5,8,8,50%,0%,0%,0%,25%,25%,40%,10%,Solver,18
+2054606,Coin,31,Male,Left,Graduate Degree,87.5,7,2,7,20%,5%,5%,10%,35%,20%,20%,5%,Solver,18
+A09354962P34U7ILOPYKP,Coin,50,Male,Right,Graduate Degree,50,5,5,5,50%,0%,25%,20%,50%,5%,0%,0%,Non-Solver,18
+AV3CA0IYNRCCJ,Coin,63,Female,Right,College,33,5,3,5,80%,0%,75%,25%,0%,0%,0%,0%,Non-Solver,18
+AIH3QEU3564PA,Coin,28,Male,Right,Graduate Degree,87.5,9,7,7,45%,30%,15%,10%,10%,5%,25%,5%,Solver,18
+A1MJHGH55K3O0,Coin,30,Female,Right,College,50,9,2,2,80%,0%,5%,5%,80%,5%,5%,0%,Non-Solver,18
+AFDC9A6Z60W2Z,Coin,48,Male,Right,High School/GED,87.5,10,2,4,60%,10%,15%,0%,5%,10%,60%,0%,Solver,18
+AMZV70TID53WY,Coin,26,Male,Right,College,62.5,6,5,3,55%,0%,0%,25%,10%,35%,30%,0%,Non-Solver,18
+A1UCB0D27PY623,Coin,35,Prefer not to say,Right,High School/GED,87.5,5,5,5,35%,0%,0%,25%,25%,25%,25%,0%,Solver,18
+A3RLCGRXA34GC0,Coin,50,Male,Left,College,50,9,8,5,20%,25%,25%,5%,20%,5%,5%,15%,Non-Solver,18
+A2541C8MY0BYV3,Coin,29,Male,Right,College,50,9,2,2,80%,5%,0%,5%,80%,5%,5%,0%,Non-Solver,18
+AZNIEFUIVB2H0,Coin,52,Male,Left,College,50,1,5,3,50%,5%,25%,0%,50%,10%,5%,5%,Non-Solver,18
+A2MBONFYCEPP8K,Coin,38,Female,Right,High School/GED,33,7,4,5,45%,10%,25%,25%,20%,15%,5%,0%,Non-Solver,18
+A23KAJRDVCVGOE,Coin,41,Male,Left,High School/GED,100,2,10,8,5%,10%,50%,5%,10%,5%,5%,15%,Non-Solver,18

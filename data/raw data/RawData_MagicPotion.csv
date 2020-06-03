@@ -1,0 +1,316 @@
+Worker ID,Problem,Age,Gender,Strong hand,Education,Answer,Confidence,Subjective Difficulty,Objective Difficutly,Psolve,1,2,3,4,8,10,16,60,Class,group_number
+18,MagicPotion,17,Male,Right,High School/GED,8,5,4,6,0.4,0.05,0.0,0.0,0.1,0.25,0.1,0.3,0.2,Non-Solver,63
+17,MagicPotion,29,Male,Right,College,3,6,9,10,0.2,0.0,0.1,0.2,0.35,0.35,0.0,0.0,0.0,Solver,63
+16,MagicPotion,22,Female,Right,College,8,3,5,5,0.6,0.15,0.0,0.05,0.1,0.6,0.05,0.05,0.0,Non-Solver,63
+15,MagicPotion,25,Male,Right,Graduate Degree,8,1,7,7,0.1,0.05,0.05,0.05,0.05,0.45,0.05,0.05,0.25,Non-Solver,63
+14,MagicPotion,26,Male,Right,College,3,5,7,6,0.4,0.05,0.05,0.4,0.25,0.25,0.0,0.0,0.0,Solver,63
+13,MagicPotion,27,Male,Right,Graduate Degree,3,10,7,10,0.2,0.0,0.05,0.2,0.4,0.35,0.0,0.0,0.0,Solver,63
+12,MagicPotion,25,Female,Right,Graduate Degree,4,1,10,10,0.1,0.0,0.1,0.15,0.35,0.4,0.0,0.0,0.0,Non-Solver,63
+11,MagicPotion,28,Male,Right,Graduate Degree,8,10,1,2,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,Non-Solver,63
+10,MagicPotion,29,Male,Right,High School/GED,8,3,6,7,0.3,0.1,0.1,0.1,0.1,0.3,0.1,0.1,0.1,Non-Solver,63
+9,MagicPotion,36,Male,Right,Graduate Degree,4,1,10,10,0.2,0.2,0.2,0.2,0.2,0.2,0.0,0.0,0.0,Non-Solver,63
+8,MagicPotion,26,Female,Right,College,8,1,6,6,0.2,0.0,0.0,0.0,0.0,0.35,0.15,0.2,0.3,Non-Solver,63
+7,MagicPotion,35,Female,Left,Graduate Degree,8,6,3,4,0.7,0.2,0.0,0.0,0.1,0.7,0.0,0.0,0.0,Non-Solver,63
+6,MagicPotion,60,Male,Right,Graduate Degree,3,10,3,6,0.5,0.0,0.0,0.5,0.3,0.2,0.0,0.0,0.0,Solver,63
+5,MagicPotion,39,Female,Right,Graduate Degree,4,10,7,6,0.5,0.0,0.0,0.15,0.5,0.3,0.05,0.0,0.0,Non-Solver,63
+4,MagicPotion,62,Female,Right,Graduate Degree,8,10,2,2,0.8,0.0,0.0,0.0,0.0,0.8,0.2,0.0,0.0,Non-Solver,63
+3,MagicPotion,29,Female,Right,Graduate Degree,4,4,8,6,0.4,0.25,0.05,0.05,0.05,0.5,0.05,0.05,0.0,Non-Solver,63
+2,MagicPotion,28,Female,Right,Graduate Degree,8,8,5,2,0.5,0.2,0.1,0.0,0.0,0.5,0.0,0.2,0.0,Non-Solver,63
+1,MagicPotion,33,Male,Right,Graduate Degree,8,4,7,5,0.2,0.05,0.05,0.05,0.2,0.4,0.05,0.2,0.0,Non-Solver,63
+A2WHC086WNUQNB,MagicPotion,53,Female,Right,College,8,5,4,5,0.7,0.0,0.1,0.1,0.1,0.5,0.1,0.1,0.0,Non-Solver,63
+AMZV70TID53WY,MagicPotion,26,Male,Right,College,8,10,1,2,0.9,0.0,0.0,0.0,0.0,0.9,0.1,0.0,0.0,Non-Solver,63
+A147F5PJTHOB8A,MagicPotion,42,Male,Right,High School/GED,10,3,9,10,0.1,0.2,0.2,0.05,0.05,0.1,0.3,0.05,0.05,Non-Solver,63
+A1NZFJHVJ9CNTO,MagicPotion,29,Male,Right,High School/GED,8,9,1,1,0.9,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,Non-Solver,63
+AO46MWFKLP3ZN,MagicPotion,30,Male,Right,Graduate Degree,1,10,1,5,0.5,0.5,0.1,0.0,0.05,0.1,0.05,0.1,0.1,Non-Solver,63
+A39YK8LJ8O37OY,MagicPotion,33,Female,Right,Graduate Degree,1,2,1,1,0.2,0.05,0.05,0.05,0.05,0.1,0.2,0.35,0.15,Non-Solver,63
+AKF2CET7H6C5X,MagicPotion,32,Male,Right,Graduate Degree,4,1,6,5,0.7,0.15,0.15,0.1,0.1,0.1,0.1,0.15,0.15,Non-Solver,63
+A53WVYONK6B9Q,MagicPotion,26,Male,Right,High School/GED,8,5,4,6,0.1,0.1,0.1,0.1,0.15,0.15,0.15,0.1,0.15,Non-Solver,63
+AMELYCC59JKB0,MagicPotion,37,Female,Right,College,8,8,5,5,0.5,0.2,0.25,0.15,0.05,0.35,0.0,0.0,0.0,Non-Solver,63
+A8FCVU1TTDVL0,MagicPotion,40,Female,Right,College,8,10,3,3,0.8,0.0,0.0,0.0,0.0,0.95,0.05,0.0,0.0,Non-Solver,63
+A198MSVO1VTAT5,MagicPotion,60,Female,Right,College,8,10,1,1,0.7,0.2,0.1,0.1,0.1,0.5,0.0,0.0,0.0,Non-Solver,63
+A2QUQ0S2F6K3QJ,MagicPotion,63,Female,Right,High School/GED,8,4,3,6,0.3,0.2,0.05,0.1,0.15,0.35,0.1,0.05,0.0,Non-Solver,63
+A2EI9E6EBZEZO1,MagicPotion,38,Female,Right,College,8,5,5,5,0.55,0.0,0.1,0.1,0.1,0.5,0.1,0.0,0.1,Non-Solver,63
+APS21FRK7TBKW,MagicPotion,47,Female,Right,College,8,5,4,5,0.25,0.15,0.15,0.15,0.15,0.15,0.15,0.05,0.05,Non-Solver,64
+A2IQ0QCTQ3KWLT,MagicPotion,48,Female,Right,High School/GED,8,6,3,5,0.7,0.1,0.1,0.1,0.2,0.5,0.0,0.0,0.0,Non-Solver,64
+A2MWAXV1YRK5GH,MagicPotion,69,Female,Left,Graduate Degree,4,1,10,10,0.5,0.0,0.0,0.0,0.65,0.35,0.0,0.0,0.0,Non-Solver,64
+A3HOBJ4PJUOCUN,MagicPotion,59,Female,Right,High School/GED,1,7,3,4,0.85,0.65,0.05,0.05,0.25,0.0,0.0,0.0,0.0,Non-Solver,64
+A1DS0M9DLHAISJ,MagicPotion,38,Female,Right,College,8,10,1,1,0.75,0.0,0.0,0.0,0.0,0.8,0.2,0.0,0.0,Non-Solver,64
+AAASQIW3J32OL,MagicPotion,58,Female,Right,College,1,8,2,4,0.6,0.6,0.0,0.0,0.05,0.35,0.0,0.0,0.0,Non-Solver,64
+yijmma,MagicPotion,33,Male,Right,College,8,5,3,2,0.5,0.05,0.15,0.15,0.3,0.25,0.0,0.05,0.05,Non-Solver,64
+A1M7G9KKXWH76A,MagicPotion,48,Male,Right,College,1,1,5,3,0.6,0.1,0.15,0.1,0.2,0.4,0.05,0.0,0.0,Non-Solver,64
+A2APG8MSLJ6G2K,MagicPotion,69,Female,Right,College,8,5,4,4,0.75,0.0,0.0,0.0,0.05,0.9,0.0,0.05,0.0,Non-Solver,64
+AB2GND2ZHOCOT,MagicPotion,29,Female,Right,Graduate Degree,8,6,4,4,0.8,0.25,0.0,0.0,0.0,0.75,0.0,0.0,0.0,Non-Solver,64
+A3PDTUA1YLJTMC,MagicPotion,43,Male,Right,College,1,8,6,5,0.95,0.45,0.0,0.0,0.1,0.45,0.0,0.0,0.0,Non-Solver,64
+A2O2Y99RA9GFUJ,MagicPotion,64,Male,Right,College,8,5,6,7,0.5,0.1,0.1,0.05,0.25,0.5,0.0,0.0,0.0,Non-Solver,64
+AFM65NU0UXIGP,MagicPotion,31,Male,Right,High School/GED,1,3,9,9,0.35,0.4,0.0,0.1,0.1,0.4,0.0,0.0,0.0,Non-Solver,64
+A1TLNLB9D87H6,MagicPotion,35,Female,Left,College,8,1,10,10,0.05,0.1,0.1,0.1,0.1,0.25,0.1,0.1,0.15,Non-Solver,64
+200600666,MagicPotion,31,Male,Left,Graduate Degree,1,5,5,7,0.3,0.45,0.1,0.1,0.1,0.1,0.1,0.05,0.0,Non-Solver,64
+A2EEP8D4MRUIRZ,MagicPotion,30,Male,Right,High School/GED,8,10,1,1,0.95,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,Non-Solver,64
+A3DHAM13WLSE9V,MagicPotion,23,Male,Right,High School/GED,8,1,5,5,0.15,0.05,0.05,0.25,0.25,0.4,0.0,0.0,0.0,Non-Solver,64
+A1SIUJEL2LS8UO,MagicPotion,31,Male,Right,College,8,4,6,7,0.25,0.0,0.15,0.15,0.15,0.4,0.1,0.05,0.0,Non-Solver,64
+AG9LWKO86TNHG,MagicPotion,48,Female,Left,College,60,1,7,10,0.25,0.05,0.15,0.15,0.25,0.1,0.1,0.05,0.15,Non-Solver,64
+AHYTT3T8W9Y9Y,MagicPotion,37,Female,Right,College,8,5,4,2,0.85,0.25,0.0,0.0,0.0,0.7,0.0,0.05,0.0,Non-Solver,64
+A1ZT30BGR3266K,MagicPotion,35,Female,Right,College,1,4,4,6,0.3,0.3,0.1,0.1,0.1,0.4,0.0,0.0,0.0,Non-Solver,64
+A1NKBXOTZAI1YK,MagicPotion,33,Male,Right,College,8,10,1,4,0.35,0.05,0.15,0.1,0.25,0.45,0.0,0.0,0.0,Non-Solver,64
+A2TTBCUOTC4Y24,MagicPotion,32,Male,Right,Graduate Degree,4,5,4,4,0.2,0.2,0.05,0.15,0.05,0.2,0.15,0.1,0.1,Non-Solver,64
+A10249252O9I20MRSOBVF,MagicPotion,56,Female,Both hands are equally strong,High School/GED,1,10,3,3,0.9,0.75,0.0,0.0,0.0,0.25,0.0,0.0,0.0,Non-Solver,64
+A1UNBT94I82S8V,MagicPotion,25,Male,Left,College,3,1,8,6,0.3,0.1,0.15,0.1,0.25,0.2,0.1,0.1,0.0,Solver,64
+A1V2H0UF94ATWY,MagicPotion,59,Male,Right,High School/GED,8,6,5,5,0.7,0.05,0.0,0.0,0.15,0.75,0.0,0.0,0.05,Non-Solver,64
+A16HSMUJ7C7QA7,MagicPotion,65,Female,Left,High School/GED,8,3,6,6,0.6,0.0,0.0,0.0,0.1,0.8,0.0,0.1,0.0,Non-Solver,64
+A30RAYNDOWQ61S,MagicPotion,57,Male,Right,High School/GED,8,1,10,8,0.4,0.05,0.05,0.05,0.05,0.55,0.05,0.1,0.1,Non-Solver,64
+AVJUIF9QHQRY8,MagicPotion,35,Female,Right,College,8,5,2,3,0.7,0.05,0.05,0.05,0.15,0.65,0.05,0.0,0.0,Non-Solver,64
+A3U21PUMQ6NGT2,MagicPotion,38,Female,Right,College,1,6,1,3,0.75,0.3,0.15,0.05,0.1,0.15,0.15,0.1,0.0,Non-Solver,64
+A3J85WP15JFYW0,MagicPotion,31,Male,Right,College,1,10,2,5,0.5,0.5,0.0,0.0,0.0,0.5,0.0,0.0,0.0,Non-Solver,64
+A2DWPP1KKAY0HG,MagicPotion,24,Male,Right,College,1,10,2,4,0.7,0.7,0.0,0.0,0.0,0.15,0.0,0.15,0.0,Non-Solver,65
+A2ZLII4MLBHWR4,MagicPotion,27,Male,Right,Graduate Degree,1,8,3,1,0.5,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Non-Solver,65
+1532532,MagicPotion,22,Male,Right,Graduate Degree,4,7,6,8,0.4,0.05,0.1,0.1,0.4,0.35,0.0,0.0,0.0,Non-Solver,65
+A18TCR555RWUZV,MagicPotion,34,Male,Right,College,1,9,4,7,0.35,0.25,0.15,0.1,0.25,0.25,0.0,0.0,0.0,Non-Solver,65
+A1JVWOBGNA6KJT,MagicPotion,54,Male,Right,High School/GED,1,9,4,3,0.6,0.6,0.05,0.05,0.05,0.25,0.0,0.0,0.0,Non-Solver,65
+A1O5IL3N3G3WIL,MagicPotion,45,Female,Right,College,8,5,5,5,0.65,0.2,0.2,0.15,0.1,0.15,0.05,0.05,0.05,Non-Solver,65
+A1ROEDVMTO9Y3X,MagicPotion,50,Female,Left,College,8,8,8,3,0.4,0.1,0.1,0.1,0.1,0.1,0.05,0.05,0.0,Non-Solver,65
+A1RV2LERVS0A4H,MagicPotion,33,Female,Right,College,8,6,3,3,0.6,0.0,0.0,0.0,0.35,0.6,0.05,0.0,0.0,Non-Solver,65
+A1WVNDH62P2UNZ,MagicPotion,26,Female,Right,High School/GED,8,7,3,2,1.0,0.0,0.0,0.0,0.0,0.75,0.1,0.05,0.1,Non-Solver,65
+A21SF3IKIZB0VN,MagicPotion,73,Female,Left,Graduate Degree,8,9,1,1,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,Non-Solver,65
+A23BWWRR7J5XLS,MagicPotion,42,Male,Right,High School/GED,8,8,5,6,0.65,0.1,0.0,0.0,0.0,0.9,0.0,0.0,0.0,Non-Solver,65
+A23KAJRDVCVGOE,MagicPotion,41,Male,Left,High School/GED,10,2,9,9,0.1,0.05,0.05,0.05,0.05,0.25,0.45,0.1,0.0,Non-Solver,65
+A2541C8MY0BYV3,MagicPotion,29,Male,Right,College,10,2,10,10,0.05,0.15,0.1,0.2,0.05,0.15,0.25,0.05,0.05,Non-Solver,65
+A270HX8LH9LJ8W,MagicPotion,38,Male,Right,Graduate Degree,8,6,5,5,0.5,0.05,0.1,0.1,0.15,0.5,0.05,0.05,0.0,Non-Solver,65
+A2B2HQHFBYLTXU,MagicPotion,36,Male,Right,Graduate Degree,1,4,6,6,0.25,0.35,0.15,0.1,0.1,0.15,0.05,0.05,0.05,Non-Solver,65
+A2GNG7DWHQA6ZZ,MagicPotion,34,Male,Right,Graduate Degree,8,9,2,3,0.85,0.0,0.0,0.0,0.15,0.85,0.0,0.0,0.0,Non-Solver,65
+A2VLTSW6CXIUMR,MagicPotion,44,Male,Right,High School/GED,8,7,3,4,0.75,0.0,0.0,0.0,0.1,0.8,0.05,0.05,0.0,Non-Solver,65
+A2YCMT5BPA0AG9,MagicPotion,50,Male,Right,College,1,6,6,5,0.3,0.25,0.05,0.1,0.15,0.45,0.0,0.0,0.0,Non-Solver,65
+A2YWSSQEXXCRGK,MagicPotion,51,Female,Right,Graduate Degree,8,8,3,3,0.75,0.1,0.05,0.0,0.1,0.75,0.0,0.0,0.0,Non-Solver,65
+A3ADVMXAYYYPD2,MagicPotion,42,Male,Right,Graduate Degree,16,10,1,1,0.65,0.0,0.0,0.0,0.0,0.45,0.05,0.5,0.0,Non-Solver,65
+A3C8NUIBNZYMT2,MagicPotion,30,Male,Right,College,1,6,3,7,0.7,0.5,0.1,0.05,0.05,0.05,0.05,0.1,0.1,Non-Solver,65
+A3LLOANE52R4LT,MagicPotion,35,Male,Right,College,8,9,5,5,0.65,0.1,0.15,0.1,0.1,0.45,0.1,0.0,0.0,Non-Solver,65
+A3QLGMZOLGMBQ1,MagicPotion,51,Male,Right,Graduate Degree,1,8,3,3,0.75,0.9,0.05,0.0,0.0,0.0,0.0,0.0,0.05,Non-Solver,65
+A3R5OJR60C6004,MagicPotion,45,Male,Right,College,8,8,4,4,0.6,0.0,0.05,0.15,0.15,0.6,0.05,0.0,0.0,Non-Solver,65
+A3S1DILZ70PXC,MagicPotion,41,Female,Right,College,1,8,5,3,0.6,0.6,0.0,0.0,0.0,0.4,0.0,0.0,0.0,Non-Solver,65
+A3URLNXHLP4ARU,MagicPotion,47,Female,Right,Graduate Degree,8,5,5,8,0.5,0.1,0.05,0.05,0.05,0.5,0.0,0.1,0.15,Non-Solver,65
+A4IH4CO046EV3,MagicPotion,40,Male,Right,College,2,10,1,8,0.1,0.0,0.1,0.1,0.25,0.4,0.1,0.05,0.0,Non-Solver,65
+AAQREZOK13OV7,MagicPotion,31,Male,Right,College,4,4,7,6,0.45,0.0,0.05,0.1,0.2,0.45,0.15,0.05,0.0,Non-Solver,65
+17,MagicPotion,29,Male,Right,College,3,6,9,10,0.2,0.0,0.1,0.2,0.35,0.35,0.0,0.0,0.0,Solver,65
+18,MagicPotion,17,Male,Right,High School/GED,8,5,4,6,0.4,0.05,0.0,0.0,0.1,0.25,0.1,0.3,0.2,Non-Solver,65
+16,MagicPotion,22,Female,Right,College,8,3,5,5,0.6,0.15,0.0,0.05,0.1,0.6,0.05,0.05,0.0,Non-Solver,65
+15,MagicPotion,25,Male,Right,Graduate Degree,8,1,7,7,0.1,0.05,0.05,0.05,0.05,0.45,0.05,0.05,0.25,Non-Solver,66
+14,MagicPotion,26,Male,Right,College,3,5,7,6,0.4,0.05,0.05,0.4,0.25,0.25,0.0,0.0,0.0,Solver,66
+13,MagicPotion,27,Male,Right,Graduate Degree,3,10,7,10,0.2,0.0,0.05,0.2,0.4,0.35,0.0,0.0,0.0,Solver,66
+12,MagicPotion,25,Female,Right,Graduate Degree,4,1,10,10,0.1,0.0,0.1,0.15,0.35,0.4,0.0,0.0,0.0,Non-Solver,66
+11,MagicPotion,28,Male,Right,Graduate Degree,8,10,1,2,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,Non-Solver,66
+10,MagicPotion,29,Male,Right,High School/GED,8,3,6,7,0.3,0.1,0.1,0.1,0.1,0.3,0.1,0.1,0.1,Non-Solver,66
+9,MagicPotion,36,Male,Right,Graduate Degree,4,1,10,10,0.2,0.2,0.2,0.2,0.2,0.2,0.0,0.0,0.0,Non-Solver,66
+8,MagicPotion,26,Female,Right,College,8,1,6,6,0.2,0.0,0.0,0.0,0.0,0.35,0.15,0.2,0.3,Non-Solver,66
+7,MagicPotion,35,Female,Left,Graduate Degree,8,6,3,4,0.7,0.2,0.0,0.0,0.1,0.7,0.0,0.0,0.0,Non-Solver,66
+6,MagicPotion,60,Male,Right,Graduate Degree,3,10,3,6,0.5,0.0,0.0,0.5,0.3,0.2,0.0,0.0,0.0,Solver,66
+5,MagicPotion,39,Female,Right,Graduate Degree,4,10,7,6,0.5,0.0,0.0,0.15,0.5,0.3,0.05,0.0,0.0,Non-Solver,66
+4,MagicPotion,62,Female,Right,Graduate Degree,8,10,2,2,0.8,0.0,0.0,0.0,0.0,0.8,0.2,0.0,0.0,Non-Solver,66
+3,MagicPotion,29,Female,Right,Graduate Degree,4,4,8,6,0.4,0.25,0.05,0.05,0.05,0.5,0.05,0.05,0.0,Non-Solver,66
+2,MagicPotion,28,Female,Right,Graduate Degree,8,8,5,2,0.5,0.2,0.1,0.0,0.0,0.5,0.0,0.2,0.0,Non-Solver,66
+1,MagicPotion,33,Male,Right,Graduate Degree,8,4,7,5,0.2,0.05,0.05,0.05,0.2,0.4,0.05,0.2,0.0,Non-Solver,66
+A2WHC086WNUQNB,MagicPotion,53,Female,Right,College,8,5,4,5,0.7,0.0,0.1,0.1,0.1,0.5,0.1,0.1,0.0,Non-Solver,66
+AMZV70TID53WY,MagicPotion,26,Male,Right,College,8,10,1,2,0.9,0.0,0.0,0.0,0.0,0.9,0.1,0.0,0.0,Non-Solver,66
+A147F5PJTHOB8A,MagicPotion,42,Male,Right,High School/GED,10,3,9,10,0.1,0.2,0.2,0.05,0.05,0.1,0.3,0.05,0.05,Non-Solver,66
+A1NZFJHVJ9CNTO,MagicPotion,29,Male,Right,High School/GED,8,9,1,1,0.9,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,Non-Solver,66
+AO46MWFKLP3ZN,MagicPotion,30,Male,Right,Graduate Degree,1,10,1,5,0.5,0.5,0.1,0.0,0.05,0.1,0.05,0.1,0.1,Non-Solver,66
+A39YK8LJ8O37OY,MagicPotion,33,Female,Right,Graduate Degree,1,2,1,1,0.2,0.05,0.05,0.05,0.05,0.1,0.2,0.35,0.15,Non-Solver,66
+AKF2CET7H6C5X,MagicPotion,32,Male,Right,Graduate Degree,4,1,6,5,0.7,0.15,0.15,0.1,0.1,0.1,0.1,0.15,0.15,Non-Solver,66
+A53WVYONK6B9Q,MagicPotion,26,Male,Right,High School/GED,8,5,4,6,0.1,0.1,0.1,0.1,0.15,0.15,0.15,0.1,0.15,Non-Solver,66
+AMELYCC59JKB0,MagicPotion,37,Female,Right,College,8,8,5,5,0.5,0.2,0.25,0.15,0.05,0.35,0.0,0.0,0.0,Non-Solver,66
+A8FCVU1TTDVL0,MagicPotion,40,Female,Right,College,8,10,3,3,0.8,0.0,0.0,0.0,0.0,0.95,0.05,0.0,0.0,Non-Solver,66
+A198MSVO1VTAT5,MagicPotion,60,Female,Right,College,8,10,1,1,0.7,0.2,0.1,0.1,0.1,0.5,0.0,0.0,0.0,Non-Solver,66
+A2QUQ0S2F6K3QJ,MagicPotion,63,Female,Right,High School/GED,8,4,3,6,0.3,0.2,0.05,0.1,0.15,0.35,0.1,0.05,0.0,Non-Solver,66
+A3U21PUMQ6NGT2,MagicPotion,38,Female,Right,College,1,6,1,3,0.75,0.3,0.15,0.05,0.1,0.15,0.15,0.1,0.0,Non-Solver,66
+A3J85WP15JFYW0,MagicPotion,31,Male,Right,College,1,10,2,5,0.5,0.5,0.0,0.0,0.0,0.5,0.0,0.0,0.0,Non-Solver,66
+A2DWPP1KKAY0HG,MagicPotion,24,Male,Right,College,1,10,2,4,0.7,0.7,0.0,0.0,0.0,0.15,0.0,0.15,0.0,Non-Solver,66
+A2ZLII4MLBHWR4,MagicPotion,27,Male,Right,Graduate Degree,1,8,3,1,0.5,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Non-Solver,66
+1532532,MagicPotion,22,Male,Right,Graduate Degree,4,7,6,8,0.4,0.05,0.1,0.1,0.4,0.35,0.0,0.0,0.0,Non-Solver,67
+A18TCR555RWUZV,MagicPotion,34,Male,Right,College,1,9,4,7,0.35,0.25,0.15,0.1,0.25,0.25,0.0,0.0,0.0,Non-Solver,67
+A1JVWOBGNA6KJT,MagicPotion,54,Male,Right,High School/GED,1,9,4,3,0.6,0.6,0.05,0.05,0.05,0.25,0.0,0.0,0.0,Non-Solver,67
+A1O5IL3N3G3WIL,MagicPotion,45,Female,Right,College,8,5,5,5,0.65,0.2,0.2,0.15,0.1,0.15,0.05,0.05,0.05,Non-Solver,67
+A1ROEDVMTO9Y3X,MagicPotion,50,Female,Left,College,8,8,8,3,0.4,0.1,0.1,0.1,0.1,0.1,0.05,0.05,0.0,Non-Solver,67
+A1RV2LERVS0A4H,MagicPotion,33,Female,Right,College,8,6,3,3,0.6,0.0,0.0,0.0,0.35,0.6,0.05,0.0,0.0,Non-Solver,67
+A1WVNDH62P2UNZ,MagicPotion,26,Female,Right,High School/GED,8,7,3,2,1.0,0.0,0.0,0.0,0.0,0.75,0.1,0.05,0.1,Non-Solver,67
+A21SF3IKIZB0VN,MagicPotion,73,Female,Left,Graduate Degree,8,9,1,1,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,Non-Solver,67
+A23BWWRR7J5XLS,MagicPotion,42,Male,Right,High School/GED,8,8,5,6,0.65,0.1,0.0,0.0,0.0,0.9,0.0,0.0,0.0,Non-Solver,67
+A23KAJRDVCVGOE,MagicPotion,41,Male,Left,High School/GED,10,2,9,9,0.1,0.05,0.05,0.05,0.05,0.25,0.45,0.1,0.0,Non-Solver,67
+A2541C8MY0BYV3,MagicPotion,29,Male,Right,College,10,2,10,10,0.05,0.15,0.1,0.2,0.05,0.15,0.25,0.05,0.05,Non-Solver,67
+A270HX8LH9LJ8W,MagicPotion,38,Male,Right,Graduate Degree,8,6,5,5,0.5,0.05,0.1,0.1,0.15,0.5,0.05,0.05,0.0,Non-Solver,67
+A2B2HQHFBYLTXU,MagicPotion,36,Male,Right,Graduate Degree,1,4,6,6,0.25,0.35,0.15,0.1,0.1,0.15,0.05,0.05,0.05,Non-Solver,67
+A2GNG7DWHQA6ZZ,MagicPotion,34,Male,Right,Graduate Degree,8,9,2,3,0.85,0.0,0.0,0.0,0.15,0.85,0.0,0.0,0.0,Non-Solver,67
+A2VLTSW6CXIUMR,MagicPotion,44,Male,Right,High School/GED,8,7,3,4,0.75,0.0,0.0,0.0,0.1,0.8,0.05,0.05,0.0,Non-Solver,67
+A2YCMT5BPA0AG9,MagicPotion,50,Male,Right,College,1,6,6,5,0.3,0.25,0.05,0.1,0.15,0.45,0.0,0.0,0.0,Non-Solver,67
+A2YWSSQEXXCRGK,MagicPotion,51,Female,Right,Graduate Degree,8,8,3,3,0.75,0.1,0.05,0.0,0.1,0.75,0.0,0.0,0.0,Non-Solver,67
+A3ADVMXAYYYPD2,MagicPotion,42,Male,Right,Graduate Degree,16,10,1,1,0.65,0.0,0.0,0.0,0.0,0.45,0.05,0.5,0.0,Non-Solver,67
+A3C8NUIBNZYMT2,MagicPotion,30,Male,Right,College,1,6,3,7,0.7,0.5,0.1,0.05,0.05,0.05,0.05,0.1,0.1,Non-Solver,67
+A3LLOANE52R4LT,MagicPotion,35,Male,Right,College,8,9,5,5,0.65,0.1,0.15,0.1,0.1,0.45,0.1,0.0,0.0,Non-Solver,67
+A3QLGMZOLGMBQ1,MagicPotion,51,Male,Right,Graduate Degree,1,8,3,3,0.75,0.9,0.05,0.0,0.0,0.0,0.0,0.0,0.05,Non-Solver,67
+A3R5OJR60C6004,MagicPotion,45,Male,Right,College,8,8,4,4,0.6,0.0,0.05,0.15,0.15,0.6,0.05,0.0,0.0,Non-Solver,67
+A3S1DILZ70PXC,MagicPotion,41,Female,Right,College,1,8,5,3,0.6,0.6,0.0,0.0,0.0,0.4,0.0,0.0,0.0,Non-Solver,67
+A3URLNXHLP4ARU,MagicPotion,47,Female,Right,Graduate Degree,8,5,5,8,0.5,0.1,0.05,0.05,0.05,0.5,0.0,0.1,0.15,Non-Solver,67
+A4IH4CO046EV3,MagicPotion,40,Male,Right,College,2,10,1,8,0.1,0.0,0.1,0.1,0.25,0.4,0.1,0.05,0.0,Non-Solver,67
+AAQREZOK13OV7,MagicPotion,31,Male,Right,College,4,4,7,6,0.45,0.0,0.05,0.1,0.2,0.45,0.15,0.05,0.0,Non-Solver,67
+17,MagicPotion,29,Male,Right,College,3,6,9,10,0.2,0.0,0.1,0.2,0.35,0.35,0.0,0.0,0.0,Solver,67
+17,MagicPotion,29,Male,Right,College,3,6,9,10,0.2,0.0,0.1,0.2,0.35,0.35,0.0,0.0,0.0,Solver,67
+18,MagicPotion,17,Male,Right,High School/GED,8,5,4,6,0.4,0.05,0.0,0.0,0.1,0.25,0.1,0.3,0.2,Non-Solver,67
+16,MagicPotion,22,Female,Right,College,8,3,5,5,0.6,0.15,0.0,0.05,0.1,0.6,0.05,0.05,0.0,Non-Solver,67
+15,MagicPotion,25,Male,Right,Graduate Degree,8,1,7,7,0.1,0.05,0.05,0.05,0.05,0.45,0.05,0.05,0.25,Non-Solver,67
+14,MagicPotion,26,Male,Right,College,3,5,7,6,0.4,0.05,0.05,0.4,0.25,0.25,0.0,0.0,0.0,Solver,68
+13,MagicPotion,27,Male,Right,Graduate Degree,3,10,7,10,0.2,0.0,0.05,0.2,0.4,0.35,0.0,0.0,0.0,Solver,68
+12,MagicPotion,25,Female,Right,Graduate Degree,4,1,10,10,0.1,0.0,0.1,0.15,0.35,0.4,0.0,0.0,0.0,Non-Solver,68
+11,MagicPotion,28,Male,Right,Graduate Degree,8,10,1,2,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,Non-Solver,68
+10,MagicPotion,29,Male,Right,High School/GED,8,3,6,7,0.3,0.1,0.1,0.1,0.1,0.3,0.1,0.1,0.1,Non-Solver,68
+9,MagicPotion,36,Male,Right,Graduate Degree,4,1,10,10,0.2,0.2,0.2,0.2,0.2,0.2,0.0,0.0,0.0,Non-Solver,68
+8,MagicPotion,26,Female,Right,College,8,1,6,6,0.2,0.0,0.0,0.0,0.0,0.35,0.15,0.2,0.3,Non-Solver,68
+7,MagicPotion,35,Female,Left,Graduate Degree,8,6,3,4,0.7,0.2,0.0,0.0,0.1,0.7,0.0,0.0,0.0,Non-Solver,68
+6,MagicPotion,60,Male,Right,Graduate Degree,3,10,3,6,0.5,0.0,0.0,0.5,0.3,0.2,0.0,0.0,0.0,Solver,68
+5,MagicPotion,39,Female,Right,Graduate Degree,4,10,7,6,0.5,0.0,0.0,0.15,0.5,0.3,0.05,0.0,0.0,Non-Solver,68
+4,MagicPotion,62,Female,Right,Graduate Degree,8,10,2,2,0.8,0.0,0.0,0.0,0.0,0.8,0.2,0.0,0.0,Non-Solver,68
+3,MagicPotion,29,Female,Right,Graduate Degree,4,4,8,6,0.4,0.25,0.05,0.05,0.05,0.5,0.05,0.05,0.0,Non-Solver,68
+2,MagicPotion,28,Female,Right,Graduate Degree,8,8,5,2,0.5,0.2,0.1,0.0,0.0,0.5,0.0,0.2,0.0,Non-Solver,68
+1,MagicPotion,33,Male,Right,Graduate Degree,8,4,7,5,0.2,0.05,0.05,0.05,0.2,0.4,0.05,0.2,0.0,Non-Solver,68
+A2WHC086WNUQNB,MagicPotion,53,Female,Right,College,8,5,4,5,0.7,0.0,0.1,0.1,0.1,0.5,0.1,0.1,0.0,Non-Solver,68
+AMZV70TID53WY,MagicPotion,26,Male,Right,College,8,10,1,2,0.9,0.0,0.0,0.0,0.0,0.9,0.1,0.0,0.0,Non-Solver,68
+A147F5PJTHOB8A,MagicPotion,42,Male,Right,High School/GED,10,3,9,10,0.1,0.2,0.2,0.05,0.05,0.1,0.3,0.05,0.05,Non-Solver,68
+A1NZFJHVJ9CNTO,MagicPotion,29,Male,Right,High School/GED,8,9,1,1,0.9,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,Non-Solver,68
+AO46MWFKLP3ZN,MagicPotion,30,Male,Right,Graduate Degree,1,10,1,5,0.5,0.5,0.1,0.0,0.05,0.1,0.05,0.1,0.1,Non-Solver,68
+A39YK8LJ8O37OY,MagicPotion,33,Female,Right,Graduate Degree,1,2,1,1,0.2,0.05,0.05,0.05,0.05,0.1,0.2,0.35,0.15,Non-Solver,68
+AKF2CET7H6C5X,MagicPotion,32,Male,Right,Graduate Degree,4,1,6,5,0.7,0.15,0.15,0.1,0.1,0.1,0.1,0.15,0.15,Non-Solver,68
+A53WVYONK6B9Q,MagicPotion,26,Male,Right,High School/GED,8,5,4,6,0.1,0.1,0.1,0.1,0.15,0.15,0.15,0.1,0.15,Non-Solver,68
+AMELYCC59JKB0,MagicPotion,37,Female,Right,College,8,8,5,5,0.5,0.2,0.25,0.15,0.05,0.35,0.0,0.0,0.0,Non-Solver,68
+A8FCVU1TTDVL0,MagicPotion,40,Female,Right,College,8,10,3,3,0.8,0.0,0.0,0.0,0.0,0.95,0.05,0.0,0.0,Non-Solver,68
+A198MSVO1VTAT5,MagicPotion,60,Female,Right,College,8,10,1,1,0.7,0.2,0.1,0.1,0.1,0.5,0.0,0.0,0.0,Non-Solver,68
+A2QUQ0S2F6K3QJ,MagicPotion,63,Female,Right,High School/GED,8,4,3,6,0.3,0.2,0.05,0.1,0.15,0.35,0.1,0.05,0.0,Non-Solver,68
+A3U21PUMQ6NGT2,MagicPotion,38,Female,Right,College,1,6,1,3,0.75,0.3,0.15,0.05,0.1,0.15,0.15,0.1,0.0,Non-Solver,68
+A3J85WP15JFYW0,MagicPotion,31,Male,Right,College,1,10,2,5,0.5,0.5,0.0,0.0,0.0,0.5,0.0,0.0,0.0,Non-Solver,68
+A2DWPP1KKAY0HG,MagicPotion,24,Male,Right,College,1,10,2,4,0.7,0.7,0.0,0.0,0.0,0.15,0.0,0.15,0.0,Non-Solver,68
+A2ZLII4MLBHWR4,MagicPotion,27,Male,Right,Graduate Degree,1,8,3,1,0.5,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Non-Solver,68
+1532532,MagicPotion,22,Male,Right,Graduate Degree,4,7,6,8,0.4,0.05,0.1,0.1,0.4,0.35,0.0,0.0,0.0,Non-Solver,68
+A18TCR555RWUZV,MagicPotion,34,Male,Right,College,1,9,4,7,0.35,0.25,0.15,0.1,0.25,0.25,0.0,0.0,0.0,Non-Solver,69
+A1JVWOBGNA6KJT,MagicPotion,54,Male,Right,High School/GED,1,9,4,3,0.6,0.6,0.05,0.05,0.05,0.25,0.0,0.0,0.0,Non-Solver,69
+A1O5IL3N3G3WIL,MagicPotion,45,Female,Right,College,8,5,5,5,0.65,0.2,0.2,0.15,0.1,0.15,0.05,0.05,0.05,Non-Solver,69
+A1ROEDVMTO9Y3X,MagicPotion,50,Female,Left,College,8,8,8,3,0.4,0.1,0.1,0.1,0.1,0.1,0.05,0.05,0.0,Non-Solver,69
+A1RV2LERVS0A4H,MagicPotion,33,Female,Right,College,8,6,3,3,0.6,0.0,0.0,0.0,0.35,0.6,0.05,0.0,0.0,Non-Solver,69
+A1WVNDH62P2UNZ,MagicPotion,26,Female,Right,High School/GED,8,7,3,2,1.0,0.0,0.0,0.0,0.0,0.75,0.1,0.05,0.1,Non-Solver,69
+A21SF3IKIZB0VN,MagicPotion,73,Female,Left,Graduate Degree,8,9,1,1,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,Non-Solver,69
+A23BWWRR7J5XLS,MagicPotion,42,Male,Right,High School/GED,8,8,5,6,0.65,0.1,0.0,0.0,0.0,0.9,0.0,0.0,0.0,Non-Solver,69
+A23KAJRDVCVGOE,MagicPotion,41,Male,Left,High School/GED,10,2,9,9,0.1,0.05,0.05,0.05,0.05,0.25,0.45,0.1,0.0,Non-Solver,69
+A2541C8MY0BYV3,MagicPotion,29,Male,Right,College,10,2,10,10,0.05,0.15,0.1,0.2,0.05,0.15,0.25,0.05,0.05,Non-Solver,69
+A270HX8LH9LJ8W,MagicPotion,38,Male,Right,Graduate Degree,8,6,5,5,0.5,0.05,0.1,0.1,0.15,0.5,0.05,0.05,0.0,Non-Solver,69
+A2B2HQHFBYLTXU,MagicPotion,36,Male,Right,Graduate Degree,1,4,6,6,0.25,0.35,0.15,0.1,0.1,0.15,0.05,0.05,0.05,Non-Solver,69
+A2GNG7DWHQA6ZZ,MagicPotion,34,Male,Right,Graduate Degree,8,9,2,3,0.85,0.0,0.0,0.0,0.15,0.85,0.0,0.0,0.0,Non-Solver,69
+A2VLTSW6CXIUMR,MagicPotion,44,Male,Right,High School/GED,8,7,3,4,0.75,0.0,0.0,0.0,0.1,0.8,0.05,0.05,0.0,Non-Solver,69
+A2YCMT5BPA0AG9,MagicPotion,50,Male,Right,College,1,6,6,5,0.3,0.25,0.05,0.1,0.15,0.45,0.0,0.0,0.0,Non-Solver,69
+A2YWSSQEXXCRGK,MagicPotion,51,Female,Right,Graduate Degree,8,8,3,3,0.75,0.1,0.05,0.0,0.1,0.75,0.0,0.0,0.0,Non-Solver,69
+A3ADVMXAYYYPD2,MagicPotion,42,Male,Right,Graduate Degree,16,10,1,1,0.65,0.0,0.0,0.0,0.0,0.45,0.05,0.5,0.0,Non-Solver,69
+A3C8NUIBNZYMT2,MagicPotion,30,Male,Right,College,1,6,3,7,0.7,0.5,0.1,0.05,0.05,0.05,0.05,0.1,0.1,Non-Solver,69
+A3LLOANE52R4LT,MagicPotion,35,Male,Right,College,8,9,5,5,0.65,0.1,0.15,0.1,0.1,0.45,0.1,0.0,0.0,Non-Solver,69
+A3QLGMZOLGMBQ1,MagicPotion,51,Male,Right,Graduate Degree,1,8,3,3,0.75,0.9,0.05,0.0,0.0,0.0,0.0,0.0,0.05,Non-Solver,69
+A3R5OJR60C6004,MagicPotion,45,Male,Right,College,8,8,4,4,0.6,0.0,0.05,0.15,0.15,0.6,0.05,0.0,0.0,Non-Solver,69
+A3S1DILZ70PXC,MagicPotion,41,Female,Right,College,1,8,5,3,0.6,0.6,0.0,0.0,0.0,0.4,0.0,0.0,0.0,Non-Solver,69
+A3URLNXHLP4ARU,MagicPotion,47,Female,Right,Graduate Degree,8,5,5,8,0.5,0.1,0.05,0.05,0.05,0.5,0.0,0.1,0.15,Non-Solver,69
+A4IH4CO046EV3,MagicPotion,40,Male,Right,College,2,10,1,8,0.1,0.0,0.1,0.1,0.25,0.4,0.1,0.05,0.0,Non-Solver,69
+AAQREZOK13OV7,MagicPotion,31,Male,Right,College,4,4,7,6,0.45,0.0,0.05,0.1,0.2,0.45,0.15,0.05,0.0,Non-Solver,69
+17,MagicPotion,29,Male,Right,College,3,6,9,10,0.2,0.0,0.1,0.2,0.35,0.35,0.0,0.0,0.0,Solver,69
+17,MagicPotion,29,Male,Right,College,3,6,9,10,0.2,0.0,0.1,0.2,0.35,0.35,0.0,0.0,0.0,Solver,69
+17,MagicPotion,29,Male,Right,College,3,6,9,10,0.2,0.0,0.1,0.2,0.35,0.35,0.0,0.0,0.0,Solver,69
+17,MagicPotion,29,Male,Right,College,3,6,9,10,0.2,0.0,0.1,0.2,0.35,0.35,0.0,0.0,0.0,Solver,69
+18,MagicPotion,17,Male,Right,High School/GED,8,5,4,6,0.4,0.05,0.0,0.0,0.1,0.25,0.1,0.3,0.2,Non-Solver,69
+16,MagicPotion,22,Female,Right,College,8,3,5,5,0.6,0.15,0.0,0.05,0.1,0.6,0.05,0.05,0.0,Non-Solver,69
+15,MagicPotion,25,Male,Right,Graduate Degree,8,1,7,7,0.1,0.05,0.05,0.05,0.05,0.45,0.05,0.05,0.25,Non-Solver,70
+14,MagicPotion,26,Male,Right,College,3,5,7,6,0.4,0.05,0.05,0.4,0.25,0.25,0.0,0.0,0.0,Solver,70
+13,MagicPotion,27,Male,Right,Graduate Degree,3,10,7,10,0.2,0.0,0.05,0.2,0.4,0.35,0.0,0.0,0.0,Solver,70
+12,MagicPotion,25,Female,Right,Graduate Degree,4,1,10,10,0.1,0.0,0.1,0.15,0.35,0.4,0.0,0.0,0.0,Non-Solver,70
+11,MagicPotion,28,Male,Right,Graduate Degree,8,10,1,2,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,Non-Solver,70
+10,MagicPotion,29,Male,Right,High School/GED,8,3,6,7,0.3,0.1,0.1,0.1,0.1,0.3,0.1,0.1,0.1,Non-Solver,70
+9,MagicPotion,36,Male,Right,Graduate Degree,4,1,10,10,0.2,0.2,0.2,0.2,0.2,0.2,0.0,0.0,0.0,Non-Solver,70
+8,MagicPotion,26,Female,Right,College,8,1,6,6,0.2,0.0,0.0,0.0,0.0,0.35,0.15,0.2,0.3,Non-Solver,70
+7,MagicPotion,35,Female,Left,Graduate Degree,8,6,3,4,0.7,0.2,0.0,0.0,0.1,0.7,0.0,0.0,0.0,Non-Solver,70
+6,MagicPotion,60,Male,Right,Graduate Degree,3,10,3,6,0.5,0.0,0.0,0.5,0.3,0.2,0.0,0.0,0.0,Solver,70
+5,MagicPotion,39,Female,Right,Graduate Degree,4,10,7,6,0.5,0.0,0.0,0.15,0.5,0.3,0.05,0.0,0.0,Non-Solver,70
+4,MagicPotion,62,Female,Right,Graduate Degree,8,10,2,2,0.8,0.0,0.0,0.0,0.0,0.8,0.2,0.0,0.0,Non-Solver,70
+3,MagicPotion,29,Female,Right,Graduate Degree,4,4,8,6,0.4,0.25,0.05,0.05,0.05,0.5,0.05,0.05,0.0,Non-Solver,70
+2,MagicPotion,28,Female,Right,Graduate Degree,8,8,5,2,0.5,0.2,0.1,0.0,0.0,0.5,0.0,0.2,0.0,Non-Solver,70
+1,MagicPotion,33,Male,Right,Graduate Degree,8,4,7,5,0.2,0.05,0.05,0.05,0.2,0.4,0.05,0.2,0.0,Non-Solver,70
+A2WHC086WNUQNB,MagicPotion,53,Female,Right,College,8,5,4,5,0.7,0.0,0.1,0.1,0.1,0.5,0.1,0.1,0.0,Non-Solver,70
+AMZV70TID53WY,MagicPotion,26,Male,Right,College,8,10,1,2,0.9,0.0,0.0,0.0,0.0,0.9,0.1,0.0,0.0,Non-Solver,70
+A147F5PJTHOB8A,MagicPotion,42,Male,Right,High School/GED,10,3,9,10,0.1,0.2,0.2,0.05,0.05,0.1,0.3,0.05,0.05,Non-Solver,70
+A1NZFJHVJ9CNTO,MagicPotion,29,Male,Right,High School/GED,8,9,1,1,0.9,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,Non-Solver,70
+AO46MWFKLP3ZN,MagicPotion,30,Male,Right,Graduate Degree,1,10,1,5,0.5,0.5,0.1,0.0,0.05,0.1,0.05,0.1,0.1,Non-Solver,70
+A39YK8LJ8O37OY,MagicPotion,33,Female,Right,Graduate Degree,1,2,1,1,0.2,0.05,0.05,0.05,0.05,0.1,0.2,0.35,0.15,Non-Solver,70
+AKF2CET7H6C5X,MagicPotion,32,Male,Right,Graduate Degree,4,1,6,5,0.7,0.15,0.15,0.1,0.1,0.1,0.1,0.15,0.15,Non-Solver,70
+A53WVYONK6B9Q,MagicPotion,26,Male,Right,High School/GED,8,5,4,6,0.1,0.1,0.1,0.1,0.15,0.15,0.15,0.1,0.15,Non-Solver,70
+AMELYCC59JKB0,MagicPotion,37,Female,Right,College,8,8,5,5,0.5,0.2,0.25,0.15,0.05,0.35,0.0,0.0,0.0,Non-Solver,70
+A8FCVU1TTDVL0,MagicPotion,40,Female,Right,College,8,10,3,3,0.8,0.0,0.0,0.0,0.0,0.95,0.05,0.0,0.0,Non-Solver,70
+A198MSVO1VTAT5,MagicPotion,60,Female,Right,College,8,10,1,1,0.7,0.2,0.1,0.1,0.1,0.5,0.0,0.0,0.0,Non-Solver,70
+A3U21PUMQ6NGT2,MagicPotion,38,Female,Right,College,1,6,1,3,0.75,0.3,0.15,0.05,0.1,0.15,0.15,0.1,0.0,Non-Solver,70
+A3J85WP15JFYW0,MagicPotion,31,Male,Right,College,1,10,2,5,0.5,0.5,0.0,0.0,0.0,0.5,0.0,0.0,0.0,Non-Solver,70
+A2DWPP1KKAY0HG,MagicPotion,24,Male,Right,College,1,10,2,4,0.7,0.7,0.0,0.0,0.0,0.15,0.0,0.15,0.0,Non-Solver,70
+A2ZLII4MLBHWR4,MagicPotion,27,Male,Right,Graduate Degree,1,8,3,1,0.5,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Non-Solver,70
+1532532,MagicPotion,22,Male,Right,Graduate Degree,4,7,6,8,0.4,0.05,0.1,0.1,0.4,0.35,0.0,0.0,0.0,Non-Solver,70
+A18TCR555RWUZV,MagicPotion,34,Male,Right,College,1,9,4,7,0.35,0.25,0.15,0.1,0.25,0.25,0.0,0.0,0.0,Non-Solver,71
+A1JVWOBGNA6KJT,MagicPotion,54,Male,Right,High School/GED,1,9,4,3,0.6,0.6,0.05,0.05,0.05,0.25,0.0,0.0,0.0,Non-Solver,71
+A1O5IL3N3G3WIL,MagicPotion,45,Female,Right,College,8,5,5,5,0.65,0.2,0.2,0.15,0.1,0.15,0.05,0.05,0.05,Non-Solver,71
+A1ROEDVMTO9Y3X,MagicPotion,50,Female,Left,College,8,8,8,3,0.4,0.1,0.1,0.1,0.1,0.1,0.05,0.05,0.0,Non-Solver,71
+A1RV2LERVS0A4H,MagicPotion,33,Female,Right,College,8,6,3,3,0.6,0.0,0.0,0.0,0.35,0.6,0.05,0.0,0.0,Non-Solver,71
+A1WVNDH62P2UNZ,MagicPotion,26,Female,Right,High School/GED,8,7,3,2,1.0,0.0,0.0,0.0,0.0,0.75,0.1,0.05,0.1,Non-Solver,71
+A21SF3IKIZB0VN,MagicPotion,73,Female,Left,Graduate Degree,8,9,1,1,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,Non-Solver,71
+A23BWWRR7J5XLS,MagicPotion,42,Male,Right,High School/GED,8,8,5,6,0.65,0.1,0.0,0.0,0.0,0.9,0.0,0.0,0.0,Non-Solver,71
+A23KAJRDVCVGOE,MagicPotion,41,Male,Left,High School/GED,10,2,9,9,0.1,0.05,0.05,0.05,0.05,0.25,0.45,0.1,0.0,Non-Solver,71
+A2541C8MY0BYV3,MagicPotion,29,Male,Right,College,10,2,10,10,0.05,0.15,0.1,0.2,0.05,0.15,0.25,0.05,0.05,Non-Solver,71
+A270HX8LH9LJ8W,MagicPotion,38,Male,Right,Graduate Degree,8,6,5,5,0.5,0.05,0.1,0.1,0.15,0.5,0.05,0.05,0.0,Non-Solver,71
+A2B2HQHFBYLTXU,MagicPotion,36,Male,Right,Graduate Degree,1,4,6,6,0.25,0.35,0.15,0.1,0.1,0.15,0.05,0.05,0.05,Non-Solver,71
+A2GNG7DWHQA6ZZ,MagicPotion,34,Male,Right,Graduate Degree,8,9,2,3,0.85,0.0,0.0,0.0,0.15,0.85,0.0,0.0,0.0,Non-Solver,71
+A2VLTSW6CXIUMR,MagicPotion,44,Male,Right,High School/GED,8,7,3,4,0.75,0.0,0.0,0.0,0.1,0.8,0.05,0.05,0.0,Non-Solver,71
+A2YCMT5BPA0AG9,MagicPotion,50,Male,Right,College,1,6,6,5,0.3,0.25,0.05,0.1,0.15,0.45,0.0,0.0,0.0,Non-Solver,71
+A2YWSSQEXXCRGK,MagicPotion,51,Female,Right,Graduate Degree,8,8,3,3,0.75,0.1,0.05,0.0,0.1,0.75,0.0,0.0,0.0,Non-Solver,71
+A3ADVMXAYYYPD2,MagicPotion,42,Male,Right,Graduate Degree,16,10,1,1,0.65,0.0,0.0,0.0,0.0,0.45,0.05,0.5,0.0,Non-Solver,71
+A3C8NUIBNZYMT2,MagicPotion,30,Male,Right,College,1,6,3,7,0.7,0.5,0.1,0.05,0.05,0.05,0.05,0.1,0.1,Non-Solver,71
+A3LLOANE52R4LT,MagicPotion,35,Male,Right,College,8,9,5,5,0.65,0.1,0.15,0.1,0.1,0.45,0.1,0.0,0.0,Non-Solver,71
+A3QLGMZOLGMBQ1,MagicPotion,51,Male,Right,Graduate Degree,1,8,3,3,0.75,0.9,0.05,0.0,0.0,0.0,0.0,0.0,0.05,Non-Solver,71
+A3R5OJR60C6004,MagicPotion,45,Male,Right,College,8,8,4,4,0.6,0.0,0.05,0.15,0.15,0.6,0.05,0.0,0.0,Non-Solver,71
+A3S1DILZ70PXC,MagicPotion,41,Female,Right,College,1,8,5,3,0.6,0.6,0.0,0.0,0.0,0.4,0.0,0.0,0.0,Non-Solver,71
+A3URLNXHLP4ARU,MagicPotion,47,Female,Right,Graduate Degree,8,5,5,8,0.5,0.1,0.05,0.05,0.05,0.5,0.0,0.1,0.15,Non-Solver,71
+A4IH4CO046EV3,MagicPotion,40,Male,Right,College,2,10,1,8,0.1,0.0,0.1,0.1,0.25,0.4,0.1,0.05,0.0,Non-Solver,71
+AAQREZOK13OV7,MagicPotion,31,Male,Right,College,4,4,7,6,0.45,0.0,0.05,0.1,0.2,0.45,0.15,0.05,0.0,Non-Solver,71
+17,MagicPotion,29,Male,Right,College,3,6,9,10,0.2,0.0,0.1,0.2,0.35,0.35,0.0,0.0,0.0,Solver,71
+17,MagicPotion,29,Male,Right,College,3,6,9,10,0.2,0.0,0.1,0.2,0.35,0.35,0.0,0.0,0.0,Solver,71
+17,MagicPotion,29,Male,Right,College,3,6,9,10,0.2,0.0,0.1,0.2,0.35,0.35,0.0,0.0,0.0,Solver,71
+17,MagicPotion,29,Male,Right,College,3,6,9,10,0.2,0.0,0.1,0.2,0.35,0.35,0.0,0.0,0.0,Solver,71
+17,MagicPotion,29,Male,Right,College,3,6,9,10,0.2,0.0,0.1,0.2,0.35,0.35,0.0,0.0,0.0,Solver,71
+17,MagicPotion,29,Male,Right,College,3,6,9,10,0.2,0.0,0.1,0.2,0.35,0.35,0.0,0.0,0.0,Solver,71
+17,MagicPotion,29,Male,Right,College,3,6,9,10,0.2,0.0,0.1,0.2,0.35,0.35,0.0,0.0,0.0,Solver,72
+17,MagicPotion,29,Male,Right,College,3,6,9,10,0.2,0.0,0.1,0.2,0.35,0.35,0.0,0.0,0.0,Solver,72
+AAQREZOK13OV7,MagicPotion,31,Male,Right,College,4,4,7,6,0.45,0.0,0.05,0.1,0.2,0.45,0.15,0.05,0.0,Non-Solver,72
+AFQ9W6WA8O9EH,MagicPotion,51,Female,Left,Graduate Degree,1,10,1,5,0.5,0.5,0.0,0.0,0.0,0.5,0.0,0.0,0.0,Non-Solver,72
+AN9MVFWRCF2OP,MagicPotion,29,Male,Right,College,8,9,2,4,0.9,0.0,0.0,0.0,0.1,0.75,0.15,0.0,0.0,Non-Solver,72
+AY2U544TCVPMQ,MagicPotion,37,Male,Right,Graduate Degree,1,6,5,9,0.1,0.1,0.05,0.05,0.05,0.6,0.05,0.05,0.05,Non-Solver,72
+AYW62R027PUT1,MagicPotion,44,Male,Right,College,8,9,2,3,0.6,0.2,0.0,0.0,0.1,0.6,0.0,0.1,0.0,Non-Solver,72
+18,MagicPotion,17,Male,Right,High School/GED,8,5,4,6,0.4,0.05,0.0,0.0,0.1,0.25,0.1,0.3,0.2,Non-Solver,72
+16,MagicPotion,22,Female,Right,College,8,3,5,5,0.6,0.15,0.0,0.05,0.1,0.6,0.05,0.05,0.0,Non-Solver,72
+15,MagicPotion,25,Male,Right,Graduate Degree,8,1,7,7,0.1,0.05,0.05,0.05,0.05,0.45,0.05,0.05,0.25,Non-Solver,72
+14,MagicPotion,26,Male,Right,College,3,5,7,6,0.4,0.05,0.05,0.4,0.25,0.25,0.0,0.0,0.0,Solver,72
+13,MagicPotion,27,Male,Right,Graduate Degree,3,10,7,10,0.2,0.0,0.05,0.2,0.4,0.35,0.0,0.0,0.0,Solver,72
+12,MagicPotion,25,Female,Right,Graduate Degree,4,1,10,10,0.1,0.0,0.1,0.15,0.35,0.4,0.0,0.0,0.0,Non-Solver,72
+11,MagicPotion,28,Male,Right,Graduate Degree,8,10,1,2,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,Non-Solver,72
+10,MagicPotion,29,Male,Right,High School/GED,8,3,6,7,0.3,0.1,0.1,0.1,0.1,0.3,0.1,0.1,0.1,Non-Solver,72
+9,MagicPotion,36,Male,Right,Graduate Degree,4,1,10,10,0.2,0.2,0.2,0.2,0.2,0.2,0.0,0.0,0.0,Non-Solver,72
+8,MagicPotion,26,Female,Right,College,8,1,6,6,0.2,0.0,0.0,0.0,0.0,0.35,0.15,0.2,0.3,Non-Solver,72
+7,MagicPotion,35,Female,Left,Graduate Degree,8,6,3,4,0.7,0.2,0.0,0.0,0.1,0.7,0.0,0.0,0.0,Non-Solver,72
+6,MagicPotion,60,Male,Right,Graduate Degree,3,10,3,6,0.5,0.0,0.0,0.5,0.3,0.2,0.0,0.0,0.0,Solver,72
+5,MagicPotion,39,Female,Right,Graduate Degree,4,10,7,6,0.5,0.0,0.0,0.15,0.5,0.3,0.05,0.0,0.0,Non-Solver,72
+4,MagicPotion,62,Female,Right,Graduate Degree,8,10,2,2,0.8,0.0,0.0,0.0,0.0,0.8,0.2,0.0,0.0,Non-Solver,72
+3,MagicPotion,29,Female,Right,Graduate Degree,4,4,8,6,0.4,0.25,0.05,0.05,0.05,0.5,0.05,0.05,0.0,Non-Solver,72
+2,MagicPotion,28,Female,Right,Graduate Degree,8,8,5,2,0.5,0.2,0.1,0.0,0.0,0.5,0.0,0.2,0.0,Non-Solver,72
+1,MagicPotion,33,Male,Right,Graduate Degree,8,4,7,5,0.2,0.05,0.05,0.05,0.2,0.4,0.05,0.2,0.0,Non-Solver,72
+A2WHC086WNUQNB,MagicPotion,53,Female,Right,College,8,5,4,5,0.7,0.0,0.1,0.1,0.1,0.5,0.1,0.1,0.0,Non-Solver,72
+AMZV70TID53WY,MagicPotion,26,Male,Right,College,8,10,1,2,0.9,0.0,0.0,0.0,0.0,0.9,0.1,0.0,0.0,Non-Solver,72
+A147F5PJTHOB8A,MagicPotion,42,Male,Right,High School/GED,10,3,9,10,0.1,0.2,0.2,0.05,0.05,0.1,0.3,0.05,0.05,Non-Solver,72
+A1NZFJHVJ9CNTO,MagicPotion,29,Male,Right,High School/GED,8,9,1,1,0.9,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,Non-Solver,72
+AO46MWFKLP3ZN,MagicPotion,30,Male,Right,Graduate Degree,1,10,1,5,0.5,0.5,0.1,0.0,0.05,0.1,0.05,0.1,0.1,Non-Solver,72
+A39YK8LJ8O37OY,MagicPotion,33,Female,Right,Graduate Degree,1,2,1,1,0.2,0.05,0.05,0.05,0.05,0.1,0.2,0.35,0.15,Non-Solver,72
+AKF2CET7H6C5X,MagicPotion,32,Male,Right,Graduate Degree,4,1,6,5,0.7,0.15,0.15,0.1,0.1,0.1,0.1,0.15,0.15,Non-Solver,72
+A53WVYONK6B9Q,MagicPotion,26,Male,Right,High School/GED,8,5,4,6,0.1,0.1,0.1,0.1,0.15,0.15,0.15,0.1,0.15,Non-Solver,72
+AMELYCC59JKB0,MagicPotion,37,Female,Right,College,8,8,5,5,0.5,0.2,0.25,0.15,0.05,0.35,0.0,0.0,0.0,Non-Solver,72
+A8FCVU1TTDVL0,MagicPotion,40,Female,Right,College,8,10,3,3,0.8,0.0,0.0,0.0,0.0,0.95,0.05,0.0,0.0,Non-Solver,72
+A198MSVO1VTAT5,MagicPotion,60,Female,Right,College,8,10,1,1,0.7,0.2,0.1,0.1,0.1,0.5,0.0,0.0,0.0,Non-Solver,72
+A2QUQ0S2F6K3QJ,MagicPotion,63,Female,Right,High School/GED,8,4,3,6,0.3,0.2,0.05,0.1,0.15,0.35,0.1,0.05,0.0,Non-Solver,72
