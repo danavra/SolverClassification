@@ -1,0 +1,1731 @@
+,correct_answer,Problem,Classifier,Classification,group_number,is_correct,aggregation,features,entity
+0,435,KP_1,Majority Rule,435,1,1,baseline,baseline,raw
+1,435,KP_1,Surprisingly Popular,820,1,0,baseline,baseline,raw
+2,435,KP_1,Average Confidence,820,1,0,baseline,baseline,raw
+3,435,KP_1,Weighted Confidence,435,1,1,baseline,baseline,raw
+4,435,KP_1,Majority Rule,700,2,0,baseline,baseline,raw
+5,435,KP_1,Surprisingly Popular,820,2,0,baseline,baseline,raw
+6,435,KP_1,Average Confidence,820,2,0,baseline,baseline,raw
+7,435,KP_1,Weighted Confidence,700,2,0,baseline,baseline,raw
+8,435,KP_1,Majority Rule,435,3,1,baseline,baseline,raw
+9,435,KP_1,Surprisingly Popular,other,3,0,baseline,baseline,raw
+10,435,KP_1,Average Confidence,820,3,0,baseline,baseline,raw
+11,435,KP_1,Weighted Confidence,435,3,1,baseline,baseline,raw
+12,41,KP_2,Majority Rule,41,4,1,baseline,baseline,raw
+13,41,KP_2,Surprisingly Popular,41,4,1,baseline,baseline,raw
+14,41,KP_2,Average Confidence,50,4,0,baseline,baseline,raw
+15,41,KP_2,Weighted Confidence,41,4,1,baseline,baseline,raw
+16,41,KP_2,Majority Rule,41,5,1,baseline,baseline,raw
+17,41,KP_2,Surprisingly Popular,55,5,0,baseline,baseline,raw
+18,41,KP_2,Average Confidence,50,5,0,baseline,baseline,raw
+19,41,KP_2,Weighted Confidence,41,5,1,baseline,baseline,raw
+20,41,KP_2,Majority Rule,41,6,1,baseline,baseline,raw
+21,41,KP_2,Surprisingly Popular,41,6,1,baseline,baseline,raw
+22,41,KP_2,Average Confidence,34,6,0,baseline,baseline,raw
+23,41,KP_2,Weighted Confidence,41,6,1,baseline,baseline,raw
+24,10 miles,ThreeRobots,Majority Rule,10 miles,7,1,baseline,baseline,raw
+25,10 miles,ThreeRobots,Surprisingly Popular,10 miles,7,1,baseline,baseline,raw
+26,10 miles,ThreeRobots,Average Confidence,1 mile,7,0,baseline,baseline,raw
+27,10 miles,ThreeRobots,Weighted Confidence,10 miles,7,1,baseline,baseline,raw
+28,10 miles,ThreeRobots,Majority Rule,3 miles,8,0,baseline,baseline,raw
+29,10 miles,ThreeRobots,Surprisingly Popular,6 miles,8,0,baseline,baseline,raw
+30,10 miles,ThreeRobots,Average Confidence,10 miles,8,1,baseline,baseline,raw
+31,10 miles,ThreeRobots,Weighted Confidence,10 miles,8,1,baseline,baseline,raw
+32,10 miles,ThreeRobots,Majority Rule,10 miles,9,1,baseline,baseline,raw
+33,10 miles,ThreeRobots,Surprisingly Popular,10 miles,9,1,baseline,baseline,raw
+34,10 miles,ThreeRobots,Average Confidence,1 mile,9,0,baseline,baseline,raw
+35,10 miles,ThreeRobots,Weighted Confidence,10 miles,9,1,baseline,baseline,raw
+36,50Kg,Apple,Majority Rule,99Kg,10,0,baseline,baseline,raw
+37,50Kg,Apple,Surprisingly Popular,98Kg,10,0,baseline,baseline,raw
+38,50Kg,Apple,Average Confidence,98Kg,10,0,baseline,baseline,raw
+39,50Kg,Apple,Weighted Confidence,99Kg,10,0,baseline,baseline,raw
+40,50Kg,Apple,Majority Rule,99Kg,11,0,baseline,baseline,raw
+41,50Kg,Apple,Surprisingly Popular,98Kg,11,0,baseline,baseline,raw
+42,50Kg,Apple,Average Confidence,50Kg,11,1,baseline,baseline,raw
+43,50Kg,Apple,Weighted Confidence,99Kg,11,0,baseline,baseline,raw
+44,50Kg,Apple,Majority Rule,99Kg,12,0,baseline,baseline,raw
+45,50Kg,Apple,Surprisingly Popular,98Kg,12,0,baseline,baseline,raw
+46,50Kg,Apple,Average Confidence,50Kg,12,1,baseline,baseline,raw
+47,50Kg,Apple,Weighted Confidence,99Kg,12,0,baseline,baseline,raw
+48,100,Bakery,Majority Rule,80,13,0,baseline,baseline,raw
+49,100,Bakery,Surprisingly Popular,80,13,0,baseline,baseline,raw
+50,100,Bakery,Average Confidence,80,13,0,baseline,baseline,raw
+51,100,Bakery,Weighted Confidence,80,13,0,baseline,baseline,raw
+52,100,Bakery,Majority Rule,80,14,0,baseline,baseline,raw
+53,100,Bakery,Surprisingly Popular,80,14,0,baseline,baseline,raw
+54,100,Bakery,Average Confidence,80,14,0,baseline,baseline,raw
+55,100,Bakery,Weighted Confidence,80,14,0,baseline,baseline,raw
+56,100,Bakery,Majority Rule,80,15,0,baseline,baseline,raw
+57,100,Bakery,Surprisingly Popular,80,15,0,baseline,baseline,raw
+58,100,Bakery,Average Confidence,80,15,0,baseline,baseline,raw
+59,100,Bakery,Weighted Confidence,80,15,0,baseline,baseline,raw
+60,87.5,Coin,Majority Rule,87.5,16,1,baseline,baseline,raw
+61,87.5,Coin,Surprisingly Popular,50,16,0,baseline,baseline,raw
+62,87.5,Coin,Average Confidence,12.5,16,0,baseline,baseline,raw
+63,87.5,Coin,Weighted Confidence,12.5,16,0,baseline,baseline,raw
+64,87.5,Coin,Majority Rule,87.5,17,1,baseline,baseline,raw
+65,87.5,Coin,Surprisingly Popular,33,17,0,baseline,baseline,raw
+66,87.5,Coin,Average Confidence,12.5,17,0,baseline,baseline,raw
+67,87.5,Coin,Weighted Confidence,12.5,17,0,baseline,baseline,raw
+68,87.5,Coin,Majority Rule,50.0,18,0,baseline,baseline,raw
+69,87.5,Coin,Surprisingly Popular,50,18,0,baseline,baseline,raw
+70,87.5,Coin,Average Confidence,12.5,18,0,baseline,baseline,raw
+71,87.5,Coin,Weighted Confidence,12.5,18,0,baseline,baseline,raw
+72,1 hour,CR_Conf,Majority Rule,1 hour,19,1,baseline,baseline,raw
+73,1 hour,CR_Conf,Surprisingly Popular,There is no way to know without additional information,19,0,baseline,baseline,raw
+74,1 hour,CR_Conf,Average Confidence,1000 minutes,19,0,baseline,baseline,raw
+75,1 hour,CR_Conf,Weighted Confidence,1 hour,19,1,baseline,baseline,raw
+76,1 hour,CR_Conf,Majority Rule,1 hour,20,1,baseline,baseline,raw
+77,1 hour,CR_Conf,Surprisingly Popular,1 hour,20,1,baseline,baseline,raw
+78,1 hour,CR_Conf,Average Confidence,1 second,20,0,baseline,baseline,raw
+79,1 hour,CR_Conf,Weighted Confidence,1 hour,20,1,baseline,baseline,raw
+80,1 hour,CR_Conf,Majority Rule,There is no way to know without additional information,21,0,baseline,baseline,raw
+81,1 hour,CR_Conf,Surprisingly Popular,1 hour,21,1,baseline,baseline,raw
+82,1 hour,CR_Conf,Average Confidence,1 second,21,0,baseline,baseline,raw
+83,1 hour,CR_Conf,Weighted Confidence,There is no way to know without additional information,21,0,baseline,baseline,raw
+84,1 hour,CR_Conf,Majority Rule,There is no way to know without additional information,22,0,baseline,baseline,raw
+85,1 hour,CR_Conf,Surprisingly Popular,There is no way to know without additional information,22,0,baseline,baseline,raw
+86,1 hour,CR_Conf,Average Confidence,1 second,22,0,baseline,baseline,raw
+87,1 hour,CR_Conf,Weighted Confidence,There is no way to know without additional information,22,0,baseline,baseline,raw
+88,1 hour,CR_Conf,Majority Rule,There is no way to know without additional information,23,0,baseline,baseline,raw
+89,1 hour,CR_Conf,Surprisingly Popular,There is no way to know without additional information,23,0,baseline,baseline,raw
+90,1 hour,CR_Conf,Average Confidence,1 second,23,0,baseline,baseline,raw
+91,1 hour,CR_Conf,Weighted Confidence,There is no way to know without additional information,23,0,baseline,baseline,raw
+92,1 hour,CR_Conf,Majority Rule,There is no way to know without additional information,24,0,baseline,baseline,raw
+93,1 hour,CR_Conf,Surprisingly Popular,1000 minutes,24,0,baseline,baseline,raw
+94,1 hour,CR_Conf,Average Confidence,1 second,24,0,baseline,baseline,raw
+95,1 hour,CR_Conf,Weighted Confidence,1000 minutes,24,0,baseline,baseline,raw
+96,1 hour,CR_Conf,Majority Rule,1 hour,25,1,baseline,baseline,raw
+97,1 hour,CR_Conf,Surprisingly Popular,1000 minutes,25,0,baseline,baseline,raw
+98,1 hour,CR_Conf,Average Confidence,1 second,25,0,baseline,baseline,raw
+99,1 hour,CR_Conf,Weighted Confidence,1 hour,25,1,baseline,baseline,raw
+100,1 hour,CR_Conf,Majority Rule,Infinity,26,0,baseline,baseline,raw
+101,1 hour,CR_Conf,Surprisingly Popular,There is no way to know without additional information,26,0,baseline,baseline,raw
+102,1 hour,CR_Conf,Average Confidence,1 second,26,0,baseline,baseline,raw
+103,1 hour,CR_Conf,Weighted Confidence,Infinity,26,0,baseline,baseline,raw
+104,1 hour,CR_Conf,Majority Rule,Infinity,27,0,baseline,baseline,raw
+105,1 hour,CR_Conf,Surprisingly Popular,Infinity,27,0,baseline,baseline,raw
+106,1 hour,CR_Conf,Average Confidence,1 second,27,0,baseline,baseline,raw
+107,1 hour,CR_Conf,Weighted Confidence,Infinity,27,0,baseline,baseline,raw
+108,1 hour,CR_Conf,Majority Rule,There is no way to know without additional information,28,0,baseline,baseline,raw
+109,1 hour,CR_Conf,Surprisingly Popular,1 second,28,0,baseline,baseline,raw
+110,1 hour,CR_Conf,Average Confidence,1 second,28,0,baseline,baseline,raw
+111,1 hour,CR_Conf,Weighted Confidence,There is no way to know without additional information,28,0,baseline,baseline,raw
+112,1 hour,CR_Conf,Majority Rule,Infinity,29,0,baseline,baseline,raw
+113,1 hour,CR_Conf,Surprisingly Popular,1000 hours,29,0,baseline,baseline,raw
+114,1 hour,CR_Conf,Average Confidence,1 second,29,0,baseline,baseline,raw
+115,1 hour,CR_Conf,Weighted Confidence,1 hour,29,1,baseline,baseline,raw
+116,1 hour,CR_Conf,Majority Rule,1 hour,30,1,baseline,baseline,raw
+117,1 hour,CR_Conf,Surprisingly Popular,Infinity,30,0,baseline,baseline,raw
+118,1 hour,CR_Conf,Average Confidence,1 second,30,0,baseline,baseline,raw
+119,1 hour,CR_Conf,Weighted Confidence,1 hour,30,1,baseline,baseline,raw
+120,1 hour,CR_Conf,Majority Rule,There is no way to know without additional information,31,0,baseline,baseline,raw
+121,1 hour,CR_Conf,Surprisingly Popular,Infinity,31,0,baseline,baseline,raw
+122,1 hour,CR_Conf,Average Confidence,1 second,31,0,baseline,baseline,raw
+123,1 hour,CR_Conf,Weighted Confidence,There is no way to know without additional information,31,0,baseline,baseline,raw
+124,1 hour,CR_Conf,Majority Rule,Infinity,32,0,baseline,baseline,raw
+125,1 hour,CR_Conf,Surprisingly Popular,There is no way to know without additional information,32,0,baseline,baseline,raw
+126,1 hour,CR_Conf,Average Confidence,1 second,32,0,baseline,baseline,raw
+127,1 hour,CR_Conf,Weighted Confidence,Infinity,32,0,baseline,baseline,raw
+128,1 hour,CR_Conf,Majority Rule,Infinity,33,0,baseline,baseline,raw
+129,1 hour,CR_Conf,Surprisingly Popular,Infinity,33,0,baseline,baseline,raw
+130,1 hour,CR_Conf,Average Confidence,1 second,33,0,baseline,baseline,raw
+131,1 hour,CR_Conf,Weighted Confidence,There is no way to know without additional information,33,0,baseline,baseline,raw
+132,1 hour,CR_Conf,Majority Rule,1 hour,34,1,baseline,baseline,raw
+133,1 hour,CR_Conf,Surprisingly Popular,1000 hours,34,0,baseline,baseline,raw
+134,1 hour,CR_Conf,Average Confidence,1 second,34,0,baseline,baseline,raw
+135,1 hour,CR_Conf,Weighted Confidence,There is no way to know without additional information,34,0,baseline,baseline,raw
+136,1 hour,CR_Conf,Majority Rule,Infinity,35,0,baseline,baseline,raw
+137,1 hour,CR_Conf,Surprisingly Popular,Infinity,35,0,baseline,baseline,raw
+138,1 hour,CR_Conf,Average Confidence,1 second,35,0,baseline,baseline,raw
+139,1 hour,CR_Conf,Weighted Confidence,There is no way to know without additional information,35,0,baseline,baseline,raw
+140,1 hour,CR_Conf,Majority Rule,1000 minutes,36,0,baseline,baseline,raw
+141,1 hour,CR_Conf,Surprisingly Popular,2000 hours,36,0,baseline,baseline,raw
+142,1 hour,CR_Conf,Average Confidence,1 minute,36,0,baseline,baseline,raw
+143,1 hour,CR_Conf,Weighted Confidence,1000 minutes,36,0,baseline,baseline,raw
+144,1 hour,CR_Conf,Majority Rule,There is no way to know without additional information,37,0,baseline,baseline,raw
+145,1 hour,CR_Conf,Surprisingly Popular,There is no way to know without additional information,37,0,baseline,baseline,raw
+146,1 hour,CR_Conf,Average Confidence,1 second,37,0,baseline,baseline,raw
+147,1 hour,CR_Conf,Weighted Confidence,Infinity,37,0,baseline,baseline,raw
+148,1 hour,CR_Conf,Majority Rule,Infinity,38,0,baseline,baseline,raw
+149,1 hour,CR_Conf,Surprisingly Popular,Infinity,38,0,baseline,baseline,raw
+150,1 hour,CR_Conf,Average Confidence,1 second,38,0,baseline,baseline,raw
+151,1 hour,CR_Conf,Weighted Confidence,Infinity,38,0,baseline,baseline,raw
+152,1 hour,CR_Conf,Majority Rule,1 hour,39,1,baseline,baseline,raw
+153,1 hour,CR_Conf,Surprisingly Popular,1000 hours,39,0,baseline,baseline,raw
+154,1 hour,CR_Conf,Average Confidence,1 second,39,0,baseline,baseline,raw
+155,1 hour,CR_Conf,Weighted Confidence,1 hour,39,1,baseline,baseline,raw
+156,1 hour,CR_Conf,Majority Rule,1 hour,40,1,baseline,baseline,raw
+157,1 hour,CR_Conf,Surprisingly Popular,1 hour,40,1,baseline,baseline,raw
+158,1 hour,CR_Conf,Average Confidence,1000 seconds,40,0,baseline,baseline,raw
+159,1 hour,CR_Conf,Weighted Confidence,There is no way to know without additional information,40,0,baseline,baseline,raw
+160,1 hour,CR_Conf,Majority Rule,Infinity,41,0,baseline,baseline,raw
+161,1 hour,CR_Conf,Surprisingly Popular,1 hour,41,1,baseline,baseline,raw
+162,1 hour,CR_Conf,Average Confidence,1 second,41,0,baseline,baseline,raw
+163,1 hour,CR_Conf,Weighted Confidence,1 hour,41,1,baseline,baseline,raw
+164,1 hour,CR_Conf,Majority Rule,Infinity,42,0,baseline,baseline,raw
+165,1 hour,CR_Conf,Surprisingly Popular,Infinity,42,0,baseline,baseline,raw
+166,1 hour,CR_Conf,Average Confidence,1 second,42,0,baseline,baseline,raw
+167,1 hour,CR_Conf,Weighted Confidence,Infinity,42,0,baseline,baseline,raw
+168,1 hour,CR_Conf,Majority Rule,1 hour,43,1,baseline,baseline,raw
+169,1 hour,CR_Conf,Surprisingly Popular,Infinity,43,0,baseline,baseline,raw
+170,1 hour,CR_Conf,Average Confidence,1 second,43,0,baseline,baseline,raw
+171,1 hour,CR_Conf,Weighted Confidence,1 hour,43,1,baseline,baseline,raw
+172,1 hour,CR_Conf,Majority Rule,There is no way to know without additional information,44,0,baseline,baseline,raw
+173,1 hour,CR_Conf,Surprisingly Popular,1 hour,44,1,baseline,baseline,raw
+174,1 hour,CR_Conf,Average Confidence,1 second,44,0,baseline,baseline,raw
+175,1 hour,CR_Conf,Weighted Confidence,There is no way to know without additional information,44,0,baseline,baseline,raw
+176,1 hour,CR_Conf,Majority Rule,1 hour,45,1,baseline,baseline,raw
+177,1 hour,CR_Conf,Surprisingly Popular,Infinity,45,0,baseline,baseline,raw
+178,1 hour,CR_Conf,Average Confidence,1 second,45,0,baseline,baseline,raw
+179,1 hour,CR_Conf,Weighted Confidence,There is no way to know without additional information,45,0,baseline,baseline,raw
+180,1 hour,CR_Conf,Majority Rule,There is no way to know without additional information,46,0,baseline,baseline,raw
+181,1 hour,CR_Conf,Surprisingly Popular,There is no way to know without additional information,46,0,baseline,baseline,raw
+182,1 hour,CR_Conf,Average Confidence,1 second,46,0,baseline,baseline,raw
+183,1 hour,CR_Conf,Weighted Confidence,Infinity,46,0,baseline,baseline,raw
+184,1 hour,CR_Conf,Majority Rule,Infinity,47,0,baseline,baseline,raw
+185,1 hour,CR_Conf,Surprisingly Popular,There is no way to know without additional information,47,0,baseline,baseline,raw
+186,1 hour,CR_Conf,Average Confidence,1 second,47,0,baseline,baseline,raw
+187,1 hour,CR_Conf,Weighted Confidence,Infinity,47,0,baseline,baseline,raw
+188,1 hour,CR_Conf,Majority Rule,There is no way to know without additional information,48,0,baseline,baseline,raw
+189,1 hour,CR_Conf,Surprisingly Popular,There is no way to know without additional information,48,0,baseline,baseline,raw
+190,1 hour,CR_Conf,Average Confidence,1 second,48,0,baseline,baseline,raw
+191,1 hour,CR_Conf,Weighted Confidence,There is no way to know without additional information,48,0,baseline,baseline,raw
+192,1 hour,CR_Conf,Majority Rule,Infinity,49,0,baseline,baseline,raw
+193,1 hour,CR_Conf,Surprisingly Popular,Infinity,49,0,baseline,baseline,raw
+194,1 hour,CR_Conf,Average Confidence,There is no way to know without additional information,49,0,baseline,baseline,raw
+195,1 hour,CR_Conf,Weighted Confidence,Infinity,49,0,baseline,baseline,raw
+196,1 hour,CR_Conf,Majority Rule,1000 minutes,50,0,baseline,baseline,raw
+197,1 hour,CR_Conf,Surprisingly Popular,1 hour,50,1,baseline,baseline,raw
+198,1 hour,CR_Conf,Average Confidence,1 second,50,0,baseline,baseline,raw
+199,1 hour,CR_Conf,Weighted Confidence,1000 minutes,50,0,baseline,baseline,raw
+200,1 hour,CR_Conf,Majority Rule,1 hour,51,1,baseline,baseline,raw
+201,1 hour,CR_Conf,Surprisingly Popular,There is no way to know without additional information,51,0,baseline,baseline,raw
+202,1 hour,CR_Conf,Average Confidence,Infinity,51,0,baseline,baseline,raw
+203,1 hour,CR_Conf,Weighted Confidence,Infinity,51,0,baseline,baseline,raw
+204,1 hour,CR_Conf,Majority Rule,Infinity,52,0,baseline,baseline,raw
+205,1 hour,CR_Conf,Surprisingly Popular,1 hour,52,1,baseline,baseline,raw
+206,1 hour,CR_Conf,Average Confidence,1 second,52,0,baseline,baseline,raw
+207,1 hour,CR_Conf,Weighted Confidence,Infinity,52,0,baseline,baseline,raw
+208,1 hour,CR_Conf,Majority Rule,There is no way to know without additional information,53,0,baseline,baseline,raw
+209,1 hour,CR_Conf,Surprisingly Popular,Infinity,53,0,baseline,baseline,raw
+210,1 hour,CR_Conf,Average Confidence,There is no way to know without additional information,53,0,baseline,baseline,raw
+211,1 hour,CR_Conf,Weighted Confidence,There is no way to know without additional information,53,0,baseline,baseline,raw
+212,1 hour,CR_Conf,Majority Rule,There is no way to know without additional information,54,0,baseline,baseline,raw
+213,1 hour,CR_Conf,Surprisingly Popular,Infinity,54,0,baseline,baseline,raw
+214,1 hour,CR_Conf,Average Confidence,1 second,54,0,baseline,baseline,raw
+215,1 hour,CR_Conf,Weighted Confidence,There is no way to know without additional information,54,0,baseline,baseline,raw
+216,1 hour,CR_Conf,Majority Rule,There is no way to know without additional information,55,0,baseline,baseline,raw
+217,1 hour,CR_Conf,Surprisingly Popular,1 hour,55,1,baseline,baseline,raw
+218,1 hour,CR_Conf,Average Confidence,1 second,55,0,baseline,baseline,raw
+219,1 hour,CR_Conf,Weighted Confidence,There is no way to know without additional information,55,0,baseline,baseline,raw
+220,1 hour,CR_Conf,Majority Rule,Infinity,56,0,baseline,baseline,raw
+221,1 hour,CR_Conf,Surprisingly Popular,Infinity,56,0,baseline,baseline,raw
+222,1 hour,CR_Conf,Average Confidence,1 second,56,0,baseline,baseline,raw
+223,1 hour,CR_Conf,Weighted Confidence,Infinity,56,0,baseline,baseline,raw
+224,28,Frog,Majority Rule,28,57,1,baseline,baseline,raw
+225,28,Frog,Surprisingly Popular,28,57,0,baseline,baseline,raw
+226,28,Frog,Average Confidence,28,57,0,baseline,baseline,raw
+227,28,Frog,Weighted Confidence,28,57,0,baseline,baseline,raw
+228,28,Frog,Majority Rule,28,58,1,baseline,baseline,raw
+229,28,Frog,Surprisingly Popular,30,58,0,baseline,baseline,raw
+230,28,Frog,Average Confidence,28,58,0,baseline,baseline,raw
+231,28,Frog,Weighted Confidence,28,58,0,baseline,baseline,raw
+232,28,Frog,Majority Rule,28,59,1,baseline,baseline,raw
+233,28,Frog,Surprisingly Popular,30,59,0,baseline,baseline,raw
+234,28,Frog,Average Confidence,28,59,0,baseline,baseline,raw
+235,28,Frog,Weighted Confidence,28,59,0,baseline,baseline,raw
+236,"BNPR, ACDF, EIUG",LettersDice,Majority Rule,"BNPR, ACDF, EIUG",60,1,baseline,baseline,raw
+237,"BNPR, ACDF, EIUG",LettersDice,Surprisingly Popular,"BNPR, ACDF, EIUG",60,1,baseline,baseline,raw
+238,"BNPR, ACDF, EIUG",LettersDice,Average Confidence,"ANPR, BCDF, EIUG",60,0,baseline,baseline,raw
+239,"BNPR, ACDF, EIUG",LettersDice,Weighted Confidence,"BNPR, ACDF, EIUG",60,1,baseline,baseline,raw
+240,"BNPR, ACDF, EIUG",LettersDice,Majority Rule,"BNPR, ACDF, EIUG",61,1,baseline,baseline,raw
+241,"BNPR, ACDF, EIUG",LettersDice,Surprisingly Popular,"BFRP, AUIE, GNDC",61,0,baseline,baseline,raw
+242,"BNPR, ACDF, EIUG",LettersDice,Average Confidence,"BNPR, ACDF, EIUG",61,1,baseline,baseline,raw
+243,"BNPR, ACDF, EIUG",LettersDice,Weighted Confidence,"BNPR, ACDF, EIUG",61,1,baseline,baseline,raw
+244,"BNPR, ACDF, EIUG",LettersDice,Majority Rule,"BNPR, ACDF, EIUG",62,1,baseline,baseline,raw
+245,"BNPR, ACDF, EIUG",LettersDice,Surprisingly Popular,"BNPR, ACDF, EIUG",62,1,baseline,baseline,raw
+246,"BNPR, ACDF, EIUG",LettersDice,Average Confidence,"BNPR, ACDF, EIUG",62,1,baseline,baseline,raw
+247,"BNPR, ACDF, EIUG",LettersDice,Weighted Confidence,"BNPR, ACDF, EIUG",62,1,baseline,baseline,raw
+248,3,MagicPotion,Majority Rule,8,63,0,baseline,baseline,raw
+249,3,MagicPotion,Surprisingly Popular,8,63,0,baseline,baseline,raw
+250,3,MagicPotion,Average Confidence,1,63,0,baseline,baseline,raw
+251,3,MagicPotion,Weighted Confidence,1,63,0,baseline,baseline,raw
+252,3,MagicPotion,Majority Rule,8,64,0,baseline,baseline,raw
+253,3,MagicPotion,Surprisingly Popular,8,64,0,baseline,baseline,raw
+254,3,MagicPotion,Average Confidence,1,64,0,baseline,baseline,raw
+255,3,MagicPotion,Weighted Confidence,1,64,0,baseline,baseline,raw
+256,3,MagicPotion,Majority Rule,8,65,0,baseline,baseline,raw
+257,3,MagicPotion,Surprisingly Popular,8,65,0,baseline,baseline,raw
+258,3,MagicPotion,Average Confidence,1,65,0,baseline,baseline,raw
+259,3,MagicPotion,Weighted Confidence,1,65,0,baseline,baseline,raw
+260,3,MagicPotion,Majority Rule,8,66,0,baseline,baseline,raw
+261,3,MagicPotion,Surprisingly Popular,8,66,0,baseline,baseline,raw
+262,3,MagicPotion,Average Confidence,1,66,0,baseline,baseline,raw
+263,3,MagicPotion,Weighted Confidence,1,66,0,baseline,baseline,raw
+264,3,MagicPotion,Majority Rule,8,67,0,baseline,baseline,raw
+265,3,MagicPotion,Surprisingly Popular,8,67,0,baseline,baseline,raw
+266,3,MagicPotion,Average Confidence,1,67,0,baseline,baseline,raw
+267,3,MagicPotion,Weighted Confidence,1,67,0,baseline,baseline,raw
+268,3,MagicPotion,Majority Rule,8,68,0,baseline,baseline,raw
+269,3,MagicPotion,Surprisingly Popular,8,68,0,baseline,baseline,raw
+270,3,MagicPotion,Average Confidence,1,68,0,baseline,baseline,raw
+271,3,MagicPotion,Weighted Confidence,1,68,0,baseline,baseline,raw
+272,3,MagicPotion,Majority Rule,8,69,0,baseline,baseline,raw
+273,3,MagicPotion,Surprisingly Popular,8,69,0,baseline,baseline,raw
+274,3,MagicPotion,Average Confidence,1,69,0,baseline,baseline,raw
+275,3,MagicPotion,Weighted Confidence,1,69,0,baseline,baseline,raw
+276,3,MagicPotion,Majority Rule,8,70,0,baseline,baseline,raw
+277,3,MagicPotion,Surprisingly Popular,8,70,0,baseline,baseline,raw
+278,3,MagicPotion,Average Confidence,1,70,0,baseline,baseline,raw
+279,3,MagicPotion,Weighted Confidence,1,70,0,baseline,baseline,raw
+280,3,MagicPotion,Majority Rule,8,71,0,baseline,baseline,raw
+281,3,MagicPotion,Surprisingly Popular,8,71,0,baseline,baseline,raw
+282,3,MagicPotion,Average Confidence,1,71,0,baseline,baseline,raw
+283,3,MagicPotion,Weighted Confidence,1,71,0,baseline,baseline,raw
+284,3,MagicPotion,Majority Rule,8,72,0,baseline,baseline,raw
+285,3,MagicPotion,Surprisingly Popular,8,72,0,baseline,baseline,raw
+286,3,MagicPotion,Average Confidence,1,72,0,baseline,baseline,raw
+287,3,MagicPotion,Weighted Confidence,1,72,0,baseline,baseline,raw
+288,ACB,Pills,Majority Rule,ACB,73,1,baseline,baseline,raw
+289,ACB,Pills,Surprisingly Popular,ABC,73,0,baseline,baseline,raw
+290,ACB,Pills,Average Confidence,ABC,73,0,baseline,baseline,raw
+291,ACB,Pills,Weighted Confidence,ACB,73,1,baseline,baseline,raw
+292,ACB,Pills,Majority Rule,ACB,74,1,baseline,baseline,raw
+293,ACB,Pills,Surprisingly Popular,ABC,74,0,baseline,baseline,raw
+294,ACB,Pills,Average Confidence,CBA,74,0,baseline,baseline,raw
+295,ACB,Pills,Weighted Confidence,ACB,74,1,baseline,baseline,raw
+296,ACB,Pills,Majority Rule,ACB,75,1,baseline,baseline,raw
+297,ACB,Pills,Surprisingly Popular,ABC,75,0,baseline,baseline,raw
+298,ACB,Pills,Average Confidence,ACB,75,1,baseline,baseline,raw
+299,ACB,Pills,Weighted Confidence,ACB,75,1,baseline,baseline,raw
+300,ACB,Pills,Majority Rule,ACB,76,1,baseline,baseline,raw
+301,ACB,Pills,Surprisingly Popular,ACB,76,1,baseline,baseline,raw
+302,ACB,Pills,Average Confidence,ACB,76,1,baseline,baseline,raw
+303,ACB,Pills,Weighted Confidence,ACB,76,1,baseline,baseline,raw
+304,a2,Traveler,Majority Rule,a2,81,1,baseline,baseline,raw
+305,a2,Traveler,Surprisingly Popular,a4,81,0,baseline,baseline,raw
+306,a2,Traveler,Average Confidence,a3,81,0,baseline,baseline,raw
+307,a2,Traveler,Weighted Confidence,a2,81,1,baseline,baseline,raw
+308,a2,Traveler,Majority Rule,a2,82,1,baseline,baseline,raw
+309,a2,Traveler,Surprisingly Popular,a2,82,1,baseline,baseline,raw
+310,a2,Traveler,Average Confidence,a4,82,0,baseline,baseline,raw
+311,a2,Traveler,Weighted Confidence,a4,82,0,baseline,baseline,raw
+312,a2,Traveler,Majority Rule,a4,83,0,baseline,baseline,raw
+313,a2,Traveler,Surprisingly Popular,a2,83,1,baseline,baseline,raw
+314,a2,Traveler,Average Confidence,a4,83,0,baseline,baseline,raw
+315,a2,Traveler,Weighted Confidence,a4,83,0,baseline,baseline,raw
+316,8 moves,RH1,Majority Rule,8 moves,84,1,baseline,baseline,raw
+317,8 moves,RH1,Surprisingly Popular,8 moves,84,1,baseline,baseline,raw
+318,8 moves,RH1,Average Confidence,More than 10 moves,84,0,baseline,baseline,raw
+319,8 moves,RH1,Weighted Confidence,8 moves,84,1,baseline,baseline,raw
+320,8 moves,RH1,Majority Rule,8 moves,85,1,baseline,baseline,raw
+321,8 moves,RH1,Surprisingly Popular,8 moves,85,1,baseline,baseline,raw
+322,8 moves,RH1,Average Confidence,More than 10 moves,85,0,baseline,baseline,raw
+323,8 moves,RH1,Weighted Confidence,8 moves,85,1,baseline,baseline,raw
+324,8 moves,RH1,Majority Rule,8 moves,86,1,baseline,baseline,raw
+325,8 moves,RH1,Surprisingly Popular,8 moves,86,1,baseline,baseline,raw
+326,8 moves,RH1,Average Confidence,10 moves,86,0,baseline,baseline,raw
+327,8 moves,RH1,Weighted Confidence,8 moves,86,1,baseline,baseline,raw
+328,8 moves,RH1,Majority Rule,8 moves,87,1,baseline,baseline,raw
+329,8 moves,RH1,Surprisingly Popular,8 moves,87,1,baseline,baseline,raw
+330,8 moves,RH1,Average Confidence,More than 10 moves,87,0,baseline,baseline,raw
+331,8 moves,RH1,Weighted Confidence,8 moves,87,1,baseline,baseline,raw
+332,15 moves,RH2,Majority Rule,More than 16 moves,88,0,baseline,baseline,raw
+333,15 moves,RH2,Surprisingly Popular,More than 16 moves,88,0,baseline,baseline,raw
+334,15 moves,RH2,Average Confidence,More than 16 moves,88,0,baseline,baseline,raw
+335,15 moves,RH2,Weighted Confidence,More than 16 moves,88,0,baseline,baseline,raw
+336,15 moves,RH2,Majority Rule,More than 16 moves,89,0,baseline,baseline,raw
+337,15 moves,RH2,Surprisingly Popular,15 moves,89,1,baseline,baseline,raw
+338,15 moves,RH2,Average Confidence,Less than 13 moves,89,0,baseline,baseline,raw
+339,15 moves,RH2,Weighted Confidence,More than 16 moves,89,0,baseline,baseline,raw
+340,15 moves,RH2,Majority Rule,15 moves,90,1,baseline,baseline,raw
+341,15 moves,RH2,Surprisingly Popular,More than 16 moves,90,0,baseline,baseline,raw
+342,15 moves,RH2,Average Confidence,15 moves,90,1,baseline,baseline,raw
+343,15 moves,RH2,Weighted Confidence,15 moves,90,1,baseline,baseline,raw
+344,18 moves,RH3,Majority Rule,18 moves,91,1,baseline,baseline,raw
+345,18 moves,RH3,Surprisingly Popular,More than 20 moves,91,0,baseline,baseline,raw
+346,18 moves,RH3,Average Confidence,19 moves,91,0,baseline,baseline,raw
+347,18 moves,RH3,Weighted Confidence,18 moves,91,1,baseline,baseline,raw
+348,18 moves,RH3,Majority Rule,18 moves,92,1,baseline,baseline,raw
+349,18 moves,RH3,Surprisingly Popular,18 moves,92,1,baseline,baseline,raw
+350,18 moves,RH3,Average Confidence,Less than 17 moves,92,0,baseline,baseline,raw
+351,18 moves,RH3,Weighted Confidence,18 moves,92,1,baseline,baseline,raw
+352,18 moves,RH3,Majority Rule,18 moves,93,1,baseline,baseline,raw
+353,18 moves,RH3,Surprisingly Popular,18 moves,93,1,baseline,baseline,raw
+354,18 moves,RH3,Average Confidence,20 moves,93,0,baseline,baseline,raw
+355,18 moves,RH3,Weighted Confidence,18 moves,93,1,baseline,baseline,raw
+356,Picture D,RH_4,Majority Rule,Picture D,94,1,baseline,baseline,raw
+357,Picture D,RH_4,Surprisingly Popular,Picture D,94,1,baseline,baseline,raw
+358,Picture D,RH_4,Average Confidence,Picture F,94,0,baseline,baseline,raw
+359,Picture D,RH_4,Weighted Confidence,Picture D,94,1,baseline,baseline,raw
+360,Picture D,RH_4,Majority Rule,Picture D,95,1,baseline,baseline,raw
+361,Picture D,RH_4,Surprisingly Popular,Picture D,95,1,baseline,baseline,raw
+362,Picture D,RH_4,Average Confidence,Picture F,95,0,baseline,baseline,raw
+363,Picture D,RH_4,Weighted Confidence,Picture D,95,1,baseline,baseline,raw
+364,Picture D,RH_4,Majority Rule,Picture B,96,0,baseline,baseline,raw
+365,Picture D,RH_4,Surprisingly Popular,Picture A,96,0,baseline,baseline,raw
+366,Picture D,RH_4,Average Confidence,Picture A,96,0,baseline,baseline,raw
+367,Picture D,RH_4,Weighted Confidence,Picture D,96,1,baseline,baseline,raw
+368,Picture D,RH_4,Majority Rule,Picture D,97,1,baseline,baseline,raw
+369,Picture D,RH_4,Surprisingly Popular,Picture D,97,1,baseline,baseline,raw
+370,Picture D,RH_4,Average Confidence,Picture A,97,0,baseline,baseline,raw
+371,Picture D,RH_4,Weighted Confidence,Picture D,97,1,baseline,baseline,raw
+0,435,KP_1,SVM,435,1,1,cluster_dbscan02,0,answer
+1,435,KP_1,Vote_soft,435,1,1,cluster_dbscan02,0,answer
+2,435,KP_1,Bag_KNN,435,1,1,cluster_dbscan02,0,answer
+3,435,KP_1,SVM,700,2,0,cluster_dbscan02,0,answer
+4,435,KP_1,Vote_soft,700,2,0,cluster_dbscan02,0,answer
+5,435,KP_1,Bag_KNN,700,2,0,cluster_dbscan02,0,answer
+6,435,KP_1,SVM,435,3,1,cluster_dbscan02,0,answer
+7,435,KP_1,Vote_soft,435,3,1,cluster_dbscan02,0,answer
+8,435,KP_1,Bag_KNN,435,3,1,cluster_dbscan02,0,answer
+9,41,KP_2,SVM,41,4,1,cluster_dbscan02,0,answer
+10,41,KP_2,Vote_soft,41,4,1,cluster_dbscan02,0,answer
+11,41,KP_2,Bag_KNN,41,4,1,cluster_dbscan02,0,answer
+12,41,KP_2,SVM,41,5,1,cluster_dbscan02,0,answer
+13,41,KP_2,Vote_soft,41,5,1,cluster_dbscan02,0,answer
+14,41,KP_2,Bag_KNN,41,5,1,cluster_dbscan02,0,answer
+15,10 miles,ThreeRobots,SVM,10 miles,7,1,cluster_dbscan02,0,answer
+16,10 miles,ThreeRobots,Vote_soft,10 miles,7,1,cluster_dbscan02,0,answer
+17,10 miles,ThreeRobots,Bag_KNN,10 miles,7,1,cluster_dbscan02,0,answer
+18,10 miles,ThreeRobots,SVM,3 miles,8,0,cluster_dbscan02,0,answer
+19,10 miles,ThreeRobots,Vote_soft,3 miles,8,0,cluster_dbscan02,0,answer
+20,10 miles,ThreeRobots,Bag_KNN,1 mile,8,0,cluster_dbscan02,0,answer
+21,10 miles,ThreeRobots,SVM,10 miles,9,1,cluster_dbscan02,0,answer
+22,10 miles,ThreeRobots,Vote_soft,10 miles,9,1,cluster_dbscan02,0,answer
+23,10 miles,ThreeRobots,Bag_KNN,2 miles,9,0,cluster_dbscan02,0,answer
+24,50Kg,Apple,SVM,99Kg,10,0,cluster_dbscan02,0,answer
+25,50Kg,Apple,Vote_soft,99Kg,10,0,cluster_dbscan02,0,answer
+26,50Kg,Apple,Bag_KNN,99Kg,10,0,cluster_dbscan02,0,answer
+27,50Kg,Apple,SVM,50Kg,11,1,cluster_dbscan02,0,answer
+28,50Kg,Apple,Vote_soft,99Kg,11,0,cluster_dbscan02,0,answer
+29,50Kg,Apple,Bag_KNN,50Kg,11,1,cluster_dbscan02,0,answer
+30,50Kg,Apple,SVM,50Kg,12,1,cluster_dbscan02,0,answer
+31,50Kg,Apple,Vote_soft,99Kg,12,0,cluster_dbscan02,0,answer
+32,50Kg,Apple,Bag_KNN,99Kg,12,0,cluster_dbscan02,0,answer
+33,100,Bakery,SVM,80,13,0,cluster_dbscan02,0,answer
+34,100,Bakery,Vote_soft,80,13,0,cluster_dbscan02,0,answer
+35,100,Bakery,Bag_KNN,80,13,0,cluster_dbscan02,0,answer
+36,100,Bakery,SVM,100,15,1,cluster_dbscan02,0,answer
+37,100,Bakery,Vote_soft,100,15,1,cluster_dbscan02,0,answer
+38,100,Bakery,Bag_KNN,100,15,1,cluster_dbscan02,0,answer
+39,87.5,Coin,SVM,87.5,16,1,cluster_dbscan02,0,answer
+40,87.5,Coin,Vote_soft,87.5,16,1,cluster_dbscan02,0,answer
+41,87.5,Coin,Bag_KNN,87.5,16,1,cluster_dbscan02,0,answer
+42,87.5,Coin,SVM,87.5,17,1,cluster_dbscan02,0,answer
+43,87.5,Coin,Vote_soft,87.5,17,1,cluster_dbscan02,0,answer
+44,87.5,Coin,Bag_KNN,87.5,17,1,cluster_dbscan02,0,answer
+45,87.5,Coin,SVM,87.5,18,1,cluster_dbscan02,0,answer
+46,87.5,Coin,Vote_soft,87.5,18,1,cluster_dbscan02,0,answer
+47,87.5,Coin,Bag_KNN,87.5,18,1,cluster_dbscan02,0,answer
+48,1 hour,CR_Conf,SVM,1 hour,19,1,cluster_dbscan02,0,answer
+49,1 hour,CR_Conf,Vote_soft,1 hour,19,1,cluster_dbscan02,0,answer
+50,1 hour,CR_Conf,Bag_KNN,1 hour,19,1,cluster_dbscan02,0,answer
+51,1 hour,CR_Conf,SVM,1 hour,20,1,cluster_dbscan02,0,answer
+52,1 hour,CR_Conf,Vote_soft,1 hour,20,1,cluster_dbscan02,0,answer
+53,1 hour,CR_Conf,Bag_KNN,1 hour,20,1,cluster_dbscan02,0,answer
+54,1 hour,CR_Conf,SVM,1 hour,21,1,cluster_dbscan02,0,answer
+55,1 hour,CR_Conf,Vote_soft,1 hour,21,1,cluster_dbscan02,0,answer
+56,1 hour,CR_Conf,Bag_KNN,1 hour,21,1,cluster_dbscan02,0,answer
+57,1 hour,CR_Conf,SVM,1 hour,22,1,cluster_dbscan02,0,answer
+58,1 hour,CR_Conf,Vote_soft,1 hour,22,1,cluster_dbscan02,0,answer
+59,1 hour,CR_Conf,Bag_KNN,1 hour,22,1,cluster_dbscan02,0,answer
+60,1 hour,CR_Conf,SVM,1000 minutes,23,0,cluster_dbscan02,0,answer
+61,1 hour,CR_Conf,Vote_soft,There is no way to know without additional information,23,0,cluster_dbscan02,0,answer
+62,1 hour,CR_Conf,Bag_KNN,1000 minutes,23,0,cluster_dbscan02,0,answer
+63,1 hour,CR_Conf,SVM,1000 hours,24,0,cluster_dbscan02,0,answer
+64,1 hour,CR_Conf,Vote_soft,1000 hours,24,0,cluster_dbscan02,0,answer
+65,1 hour,CR_Conf,Bag_KNN,1000 hours,24,0,cluster_dbscan02,0,answer
+66,1 hour,CR_Conf,SVM,1000 minutes,25,0,cluster_dbscan02,0,answer
+67,1 hour,CR_Conf,Vote_soft,1 hour,25,1,cluster_dbscan02,0,answer
+68,1 hour,CR_Conf,Bag_KNN,1000 minutes,25,0,cluster_dbscan02,0,answer
+69,1 hour,CR_Conf,SVM,1000 hours,26,0,cluster_dbscan02,0,answer
+70,1 hour,CR_Conf,Vote_soft,Infinity,26,0,cluster_dbscan02,0,answer
+71,1 hour,CR_Conf,Bag_KNN,Infinity,26,0,cluster_dbscan02,0,answer
+72,1 hour,CR_Conf,SVM,1 minute,27,0,cluster_dbscan02,0,answer
+73,1 hour,CR_Conf,Vote_soft,Infinity,27,0,cluster_dbscan02,0,answer
+74,1 hour,CR_Conf,Bag_KNN,1 minute,27,0,cluster_dbscan02,0,answer
+75,1 hour,CR_Conf,SVM,There is no way to know without additional information,28,0,cluster_dbscan02,0,answer
+76,1 hour,CR_Conf,Vote_soft,There is no way to know without additional information,28,0,cluster_dbscan02,0,answer
+77,1 hour,CR_Conf,Bag_KNN,2000 hours,28,0,cluster_dbscan02,0,answer
+78,1 hour,CR_Conf,SVM,1 hour,29,1,cluster_dbscan02,0,answer
+79,1 hour,CR_Conf,Vote_soft,1 hour,29,1,cluster_dbscan02,0,answer
+80,1 hour,CR_Conf,Bag_KNN,1000 minutes,29,0,cluster_dbscan02,0,answer
+81,1 hour,CR_Conf,SVM,1 hour,30,1,cluster_dbscan02,0,answer
+82,1 hour,CR_Conf,Vote_soft,Infinity,30,0,cluster_dbscan02,0,answer
+83,1 hour,CR_Conf,Bag_KNN,1 hour,30,1,cluster_dbscan02,0,answer
+84,1 hour,CR_Conf,SVM,1 hour,31,1,cluster_dbscan02,0,answer
+85,1 hour,CR_Conf,Vote_soft,1 hour,31,1,cluster_dbscan02,0,answer
+86,1 hour,CR_Conf,Bag_KNN,1 hour,31,1,cluster_dbscan02,0,answer
+87,1 hour,CR_Conf,SVM,There is no way to know without additional information,32,0,cluster_dbscan02,0,answer
+88,1 hour,CR_Conf,Vote_soft,1 hour,32,1,cluster_dbscan02,0,answer
+89,1 hour,CR_Conf,Bag_KNN,1 hour,32,1,cluster_dbscan02,0,answer
+90,1 hour,CR_Conf,SVM,1000 hours,33,0,cluster_dbscan02,0,answer
+91,1 hour,CR_Conf,Vote_soft,Infinity,33,0,cluster_dbscan02,0,answer
+92,1 hour,CR_Conf,Bag_KNN,There is no way to know without additional information,33,0,cluster_dbscan02,0,answer
+93,1 hour,CR_Conf,SVM,1 hour,35,1,cluster_dbscan02,0,answer
+94,1 hour,CR_Conf,Vote_soft,1 hour,35,1,cluster_dbscan02,0,answer
+95,1 hour,CR_Conf,Bag_KNN,1000 minutes,35,0,cluster_dbscan02,0,answer
+96,1 hour,CR_Conf,SVM,1000 hours,36,0,cluster_dbscan02,0,answer
+97,1 hour,CR_Conf,Vote_soft,1 hour,36,1,cluster_dbscan02,0,answer
+98,1 hour,CR_Conf,Bag_KNN,1 hour,36,1,cluster_dbscan02,0,answer
+99,1 hour,CR_Conf,SVM,1000 hours,37,0,cluster_dbscan02,0,answer
+100,1 hour,CR_Conf,Vote_soft,Infinity,37,0,cluster_dbscan02,0,answer
+101,1 hour,CR_Conf,Bag_KNN,1 hour,37,1,cluster_dbscan02,0,answer
+102,1 hour,CR_Conf,SVM,1000 hours,38,0,cluster_dbscan02,0,answer
+103,1 hour,CR_Conf,Vote_soft,Infinity,38,0,cluster_dbscan02,0,answer
+104,1 hour,CR_Conf,Bag_KNN,There is no way to know without additional information,38,0,cluster_dbscan02,0,answer
+105,1 hour,CR_Conf,SVM,1000 seconds,39,0,cluster_dbscan02,0,answer
+106,1 hour,CR_Conf,Vote_soft,Infinity,39,0,cluster_dbscan02,0,answer
+107,1 hour,CR_Conf,Bag_KNN,1000 seconds,39,0,cluster_dbscan02,0,answer
+108,1 hour,CR_Conf,SVM,1 hour,40,1,cluster_dbscan02,0,answer
+109,1 hour,CR_Conf,Vote_soft,There is no way to know without additional information,40,0,cluster_dbscan02,0,answer
+110,1 hour,CR_Conf,Bag_KNN,1 minute,40,0,cluster_dbscan02,0,answer
+111,1 hour,CR_Conf,SVM,1000 minutes,41,0,cluster_dbscan02,0,answer
+112,1 hour,CR_Conf,Vote_soft,1000 minutes,41,0,cluster_dbscan02,0,answer
+113,1 hour,CR_Conf,Bag_KNN,1000 minutes,41,0,cluster_dbscan02,0,answer
+114,1 hour,CR_Conf,SVM,1 minute,42,0,cluster_dbscan02,0,answer
+115,1 hour,CR_Conf,Vote_soft,Infinity,42,0,cluster_dbscan02,0,answer
+116,1 hour,CR_Conf,Bag_KNN,Infinity,42,0,cluster_dbscan02,0,answer
+117,1 hour,CR_Conf,SVM,There is no way to know without additional information,43,0,cluster_dbscan02,0,answer
+118,1 hour,CR_Conf,Vote_soft,1000 hours,43,0,cluster_dbscan02,0,answer
+119,1 hour,CR_Conf,Bag_KNN,1000 hours,43,0,cluster_dbscan02,0,answer
+120,1 hour,CR_Conf,SVM,There is no way to know without additional information,44,0,cluster_dbscan02,0,answer
+121,1 hour,CR_Conf,Vote_soft,There is no way to know without additional information,44,0,cluster_dbscan02,0,answer
+122,1 hour,CR_Conf,Bag_KNN,1000000 hours,44,0,cluster_dbscan02,0,answer
+123,1 hour,CR_Conf,SVM,1000 hours,45,0,cluster_dbscan02,0,answer
+124,1 hour,CR_Conf,Vote_soft,1 hour,45,1,cluster_dbscan02,0,answer
+125,1 hour,CR_Conf,Bag_KNN,1000 seconds,45,0,cluster_dbscan02,0,answer
+126,1 hour,CR_Conf,SVM,Infinity,46,0,cluster_dbscan02,0,answer
+127,1 hour,CR_Conf,Vote_soft,Infinity,46,0,cluster_dbscan02,0,answer
+128,1 hour,CR_Conf,Bag_KNN,Infinity,46,0,cluster_dbscan02,0,answer
+129,1 hour,CR_Conf,SVM,1 hour,47,1,cluster_dbscan02,0,answer
+130,1 hour,CR_Conf,Vote_soft,1 hour,47,1,cluster_dbscan02,0,answer
+131,1 hour,CR_Conf,Bag_KNN,1 hour,47,1,cluster_dbscan02,0,answer
+132,1 hour,CR_Conf,SVM,Infinity,48,0,cluster_dbscan02,0,answer
+133,1 hour,CR_Conf,Vote_soft,1 hour,48,1,cluster_dbscan02,0,answer
+134,1 hour,CR_Conf,Bag_KNN,1 hour,48,1,cluster_dbscan02,0,answer
+135,1 hour,CR_Conf,SVM,Infinity,49,0,cluster_dbscan02,0,answer
+136,1 hour,CR_Conf,Vote_soft,1 hour,49,1,cluster_dbscan02,0,answer
+137,1 hour,CR_Conf,Bag_KNN,1 hour,49,1,cluster_dbscan02,0,answer
+138,1 hour,CR_Conf,SVM,1000 minutes,50,0,cluster_dbscan02,0,answer
+139,1 hour,CR_Conf,Vote_soft,1000 minutes,50,0,cluster_dbscan02,0,answer
+140,1 hour,CR_Conf,Bag_KNN,1 hour,50,1,cluster_dbscan02,0,answer
+141,1 hour,CR_Conf,SVM,1000 seconds,51,0,cluster_dbscan02,0,answer
+142,1 hour,CR_Conf,Vote_soft,1000 seconds,51,0,cluster_dbscan02,0,answer
+143,1 hour,CR_Conf,Bag_KNN,1000 seconds,51,0,cluster_dbscan02,0,answer
+144,1 hour,CR_Conf,SVM,Infinity,52,0,cluster_dbscan02,0,answer
+145,1 hour,CR_Conf,Vote_soft,1 hour,52,1,cluster_dbscan02,0,answer
+146,1 hour,CR_Conf,Bag_KNN,Infinity,52,0,cluster_dbscan02,0,answer
+147,1 hour,CR_Conf,SVM,There is no way to know without additional information,53,0,cluster_dbscan02,0,answer
+148,1 hour,CR_Conf,Vote_soft,Infinity,53,0,cluster_dbscan02,0,answer
+149,1 hour,CR_Conf,Bag_KNN,Infinity,53,0,cluster_dbscan02,0,answer
+150,1 hour,CR_Conf,SVM,1 hour,54,1,cluster_dbscan02,0,answer
+151,1 hour,CR_Conf,Vote_soft,Infinity,54,0,cluster_dbscan02,0,answer
+152,1 hour,CR_Conf,Bag_KNN,Infinity,54,0,cluster_dbscan02,0,answer
+153,1 hour,CR_Conf,SVM,There is no way to know without additional information,55,0,cluster_dbscan02,0,answer
+154,1 hour,CR_Conf,Vote_soft,There is no way to know without additional information,55,0,cluster_dbscan02,0,answer
+155,1 hour,CR_Conf,Bag_KNN,There is no way to know without additional information,55,0,cluster_dbscan02,0,answer
+156,1 hour,CR_Conf,SVM,Infinity,56,0,cluster_dbscan02,0,answer
+157,1 hour,CR_Conf,Vote_soft,Infinity,56,0,cluster_dbscan02,0,answer
+158,1 hour,CR_Conf,Bag_KNN,Infinity,56,0,cluster_dbscan02,0,answer
+159,28,Frog,SVM,28,57,1,cluster_dbscan02,0,answer
+160,28,Frog,Vote_soft,28,57,1,cluster_dbscan02,0,answer
+161,28,Frog,Bag_KNN,28,57,1,cluster_dbscan02,0,answer
+162,28,Frog,SVM,28,58,1,cluster_dbscan02,0,answer
+163,28,Frog,Vote_soft,28,58,1,cluster_dbscan02,0,answer
+164,28,Frog,Bag_KNN,28,58,1,cluster_dbscan02,0,answer
+165,28,Frog,SVM,28,59,1,cluster_dbscan02,0,answer
+166,28,Frog,Vote_soft,28,59,1,cluster_dbscan02,0,answer
+167,28,Frog,Bag_KNN,28,59,1,cluster_dbscan02,0,answer
+168,"BNPR, ACDF, EIUG",LettersDice,SVM,"BNPR, ACDF, EIUG",60,1,cluster_dbscan02,0,answer
+169,"BNPR, ACDF, EIUG",LettersDice,Vote_soft,"BNPR, ACDF, EIUG",60,1,cluster_dbscan02,0,answer
+170,"BNPR, ACDF, EIUG",LettersDice,Bag_KNN,"BNPR, ACDF, EIUG",60,1,cluster_dbscan02,0,answer
+171,"BNPR, ACDF, EIUG",LettersDice,SVM,"BNPR, ACDF, EIUG",61,1,cluster_dbscan02,0,answer
+172,"BNPR, ACDF, EIUG",LettersDice,Vote_soft,"BNPR, ACDF, EIUG",61,1,cluster_dbscan02,0,answer
+173,"BNPR, ACDF, EIUG",LettersDice,Bag_KNN,"BNPR, ACDF, EIUG",61,1,cluster_dbscan02,0,answer
+174,"BNPR, ACDF, EIUG",LettersDice,SVM,"BNPR, ACDF, EIUG",62,1,cluster_dbscan02,0,answer
+175,"BNPR, ACDF, EIUG",LettersDice,Vote_soft,"BNPR, ACDF, EIUG",62,1,cluster_dbscan02,0,answer
+176,"BNPR, ACDF, EIUG",LettersDice,Bag_KNN,"BNPR, ACDF, EIUG",62,1,cluster_dbscan02,0,answer
+177,3,MagicPotion,SVM,8,63,0,cluster_dbscan02,0,answer
+178,3,MagicPotion,Vote_soft,3,63,1,cluster_dbscan02,0,answer
+179,3,MagicPotion,Bag_KNN,3,63,1,cluster_dbscan02,0,answer
+180,3,MagicPotion,SVM,1,64,0,cluster_dbscan02,0,answer
+181,3,MagicPotion,Vote_soft,1,64,0,cluster_dbscan02,0,answer
+182,3,MagicPotion,Bag_KNN,1,64,0,cluster_dbscan02,0,answer
+183,3,MagicPotion,SVM,1,65,0,cluster_dbscan02,0,answer
+184,3,MagicPotion,Vote_soft,1,65,0,cluster_dbscan02,0,answer
+185,3,MagicPotion,Bag_KNN,1,65,0,cluster_dbscan02,0,answer
+186,3,MagicPotion,SVM,8,66,0,cluster_dbscan02,0,answer
+187,3,MagicPotion,Vote_soft,3,66,1,cluster_dbscan02,0,answer
+188,3,MagicPotion,Bag_KNN,3,66,1,cluster_dbscan02,0,answer
+189,3,MagicPotion,SVM,1,67,0,cluster_dbscan02,0,answer
+190,3,MagicPotion,Vote_soft,8,67,0,cluster_dbscan02,0,answer
+191,3,MagicPotion,Bag_KNN,1,67,0,cluster_dbscan02,0,answer
+192,3,MagicPotion,SVM,8,68,0,cluster_dbscan02,0,answer
+193,3,MagicPotion,Vote_soft,3,68,1,cluster_dbscan02,0,answer
+194,3,MagicPotion,Bag_KNN,3,68,1,cluster_dbscan02,0,answer
+195,3,MagicPotion,SVM,1,69,0,cluster_dbscan02,0,answer
+196,3,MagicPotion,Vote_soft,3,69,1,cluster_dbscan02,0,answer
+197,3,MagicPotion,Bag_KNN,3,69,1,cluster_dbscan02,0,answer
+198,3,MagicPotion,SVM,8,70,0,cluster_dbscan02,0,answer
+199,3,MagicPotion,Vote_soft,3,70,1,cluster_dbscan02,0,answer
+200,3,MagicPotion,Bag_KNN,3,70,1,cluster_dbscan02,0,answer
+201,3,MagicPotion,SVM,3,71,1,cluster_dbscan02,0,answer
+202,3,MagicPotion,Vote_soft,3,71,1,cluster_dbscan02,0,answer
+203,3,MagicPotion,Bag_KNN,3,71,1,cluster_dbscan02,0,answer
+204,3,MagicPotion,SVM,8,72,0,cluster_dbscan02,0,answer
+205,3,MagicPotion,Vote_soft,8,72,0,cluster_dbscan02,0,answer
+206,3,MagicPotion,Bag_KNN,3,72,1,cluster_dbscan02,0,answer
+207,ACB,Pills,SVM,CBA,73,0,cluster_dbscan02,0,answer
+208,ACB,Pills,Vote_soft,ACB,73,1,cluster_dbscan02,0,answer
+209,ACB,Pills,Bag_KNN,BCA,73,0,cluster_dbscan02,0,answer
+210,ACB,Pills,SVM,BAC,74,0,cluster_dbscan02,0,answer
+211,ACB,Pills,Vote_soft,ACB,74,1,cluster_dbscan02,0,answer
+212,ACB,Pills,Bag_KNN,BAC,74,0,cluster_dbscan02,0,answer
+213,ACB,Pills,SVM,ACB,75,1,cluster_dbscan02,0,answer
+214,ACB,Pills,Vote_soft,ACB,75,1,cluster_dbscan02,0,answer
+215,ACB,Pills,Bag_KNN,CBA,75,0,cluster_dbscan02,0,answer
+216,ACB,Pills,SVM,ACB,76,1,cluster_dbscan02,0,answer
+217,ACB,Pills,Vote_soft,ACB,76,1,cluster_dbscan02,0,answer
+218,ACB,Pills,Bag_KNN,ACB,76,1,cluster_dbscan02,0,answer
+219,a2,Traveler,SVM,a2,81,1,cluster_dbscan02,0,answer
+220,a2,Traveler,Vote_soft,a2,81,1,cluster_dbscan02,0,answer
+221,a2,Traveler,Bag_KNN,a2,81,1,cluster_dbscan02,0,answer
+222,a2,Traveler,SVM,a2,82,1,cluster_dbscan02,0,answer
+223,a2,Traveler,Vote_soft,a2,82,1,cluster_dbscan02,0,answer
+224,a2,Traveler,Bag_KNN,a4,82,0,cluster_dbscan02,0,answer
+225,a2,Traveler,SVM,a4,83,0,cluster_dbscan02,0,answer
+226,a2,Traveler,Vote_soft,a4,83,0,cluster_dbscan02,0,answer
+227,a2,Traveler,Bag_KNN,a4,83,0,cluster_dbscan02,0,answer
+228,8 moves,RH1,SVM,8 moves,84,1,cluster_dbscan02,0,answer
+229,8 moves,RH1,Vote_soft,8 moves,84,1,cluster_dbscan02,0,answer
+230,8 moves,RH1,Bag_KNN,8 moves,84,1,cluster_dbscan02,0,answer
+231,8 moves,RH1,SVM,8 moves,85,1,cluster_dbscan02,0,answer
+232,8 moves,RH1,Vote_soft,8 moves,85,1,cluster_dbscan02,0,answer
+233,8 moves,RH1,Bag_KNN,8 moves,85,1,cluster_dbscan02,0,answer
+234,8 moves,RH1,SVM,More than 10 moves,86,0,cluster_dbscan02,0,answer
+235,8 moves,RH1,Vote_soft,8 moves,86,1,cluster_dbscan02,0,answer
+236,8 moves,RH1,Bag_KNN,More than 10 moves,86,0,cluster_dbscan02,0,answer
+237,8 moves,RH1,SVM,7 moves,87,0,cluster_dbscan02,0,answer
+238,8 moves,RH1,Vote_soft,8 moves,87,1,cluster_dbscan02,0,answer
+239,8 moves,RH1,Bag_KNN,8 moves,87,1,cluster_dbscan02,0,answer
+240,15 moves,RH2,SVM,More than 16 moves,88,0,cluster_dbscan02,0,answer
+241,15 moves,RH2,Vote_soft,More than 16 moves,88,0,cluster_dbscan02,0,answer
+242,15 moves,RH2,Bag_KNN,More than 16 moves,88,0,cluster_dbscan02,0,answer
+243,15 moves,RH2,SVM,15 moves,89,1,cluster_dbscan02,0,answer
+244,15 moves,RH2,Vote_soft,15 moves,89,1,cluster_dbscan02,0,answer
+245,15 moves,RH2,Bag_KNN,More than 16 moves,89,0,cluster_dbscan02,0,answer
+246,15 moves,RH2,SVM,15 moves,90,1,cluster_dbscan02,0,answer
+247,15 moves,RH2,Vote_soft,15 moves,90,1,cluster_dbscan02,0,answer
+248,15 moves,RH2,Bag_KNN,More than 16 moves,90,0,cluster_dbscan02,0,answer
+249,18 moves,RH3,SVM,More than 20 moves,91,0,cluster_dbscan02,0,answer
+250,18 moves,RH3,Vote_soft,More than 20 moves,91,0,cluster_dbscan02,0,answer
+251,18 moves,RH3,Bag_KNN,More than 20 moves,91,0,cluster_dbscan02,0,answer
+252,18 moves,RH3,SVM,18 moves,92,1,cluster_dbscan02,0,answer
+253,18 moves,RH3,Vote_soft,18 moves,92,1,cluster_dbscan02,0,answer
+254,18 moves,RH3,Bag_KNN,18 moves,92,1,cluster_dbscan02,0,answer
+255,18 moves,RH3,SVM,18 moves,93,1,cluster_dbscan02,0,answer
+256,18 moves,RH3,Vote_soft,18 moves,93,1,cluster_dbscan02,0,answer
+257,18 moves,RH3,Bag_KNN,More than 20 moves,93,0,cluster_dbscan02,0,answer
+258,Picture D,RH_4,SVM,Picture D,94,1,cluster_dbscan02,0,answer
+259,Picture D,RH_4,Vote_soft,Picture D,94,1,cluster_dbscan02,0,answer
+260,Picture D,RH_4,Bag_KNN,Picture D,94,1,cluster_dbscan02,0,answer
+261,Picture D,RH_4,SVM,Picture D,95,1,cluster_dbscan02,0,answer
+262,Picture D,RH_4,Vote_soft,Picture D,95,1,cluster_dbscan02,0,answer
+263,Picture D,RH_4,Bag_KNN,Picture D,95,1,cluster_dbscan02,0,answer
+264,Picture D,RH_4,SVM,Picture B,96,0,cluster_dbscan02,0,answer
+265,Picture D,RH_4,Vote_soft,Picture D,96,1,cluster_dbscan02,0,answer
+266,Picture D,RH_4,Bag_KNN,Picture A,96,0,cluster_dbscan02,0,answer
+267,Picture D,RH_4,SVM,Picture D,97,1,cluster_dbscan02,0,answer
+268,Picture D,RH_4,Vote_soft,Picture D,97,1,cluster_dbscan02,0,answer
+269,Picture D,RH_4,Bag_KNN,Picture D,97,1,cluster_dbscan02,0,answer
+0,435,KP_1,SVM,435,1,1,cluster_dbscan02,0,solver
+1,435,KP_1,Vote_soft,435,1,1,cluster_dbscan02,0,solver
+2,435,KP_1,Bag_KNN,700,1,0,cluster_dbscan02,0,solver
+3,435,KP_1,SVM,700,2,0,cluster_dbscan02,0,solver
+4,435,KP_1,Vote_soft,700,2,0,cluster_dbscan02,0,solver
+5,435,KP_1,Bag_KNN,700,2,0,cluster_dbscan02,0,solver
+6,435,KP_1,SVM,435,3,1,cluster_dbscan02,0,solver
+7,435,KP_1,Vote_soft,435,3,1,cluster_dbscan02,0,solver
+8,435,KP_1,Bag_KNN,435,3,1,cluster_dbscan02,0,solver
+9,41,KP_2,SVM,41,4,1,cluster_dbscan02,0,solver
+10,41,KP_2,Vote_soft,41,4,1,cluster_dbscan02,0,solver
+11,41,KP_2,Bag_KNN,41,4,1,cluster_dbscan02,0,solver
+12,41,KP_2,SVM,41,5,1,cluster_dbscan02,0,solver
+13,41,KP_2,Vote_soft,41,5,1,cluster_dbscan02,0,solver
+14,41,KP_2,Bag_KNN,41,5,1,cluster_dbscan02,0,solver
+15,10 miles,ThreeRobots,SVM,10 miles,7,1,cluster_dbscan02,0,solver
+16,10 miles,ThreeRobots,Vote_soft,10 miles,7,1,cluster_dbscan02,0,solver
+17,10 miles,ThreeRobots,Bag_KNN,10 miles,7,1,cluster_dbscan02,0,solver
+18,10 miles,ThreeRobots,SVM,3 miles,8,0,cluster_dbscan02,0,solver
+19,10 miles,ThreeRobots,Vote_soft,3 miles,8,0,cluster_dbscan02,0,solver
+20,10 miles,ThreeRobots,Bag_KNN,10 miles,8,1,cluster_dbscan02,0,solver
+21,10 miles,ThreeRobots,SVM,10 miles,9,1,cluster_dbscan02,0,solver
+22,10 miles,ThreeRobots,Vote_soft,10 miles,9,1,cluster_dbscan02,0,solver
+23,10 miles,ThreeRobots,Bag_KNN,10 miles,9,1,cluster_dbscan02,0,solver
+24,50Kg,Apple,SVM,99Kg,10,0,cluster_dbscan02,0,solver
+25,50Kg,Apple,Vote_soft,99Kg,10,0,cluster_dbscan02,0,solver
+26,50Kg,Apple,Bag_KNN,99Kg,10,0,cluster_dbscan02,0,solver
+27,50Kg,Apple,SVM,99Kg,11,0,cluster_dbscan02,0,solver
+28,50Kg,Apple,Vote_soft,99Kg,11,0,cluster_dbscan02,0,solver
+29,50Kg,Apple,Bag_KNN,99Kg,11,0,cluster_dbscan02,0,solver
+30,50Kg,Apple,SVM,50Kg,12,1,cluster_dbscan02,0,solver
+31,50Kg,Apple,Vote_soft,99Kg,12,0,cluster_dbscan02,0,solver
+32,50Kg,Apple,Bag_KNN,99Kg,12,0,cluster_dbscan02,0,solver
+33,100,Bakery,SVM,80,13,0,cluster_dbscan02,0,solver
+34,100,Bakery,Vote_soft,80,13,0,cluster_dbscan02,0,solver
+35,100,Bakery,Bag_KNN,80,13,0,cluster_dbscan02,0,solver
+36,100,Bakery,SVM,80,15,0,cluster_dbscan02,0,solver
+37,100,Bakery,Vote_soft,100,15,1,cluster_dbscan02,0,solver
+38,100,Bakery,Bag_KNN,100,15,1,cluster_dbscan02,0,solver
+39,87.5,Coin,SVM,87.5,16,1,cluster_dbscan02,0,solver
+40,87.5,Coin,Vote_soft,87.5,16,1,cluster_dbscan02,0,solver
+41,87.5,Coin,Bag_KNN,87.5,16,1,cluster_dbscan02,0,solver
+42,87.5,Coin,SVM,87.5,17,1,cluster_dbscan02,0,solver
+43,87.5,Coin,Vote_soft,87.5,17,1,cluster_dbscan02,0,solver
+44,87.5,Coin,Bag_KNN,87.5,17,1,cluster_dbscan02,0,solver
+45,87.5,Coin,SVM,87.5,18,1,cluster_dbscan02,0,solver
+46,87.5,Coin,Vote_soft,50,18,0,cluster_dbscan02,0,solver
+47,87.5,Coin,Bag_KNN,87.5,18,1,cluster_dbscan02,0,solver
+48,1 hour,CR_Conf,SVM,1 hour,19,1,cluster_dbscan02,0,solver
+49,1 hour,CR_Conf,Vote_soft,1 hour,19,1,cluster_dbscan02,0,solver
+50,1 hour,CR_Conf,Bag_KNN,There is no way to know without additional information,19,0,cluster_dbscan02,0,solver
+51,1 hour,CR_Conf,SVM,1 hour,20,1,cluster_dbscan02,0,solver
+52,1 hour,CR_Conf,Vote_soft,1 hour,20,1,cluster_dbscan02,0,solver
+53,1 hour,CR_Conf,Bag_KNN,1 hour,20,1,cluster_dbscan02,0,solver
+54,1 hour,CR_Conf,SVM,1 hour,21,1,cluster_dbscan02,0,solver
+55,1 hour,CR_Conf,Vote_soft,1 hour,21,1,cluster_dbscan02,0,solver
+56,1 hour,CR_Conf,Bag_KNN,1 hour,21,1,cluster_dbscan02,0,solver
+57,1 hour,CR_Conf,SVM,There is no way to know without additional information,22,0,cluster_dbscan02,0,solver
+58,1 hour,CR_Conf,Vote_soft,There is no way to know without additional information,22,0,cluster_dbscan02,0,solver
+59,1 hour,CR_Conf,Bag_KNN,There is no way to know without additional information,22,0,cluster_dbscan02,0,solver
+60,1 hour,CR_Conf,SVM,There is no way to know without additional information,23,0,cluster_dbscan02,0,solver
+61,1 hour,CR_Conf,Vote_soft,1 hour,23,1,cluster_dbscan02,0,solver
+62,1 hour,CR_Conf,Bag_KNN,1 hour,23,1,cluster_dbscan02,0,solver
+63,1 hour,CR_Conf,SVM,1000 hours,24,0,cluster_dbscan02,0,solver
+64,1 hour,CR_Conf,Vote_soft,There is no way to know without additional information,24,0,cluster_dbscan02,0,solver
+65,1 hour,CR_Conf,Bag_KNN,1000 hours,24,0,cluster_dbscan02,0,solver
+66,1 hour,CR_Conf,SVM,1 hour,25,1,cluster_dbscan02,0,solver
+67,1 hour,CR_Conf,Vote_soft,1 hour,25,1,cluster_dbscan02,0,solver
+68,1 hour,CR_Conf,Bag_KNN,1000 hours,25,0,cluster_dbscan02,0,solver
+69,1 hour,CR_Conf,SVM,1 hour,26,1,cluster_dbscan02,0,solver
+70,1 hour,CR_Conf,Vote_soft,1 hour,26,1,cluster_dbscan02,0,solver
+71,1 hour,CR_Conf,Bag_KNN,There is no way to know without additional information,26,0,cluster_dbscan02,0,solver
+72,1 hour,CR_Conf,SVM,Infinity,27,0,cluster_dbscan02,0,solver
+73,1 hour,CR_Conf,Vote_soft,Infinity,27,0,cluster_dbscan02,0,solver
+74,1 hour,CR_Conf,Bag_KNN,1 minute,27,0,cluster_dbscan02,0,solver
+75,1 hour,CR_Conf,SVM,There is no way to know without additional information,28,0,cluster_dbscan02,0,solver
+76,1 hour,CR_Conf,Vote_soft,There is no way to know without additional information,28,0,cluster_dbscan02,0,solver
+77,1 hour,CR_Conf,Bag_KNN,1 hour,28,1,cluster_dbscan02,0,solver
+78,1 hour,CR_Conf,SVM,1 minute,29,0,cluster_dbscan02,0,solver
+79,1 hour,CR_Conf,Vote_soft,1 hour,29,1,cluster_dbscan02,0,solver
+80,1 hour,CR_Conf,Bag_KNN,1 hour,29,1,cluster_dbscan02,0,solver
+81,1 hour,CR_Conf,SVM,1 hour,30,1,cluster_dbscan02,0,solver
+82,1 hour,CR_Conf,Vote_soft,1 hour,30,1,cluster_dbscan02,0,solver
+83,1 hour,CR_Conf,Bag_KNN,1 minute,30,0,cluster_dbscan02,0,solver
+84,1 hour,CR_Conf,SVM,1000 hours,31,0,cluster_dbscan02,0,solver
+85,1 hour,CR_Conf,Vote_soft,There is no way to know without additional information,31,0,cluster_dbscan02,0,solver
+86,1 hour,CR_Conf,Bag_KNN,There is no way to know without additional information,31,0,cluster_dbscan02,0,solver
+87,1 hour,CR_Conf,SVM,1000 minutes,32,0,cluster_dbscan02,0,solver
+88,1 hour,CR_Conf,Vote_soft,1 hour,32,1,cluster_dbscan02,0,solver
+89,1 hour,CR_Conf,Bag_KNN,Infinity,32,0,cluster_dbscan02,0,solver
+90,1 hour,CR_Conf,SVM,Infinity,33,0,cluster_dbscan02,0,solver
+91,1 hour,CR_Conf,Vote_soft,There is no way to know without additional information,33,0,cluster_dbscan02,0,solver
+92,1 hour,CR_Conf,Bag_KNN,Infinity,33,0,cluster_dbscan02,0,solver
+93,1 hour,CR_Conf,SVM,1000 minutes,35,0,cluster_dbscan02,0,solver
+94,1 hour,CR_Conf,Vote_soft,1000 minutes,35,0,cluster_dbscan02,0,solver
+95,1 hour,CR_Conf,Bag_KNN,1 minute,35,0,cluster_dbscan02,0,solver
+96,1 hour,CR_Conf,SVM,1 hour,36,1,cluster_dbscan02,0,solver
+97,1 hour,CR_Conf,Vote_soft,There is no way to know without additional information,36,0,cluster_dbscan02,0,solver
+98,1 hour,CR_Conf,Bag_KNN,1 minute,36,0,cluster_dbscan02,0,solver
+99,1 hour,CR_Conf,SVM,1000 hours,37,0,cluster_dbscan02,0,solver
+100,1 hour,CR_Conf,Vote_soft,Infinity,37,0,cluster_dbscan02,0,solver
+101,1 hour,CR_Conf,Bag_KNN,1000 hours,37,0,cluster_dbscan02,0,solver
+102,1 hour,CR_Conf,SVM,Infinity,38,0,cluster_dbscan02,0,solver
+103,1 hour,CR_Conf,Vote_soft,Infinity,38,0,cluster_dbscan02,0,solver
+104,1 hour,CR_Conf,Bag_KNN,1000 seconds,38,0,cluster_dbscan02,0,solver
+105,1 hour,CR_Conf,SVM,1 hour,39,1,cluster_dbscan02,0,solver
+106,1 hour,CR_Conf,Vote_soft,1 hour,39,1,cluster_dbscan02,0,solver
+107,1 hour,CR_Conf,Bag_KNN,1 hour,39,1,cluster_dbscan02,0,solver
+108,1 hour,CR_Conf,SVM,1 hour,40,1,cluster_dbscan02,0,solver
+109,1 hour,CR_Conf,Vote_soft,There is no way to know without additional information,40,0,cluster_dbscan02,0,solver
+110,1 hour,CR_Conf,Bag_KNN,There is no way to know without additional information,40,0,cluster_dbscan02,0,solver
+111,1 hour,CR_Conf,SVM,1000 seconds,41,0,cluster_dbscan02,0,solver
+112,1 hour,CR_Conf,Vote_soft,1000 seconds,41,0,cluster_dbscan02,0,solver
+113,1 hour,CR_Conf,Bag_KNN,1000 seconds,41,0,cluster_dbscan02,0,solver
+114,1 hour,CR_Conf,SVM,Infinity,42,0,cluster_dbscan02,0,solver
+115,1 hour,CR_Conf,Vote_soft,Infinity,42,0,cluster_dbscan02,0,solver
+116,1 hour,CR_Conf,Bag_KNN,1000 minutes,42,0,cluster_dbscan02,0,solver
+117,1 hour,CR_Conf,SVM,1000 hours,43,0,cluster_dbscan02,0,solver
+118,1 hour,CR_Conf,Vote_soft,1 minute,43,0,cluster_dbscan02,0,solver
+119,1 hour,CR_Conf,Bag_KNN,1 minute,43,0,cluster_dbscan02,0,solver
+120,1 hour,CR_Conf,SVM,There is no way to know without additional information,44,0,cluster_dbscan02,0,solver
+121,1 hour,CR_Conf,Vote_soft,There is no way to know without additional information,44,0,cluster_dbscan02,0,solver
+122,1 hour,CR_Conf,Bag_KNN,1 hour,44,1,cluster_dbscan02,0,solver
+123,1 hour,CR_Conf,SVM,1000 minutes,45,0,cluster_dbscan02,0,solver
+124,1 hour,CR_Conf,Vote_soft,1 minute,45,0,cluster_dbscan02,0,solver
+125,1 hour,CR_Conf,Bag_KNN,Infinity,45,0,cluster_dbscan02,0,solver
+126,1 hour,CR_Conf,SVM,Infinity,46,0,cluster_dbscan02,0,solver
+127,1 hour,CR_Conf,Vote_soft,There is no way to know without additional information,46,0,cluster_dbscan02,0,solver
+128,1 hour,CR_Conf,Bag_KNN,1 hour,46,1,cluster_dbscan02,0,solver
+129,1 hour,CR_Conf,SVM,1 hour,47,1,cluster_dbscan02,0,solver
+130,1 hour,CR_Conf,Vote_soft,1000 minutes,47,0,cluster_dbscan02,0,solver
+131,1 hour,CR_Conf,Bag_KNN,Infinity,47,0,cluster_dbscan02,0,solver
+132,1 hour,CR_Conf,SVM,There is no way to know without additional information,48,0,cluster_dbscan02,0,solver
+133,1 hour,CR_Conf,Vote_soft,There is no way to know without additional information,48,0,cluster_dbscan02,0,solver
+134,1 hour,CR_Conf,Bag_KNN,There is no way to know without additional information,48,0,cluster_dbscan02,0,solver
+135,1 hour,CR_Conf,SVM,Infinity,49,0,cluster_dbscan02,0,solver
+136,1 hour,CR_Conf,Vote_soft,Infinity,49,0,cluster_dbscan02,0,solver
+137,1 hour,CR_Conf,Bag_KNN,Infinity,49,0,cluster_dbscan02,0,solver
+138,1 hour,CR_Conf,SVM,1000 minutes,50,0,cluster_dbscan02,0,solver
+139,1 hour,CR_Conf,Vote_soft,1 hour,50,1,cluster_dbscan02,0,solver
+140,1 hour,CR_Conf,Bag_KNN,1 hour,50,1,cluster_dbscan02,0,solver
+141,1 hour,CR_Conf,SVM,1000 seconds,51,0,cluster_dbscan02,0,solver
+142,1 hour,CR_Conf,Vote_soft,1 hour,51,1,cluster_dbscan02,0,solver
+143,1 hour,CR_Conf,Bag_KNN,1 minute,51,0,cluster_dbscan02,0,solver
+144,1 hour,CR_Conf,SVM,Infinity,52,0,cluster_dbscan02,0,solver
+145,1 hour,CR_Conf,Vote_soft,Infinity,52,0,cluster_dbscan02,0,solver
+146,1 hour,CR_Conf,Bag_KNN,There is no way to know without additional information,52,0,cluster_dbscan02,0,solver
+147,1 hour,CR_Conf,SVM,There is no way to know without additional information,53,0,cluster_dbscan02,0,solver
+148,1 hour,CR_Conf,Vote_soft,There is no way to know without additional information,53,0,cluster_dbscan02,0,solver
+149,1 hour,CR_Conf,Bag_KNN,There is no way to know without additional information,53,0,cluster_dbscan02,0,solver
+150,1 hour,CR_Conf,SVM,2000 hours,54,0,cluster_dbscan02,0,solver
+151,1 hour,CR_Conf,Vote_soft,There is no way to know without additional information,54,0,cluster_dbscan02,0,solver
+152,1 hour,CR_Conf,Bag_KNN,1 minute,54,0,cluster_dbscan02,0,solver
+153,1 hour,CR_Conf,SVM,There is no way to know without additional information,55,0,cluster_dbscan02,0,solver
+154,1 hour,CR_Conf,Vote_soft,There is no way to know without additional information,55,0,cluster_dbscan02,0,solver
+155,1 hour,CR_Conf,Bag_KNN,1 hour,55,1,cluster_dbscan02,0,solver
+156,1 hour,CR_Conf,SVM,Infinity,56,0,cluster_dbscan02,0,solver
+157,1 hour,CR_Conf,Vote_soft,Infinity,56,0,cluster_dbscan02,0,solver
+158,1 hour,CR_Conf,Bag_KNN,Infinity,56,0,cluster_dbscan02,0,solver
+159,28,Frog,SVM,28,57,1,cluster_dbscan02,0,solver
+160,28,Frog,Vote_soft,28,57,1,cluster_dbscan02,0,solver
+161,28,Frog,Bag_KNN,28,57,1,cluster_dbscan02,0,solver
+162,28,Frog,SVM,28,58,1,cluster_dbscan02,0,solver
+163,28,Frog,Vote_soft,28,58,1,cluster_dbscan02,0,solver
+164,28,Frog,Bag_KNN,28,58,1,cluster_dbscan02,0,solver
+165,28,Frog,SVM,28,59,1,cluster_dbscan02,0,solver
+166,28,Frog,Vote_soft,28,59,1,cluster_dbscan02,0,solver
+167,28,Frog,Bag_KNN,28,59,1,cluster_dbscan02,0,solver
+168,"BNPR, ACDF, EIUG",LettersDice,SVM,"BNPR, ACDF, EIUG",60,1,cluster_dbscan02,0,solver
+169,"BNPR, ACDF, EIUG",LettersDice,Vote_soft,"BNPR, ACDF, EIUG",60,1,cluster_dbscan02,0,solver
+170,"BNPR, ACDF, EIUG",LettersDice,Bag_KNN,"BNPR, ACDF, EIUG",60,1,cluster_dbscan02,0,solver
+171,"BNPR, ACDF, EIUG",LettersDice,SVM,"BNPR, ACDF, EIUG",61,1,cluster_dbscan02,0,solver
+172,"BNPR, ACDF, EIUG",LettersDice,Vote_soft,"BNPR, ACDF, EIUG",61,1,cluster_dbscan02,0,solver
+173,"BNPR, ACDF, EIUG",LettersDice,Bag_KNN,"BNPR, ACDF, EIUG",61,1,cluster_dbscan02,0,solver
+174,"BNPR, ACDF, EIUG",LettersDice,SVM,"BNPR, ACDF, EIUG",62,1,cluster_dbscan02,0,solver
+175,"BNPR, ACDF, EIUG",LettersDice,Vote_soft,"BNPR, ACDF, EIUG",62,1,cluster_dbscan02,0,solver
+176,"BNPR, ACDF, EIUG",LettersDice,Bag_KNN,"BNPR, ACDF, EIUG",62,1,cluster_dbscan02,0,solver
+177,3,MagicPotion,SVM,8,63,0,cluster_dbscan02,0,solver
+178,3,MagicPotion,Vote_soft,8,63,0,cluster_dbscan02,0,solver
+179,3,MagicPotion,Bag_KNN,3,63,1,cluster_dbscan02,0,solver
+180,3,MagicPotion,SVM,1,64,0,cluster_dbscan02,0,solver
+181,3,MagicPotion,Vote_soft,1,64,0,cluster_dbscan02,0,solver
+182,3,MagicPotion,Bag_KNN,8,64,0,cluster_dbscan02,0,solver
+183,3,MagicPotion,SVM,1,65,0,cluster_dbscan02,0,solver
+184,3,MagicPotion,Vote_soft,1,65,0,cluster_dbscan02,0,solver
+185,3,MagicPotion,Bag_KNN,3,65,1,cluster_dbscan02,0,solver
+186,3,MagicPotion,SVM,8,66,0,cluster_dbscan02,0,solver
+187,3,MagicPotion,Vote_soft,3,66,1,cluster_dbscan02,0,solver
+188,3,MagicPotion,Bag_KNN,3,66,1,cluster_dbscan02,0,solver
+189,3,MagicPotion,SVM,8,67,0,cluster_dbscan02,0,solver
+190,3,MagicPotion,Vote_soft,8,67,0,cluster_dbscan02,0,solver
+191,3,MagicPotion,Bag_KNN,3,67,1,cluster_dbscan02,0,solver
+192,3,MagicPotion,SVM,8,68,0,cluster_dbscan02,0,solver
+193,3,MagicPotion,Vote_soft,3,68,1,cluster_dbscan02,0,solver
+194,3,MagicPotion,Bag_KNN,3,68,1,cluster_dbscan02,0,solver
+195,3,MagicPotion,SVM,1,69,0,cluster_dbscan02,0,solver
+196,3,MagicPotion,Vote_soft,3,69,1,cluster_dbscan02,0,solver
+197,3,MagicPotion,Bag_KNN,3,69,1,cluster_dbscan02,0,solver
+198,3,MagicPotion,SVM,8,70,0,cluster_dbscan02,0,solver
+199,3,MagicPotion,Vote_soft,3,70,1,cluster_dbscan02,0,solver
+200,3,MagicPotion,Bag_KNN,3,70,1,cluster_dbscan02,0,solver
+201,3,MagicPotion,SVM,1,71,0,cluster_dbscan02,0,solver
+202,3,MagicPotion,Vote_soft,3,71,1,cluster_dbscan02,0,solver
+203,3,MagicPotion,Bag_KNN,3,71,1,cluster_dbscan02,0,solver
+204,3,MagicPotion,SVM,8,72,0,cluster_dbscan02,0,solver
+205,3,MagicPotion,Vote_soft,8,72,0,cluster_dbscan02,0,solver
+206,3,MagicPotion,Bag_KNN,3,72,1,cluster_dbscan02,0,solver
+207,ACB,Pills,SVM,ACB,73,1,cluster_dbscan02,0,solver
+208,ACB,Pills,Vote_soft,ACB,73,1,cluster_dbscan02,0,solver
+209,ACB,Pills,Bag_KNN,ACB,73,1,cluster_dbscan02,0,solver
+210,ACB,Pills,SVM,ACB,74,1,cluster_dbscan02,0,solver
+211,ACB,Pills,Vote_soft,BAC,74,0,cluster_dbscan02,0,solver
+212,ACB,Pills,Bag_KNN,BAC,74,0,cluster_dbscan02,0,solver
+213,ACB,Pills,SVM,ACB,75,1,cluster_dbscan02,0,solver
+214,ACB,Pills,Vote_soft,ACB,75,1,cluster_dbscan02,0,solver
+215,ACB,Pills,Bag_KNN,ACB,75,1,cluster_dbscan02,0,solver
+216,ACB,Pills,SVM,ACB,76,1,cluster_dbscan02,0,solver
+217,ACB,Pills,Vote_soft,ACB,76,1,cluster_dbscan02,0,solver
+218,ACB,Pills,Bag_KNN,ACB,76,1,cluster_dbscan02,0,solver
+219,a2,Traveler,SVM,a2,81,1,cluster_dbscan02,0,solver
+220,a2,Traveler,Vote_soft,a2,81,1,cluster_dbscan02,0,solver
+221,a2,Traveler,Bag_KNN,a2,81,1,cluster_dbscan02,0,solver
+222,a2,Traveler,SVM,a2,82,1,cluster_dbscan02,0,solver
+223,a2,Traveler,Vote_soft,a2,82,1,cluster_dbscan02,0,solver
+224,a2,Traveler,Bag_KNN,a2,82,1,cluster_dbscan02,0,solver
+225,a2,Traveler,SVM,a4,83,0,cluster_dbscan02,0,solver
+226,a2,Traveler,Vote_soft,a4,83,0,cluster_dbscan02,0,solver
+227,a2,Traveler,Bag_KNN,a4,83,0,cluster_dbscan02,0,solver
+228,8 moves,RH1,SVM,8 moves,84,1,cluster_dbscan02,0,solver
+229,8 moves,RH1,Vote_soft,8 moves,84,1,cluster_dbscan02,0,solver
+230,8 moves,RH1,Bag_KNN,8 moves,84,1,cluster_dbscan02,0,solver
+231,8 moves,RH1,SVM,8 moves,85,1,cluster_dbscan02,0,solver
+232,8 moves,RH1,Vote_soft,8 moves,85,1,cluster_dbscan02,0,solver
+233,8 moves,RH1,Bag_KNN,8 moves,85,1,cluster_dbscan02,0,solver
+234,8 moves,RH1,SVM,More than 10 moves,86,0,cluster_dbscan02,0,solver
+235,8 moves,RH1,Vote_soft,8 moves,86,1,cluster_dbscan02,0,solver
+236,8 moves,RH1,Bag_KNN,8 moves,86,1,cluster_dbscan02,0,solver
+237,8 moves,RH1,SVM,8 moves,87,1,cluster_dbscan02,0,solver
+238,8 moves,RH1,Vote_soft,8 moves,87,1,cluster_dbscan02,0,solver
+239,8 moves,RH1,Bag_KNN,8 moves,87,1,cluster_dbscan02,0,solver
+240,15 moves,RH2,SVM,More than 16 moves,88,0,cluster_dbscan02,0,solver
+241,15 moves,RH2,Vote_soft,More than 16 moves,88,0,cluster_dbscan02,0,solver
+242,15 moves,RH2,Bag_KNN,More than 16 moves,88,0,cluster_dbscan02,0,solver
+243,15 moves,RH2,SVM,15 moves,89,1,cluster_dbscan02,0,solver
+244,15 moves,RH2,Vote_soft,More than 16 moves,89,0,cluster_dbscan02,0,solver
+245,15 moves,RH2,Bag_KNN,15 moves,89,1,cluster_dbscan02,0,solver
+246,15 moves,RH2,SVM,15 moves,90,1,cluster_dbscan02,0,solver
+247,15 moves,RH2,Vote_soft,15 moves,90,1,cluster_dbscan02,0,solver
+248,15 moves,RH2,Bag_KNN,15 moves,90,1,cluster_dbscan02,0,solver
+249,18 moves,RH3,SVM,More than 20 moves,91,0,cluster_dbscan02,0,solver
+250,18 moves,RH3,Vote_soft,More than 20 moves,91,0,cluster_dbscan02,0,solver
+251,18 moves,RH3,Bag_KNN,18 moves,91,1,cluster_dbscan02,0,solver
+252,18 moves,RH3,SVM,18 moves,92,1,cluster_dbscan02,0,solver
+253,18 moves,RH3,Vote_soft,18 moves,92,1,cluster_dbscan02,0,solver
+254,18 moves,RH3,Bag_KNN,18 moves,92,1,cluster_dbscan02,0,solver
+255,18 moves,RH3,SVM,18 moves,93,1,cluster_dbscan02,0,solver
+256,18 moves,RH3,Vote_soft,18 moves,93,1,cluster_dbscan02,0,solver
+257,18 moves,RH3,Bag_KNN,18 moves,93,1,cluster_dbscan02,0,solver
+258,Picture D,RH_4,SVM,Picture D,94,1,cluster_dbscan02,0,solver
+259,Picture D,RH_4,Vote_soft,Picture D,94,1,cluster_dbscan02,0,solver
+260,Picture D,RH_4,Bag_KNN,Picture D,94,1,cluster_dbscan02,0,solver
+261,Picture D,RH_4,SVM,Picture D,95,1,cluster_dbscan02,0,solver
+262,Picture D,RH_4,Vote_soft,Picture D,95,1,cluster_dbscan02,0,solver
+263,Picture D,RH_4,Bag_KNN,Picture D,95,1,cluster_dbscan02,0,solver
+264,Picture D,RH_4,SVM,Picture D,96,1,cluster_dbscan02,0,solver
+265,Picture D,RH_4,Vote_soft,Picture B,96,0,cluster_dbscan02,0,solver
+266,Picture D,RH_4,Bag_KNN,Picture B,96,0,cluster_dbscan02,0,solver
+267,Picture D,RH_4,SVM,Picture D,97,1,cluster_dbscan02,0,solver
+268,Picture D,RH_4,Vote_soft,Picture D,97,1,cluster_dbscan02,0,solver
+269,Picture D,RH_4,Bag_KNN,Picture D,97,1,cluster_dbscan02,0,solver
+0,435,KP_1,Combined_prediction,435,1,1,cluster_dbscan02,0,ensemble
+1,435,KP_1,Combined_prediction,700,2,0,cluster_dbscan02,0,ensemble
+2,435,KP_1,Combined_prediction,435,3,1,cluster_dbscan02,0,ensemble
+3,41,KP_2,Combined_prediction,41,4,1,cluster_dbscan02,0,ensemble
+4,41,KP_2,Combined_prediction,41,5,1,cluster_dbscan02,0,ensemble
+5,10 miles,ThreeRobots,Combined_prediction,10 miles,7,1,cluster_dbscan02,0,ensemble
+6,10 miles,ThreeRobots,Combined_prediction,3 miles,8,0,cluster_dbscan02,0,ensemble
+7,10 miles,ThreeRobots,Combined_prediction,10 miles,9,1,cluster_dbscan02,0,ensemble
+8,50Kg,Apple,Combined_prediction,99Kg,10,0,cluster_dbscan02,0,ensemble
+9,50Kg,Apple,Combined_prediction,99Kg,11,0,cluster_dbscan02,0,ensemble
+10,50Kg,Apple,Combined_prediction,99Kg,12,0,cluster_dbscan02,0,ensemble
+11,100,Bakery,Combined_prediction,80,13,0,cluster_dbscan02,0,ensemble
+12,100,Bakery,Combined_prediction,100,15,1,cluster_dbscan02,0,ensemble
+13,87.5,Coin,Combined_prediction,87.5,16,1,cluster_dbscan02,0,ensemble
+14,87.5,Coin,Combined_prediction,87.5,17,1,cluster_dbscan02,0,ensemble
+15,87.5,Coin,Combined_prediction,87.5,18,1,cluster_dbscan02,0,ensemble
+16,1 hour,CR_Conf,Combined_prediction,1 hour,19,1,cluster_dbscan02,0,ensemble
+17,1 hour,CR_Conf,Combined_prediction,1 hour,20,1,cluster_dbscan02,0,ensemble
+18,1 hour,CR_Conf,Combined_prediction,1 hour,21,1,cluster_dbscan02,0,ensemble
+19,1 hour,CR_Conf,Combined_prediction,There is no way to know without additional information,22,0,cluster_dbscan02,0,ensemble
+20,1 hour,CR_Conf,Combined_prediction,1 hour,23,1,cluster_dbscan02,0,ensemble
+21,1 hour,CR_Conf,Combined_prediction,1000 minutes,24,0,cluster_dbscan02,0,ensemble
+22,1 hour,CR_Conf,Combined_prediction,1 hour,25,1,cluster_dbscan02,0,ensemble
+23,1 hour,CR_Conf,Combined_prediction,1 hour,26,1,cluster_dbscan02,0,ensemble
+24,1 hour,CR_Conf,Combined_prediction,Infinity,27,0,cluster_dbscan02,0,ensemble
+25,1 hour,CR_Conf,Combined_prediction,There is no way to know without additional information,28,0,cluster_dbscan02,0,ensemble
+26,1 hour,CR_Conf,Combined_prediction,1 hour,29,1,cluster_dbscan02,0,ensemble
+27,1 hour,CR_Conf,Combined_prediction,1 hour,30,1,cluster_dbscan02,0,ensemble
+28,1 hour,CR_Conf,Combined_prediction,There is no way to know without additional information,31,0,cluster_dbscan02,0,ensemble
+29,1 hour,CR_Conf,Combined_prediction,Infinity,32,0,cluster_dbscan02,0,ensemble
+30,1 hour,CR_Conf,Combined_prediction,Infinity,33,0,cluster_dbscan02,0,ensemble
+31,1 hour,CR_Conf,Combined_prediction,1000 minutes,35,0,cluster_dbscan02,0,ensemble
+32,1 hour,CR_Conf,Combined_prediction,There is no way to know without additional information,36,0,cluster_dbscan02,0,ensemble
+33,1 hour,CR_Conf,Combined_prediction,Infinity,37,0,cluster_dbscan02,0,ensemble
+34,1 hour,CR_Conf,Combined_prediction,Infinity,38,0,cluster_dbscan02,0,ensemble
+35,1 hour,CR_Conf,Combined_prediction,1 hour,39,1,cluster_dbscan02,0,ensemble
+36,1 hour,CR_Conf,Combined_prediction,There is no way to know without additional information,40,0,cluster_dbscan02,0,ensemble
+37,1 hour,CR_Conf,Combined_prediction,1000 seconds,41,0,cluster_dbscan02,0,ensemble
+38,1 hour,CR_Conf,Combined_prediction,Infinity,42,0,cluster_dbscan02,0,ensemble
+39,1 hour,CR_Conf,Combined_prediction,1 minute,43,0,cluster_dbscan02,0,ensemble
+40,1 hour,CR_Conf,Combined_prediction,There is no way to know without additional information,44,0,cluster_dbscan02,0,ensemble
+41,1 hour,CR_Conf,Combined_prediction,1 hour,45,1,cluster_dbscan02,0,ensemble
+42,1 hour,CR_Conf,Combined_prediction,Infinity,46,0,cluster_dbscan02,0,ensemble
+43,1 hour,CR_Conf,Combined_prediction,Infinity,47,0,cluster_dbscan02,0,ensemble
+44,1 hour,CR_Conf,Combined_prediction,There is no way to know without additional information,48,0,cluster_dbscan02,0,ensemble
+45,1 hour,CR_Conf,Combined_prediction,Infinity,49,0,cluster_dbscan02,0,ensemble
+46,1 hour,CR_Conf,Combined_prediction,1000 minutes,50,0,cluster_dbscan02,0,ensemble
+47,1 hour,CR_Conf,Combined_prediction,1 hour,51,1,cluster_dbscan02,0,ensemble
+48,1 hour,CR_Conf,Combined_prediction,Infinity,52,0,cluster_dbscan02,0,ensemble
+49,1 hour,CR_Conf,Combined_prediction,There is no way to know without additional information,53,0,cluster_dbscan02,0,ensemble
+50,1 hour,CR_Conf,Combined_prediction,There is no way to know without additional information,54,0,cluster_dbscan02,0,ensemble
+51,1 hour,CR_Conf,Combined_prediction,There is no way to know without additional information,55,0,cluster_dbscan02,0,ensemble
+52,1 hour,CR_Conf,Combined_prediction,Infinity,56,0,cluster_dbscan02,0,ensemble
+53,28,Frog,Combined_prediction,28,57,1,cluster_dbscan02,0,ensemble
+54,28,Frog,Combined_prediction,28,58,1,cluster_dbscan02,0,ensemble
+55,28,Frog,Combined_prediction,28,59,1,cluster_dbscan02,0,ensemble
+56,"BNPR, ACDF, EIUG",LettersDice,Combined_prediction,"BNPR, ACDF, EIUG",60,1,cluster_dbscan02,0,ensemble
+57,"BNPR, ACDF, EIUG",LettersDice,Combined_prediction,"BNPR, ACDF, EIUG",61,1,cluster_dbscan02,0,ensemble
+58,"BNPR, ACDF, EIUG",LettersDice,Combined_prediction,"BNPR, ACDF, EIUG",62,1,cluster_dbscan02,0,ensemble
+59,3,MagicPotion,Combined_prediction,8,63,0,cluster_dbscan02,0,ensemble
+60,3,MagicPotion,Combined_prediction,1,64,0,cluster_dbscan02,0,ensemble
+61,3,MagicPotion,Combined_prediction,1,65,0,cluster_dbscan02,0,ensemble
+62,3,MagicPotion,Combined_prediction,3,66,1,cluster_dbscan02,0,ensemble
+63,3,MagicPotion,Combined_prediction,8,67,0,cluster_dbscan02,0,ensemble
+64,3,MagicPotion,Combined_prediction,3,68,1,cluster_dbscan02,0,ensemble
+65,3,MagicPotion,Combined_prediction,3,69,1,cluster_dbscan02,0,ensemble
+66,3,MagicPotion,Combined_prediction,3,70,1,cluster_dbscan02,0,ensemble
+67,3,MagicPotion,Combined_prediction,3,71,1,cluster_dbscan02,0,ensemble
+68,3,MagicPotion,Combined_prediction,8,72,0,cluster_dbscan02,0,ensemble
+69,ACB,Pills,Combined_prediction,ACB,73,1,cluster_dbscan02,0,ensemble
+70,ACB,Pills,Combined_prediction,BAC,74,0,cluster_dbscan02,0,ensemble
+71,ACB,Pills,Combined_prediction,ACB,75,1,cluster_dbscan02,0,ensemble
+72,ACB,Pills,Combined_prediction,ACB,76,1,cluster_dbscan02,0,ensemble
+73,a2,Traveler,Combined_prediction,a2,81,1,cluster_dbscan02,0,ensemble
+74,a2,Traveler,Combined_prediction,a2,82,1,cluster_dbscan02,0,ensemble
+75,a2,Traveler,Combined_prediction,a4,83,0,cluster_dbscan02,0,ensemble
+76,8 moves,RH1,Combined_prediction,8 moves,84,1,cluster_dbscan02,0,ensemble
+77,8 moves,RH1,Combined_prediction,8 moves,85,1,cluster_dbscan02,0,ensemble
+78,8 moves,RH1,Combined_prediction,8 moves,86,1,cluster_dbscan02,0,ensemble
+79,8 moves,RH1,Combined_prediction,8 moves,87,1,cluster_dbscan02,0,ensemble
+80,15 moves,RH2,Combined_prediction,More than 16 moves,88,0,cluster_dbscan02,0,ensemble
+81,15 moves,RH2,Combined_prediction,More than 16 moves,89,0,cluster_dbscan02,0,ensemble
+82,15 moves,RH2,Combined_prediction,15 moves,90,1,cluster_dbscan02,0,ensemble
+83,18 moves,RH3,Combined_prediction,More than 20 moves,91,0,cluster_dbscan02,0,ensemble
+84,18 moves,RH3,Combined_prediction,18 moves,92,1,cluster_dbscan02,0,ensemble
+85,18 moves,RH3,Combined_prediction,18 moves,93,1,cluster_dbscan02,0,ensemble
+86,Picture D,RH_4,Combined_prediction,Picture D,94,1,cluster_dbscan02,0,ensemble
+87,Picture D,RH_4,Combined_prediction,Picture D,95,1,cluster_dbscan02,0,ensemble
+88,Picture D,RH_4,Combined_prediction,Picture D,96,1,cluster_dbscan02,0,ensemble
+89,Picture D,RH_4,Combined_prediction,Picture D,97,1,cluster_dbscan02,0,ensemble
+0,41,KP_2,SVM,41,6,1,cluster_dbscan02,-1,answer
+1,41,KP_2,Vote_soft,41,6,1,cluster_dbscan02,-1,answer
+2,41,KP_2,Bag_KNN,41,6,1,cluster_dbscan02,-1,answer
+3,100,Bakery,SVM,400,14,0,cluster_dbscan02,-1,answer
+4,100,Bakery,Vote_soft,80,14,0,cluster_dbscan02,-1,answer
+5,100,Bakery,Bag_KNN,80,14,0,cluster_dbscan02,-1,answer
+6,1 hour,CR_Conf,SVM,1 second,34,0,cluster_dbscan02,-1,answer
+7,1 hour,CR_Conf,Vote_soft,There is no way to know without additional information,34,0,cluster_dbscan02,-1,answer
+8,1 hour,CR_Conf,Bag_KNN,1 hour,34,1,cluster_dbscan02,-1,answer
+0,41,KP_2,SVM,41,6,1,cluster_dbscan02,-1,solver
+1,41,KP_2,Vote_soft,34,6,0,cluster_dbscan02,-1,solver
+2,41,KP_2,Bag_KNN,34,6,0,cluster_dbscan02,-1,solver
+3,100,Bakery,SVM,80,14,0,cluster_dbscan02,-1,solver
+4,100,Bakery,Vote_soft,80,14,0,cluster_dbscan02,-1,solver
+5,100,Bakery,Bag_KNN,80,14,0,cluster_dbscan02,-1,solver
+6,1 hour,CR_Conf,SVM,There is no way to know without additional information,34,0,cluster_dbscan02,-1,solver
+7,1 hour,CR_Conf,Vote_soft,There is no way to know without additional information,34,0,cluster_dbscan02,-1,solver
+8,1 hour,CR_Conf,Bag_KNN,There is no way to know without additional information,34,0,cluster_dbscan02,-1,solver
+0,41,KP_2,Combined_prediction,34,6,0,cluster_dbscan02,-1,ensemble
+1,100,Bakery,Combined_prediction,80,14,0,cluster_dbscan02,-1,ensemble
+2,1 hour,CR_Conf,Combined_prediction,There is no way to know without additional information,34,0,cluster_dbscan02,-1,ensemble
+0,box1,SOKO2BOX,SVM,box3,77,0,cluster_dbscan02,-2,answer
+1,box1,SOKO2BOX,Vote_soft,box3,77,0,cluster_dbscan02,-2,answer
+2,box1,SOKO2BOX,Bag_KNN,box3,77,0,cluster_dbscan02,-2,answer
+3,box1,SOKO2BOX,SVM,box1,78,1,cluster_dbscan02,-2,answer
+4,box1,SOKO2BOX,Vote_soft,box1,78,1,cluster_dbscan02,-2,answer
+5,box1,SOKO2BOX,Bag_KNN,box1,78,1,cluster_dbscan02,-2,answer
+6,MM3,SOKOMM,SVM,MM3,79,1,cluster_dbscan02,-2,answer
+7,MM3,SOKOMM,Vote_soft,MM4,79,0,cluster_dbscan02,-2,answer
+8,MM3,SOKOMM,Bag_KNN,MM4,79,0,cluster_dbscan02,-2,answer
+9,MM3,SOKOMM,SVM,MM3,80,1,cluster_dbscan02,-2,answer
+10,MM3,SOKOMM,Vote_soft,MM3,80,1,cluster_dbscan02,-2,answer
+11,MM3,SOKOMM,Bag_KNN,MM3,80,1,cluster_dbscan02,-2,answer
+0,box1,SOKO2BOX,SVM,box1,77,1,cluster_dbscan02,-2,solver
+1,box1,SOKO2BOX,Vote_soft,box3,77,0,cluster_dbscan02,-2,solver
+2,box1,SOKO2BOX,Bag_KNN,box3,77,0,cluster_dbscan02,-2,solver
+3,box1,SOKO2BOX,SVM,box1,78,1,cluster_dbscan02,-2,solver
+4,box1,SOKO2BOX,Vote_soft,box1,78,1,cluster_dbscan02,-2,solver
+5,box1,SOKO2BOX,Bag_KNN,box1,78,1,cluster_dbscan02,-2,solver
+6,MM3,SOKOMM,SVM,MM3,79,1,cluster_dbscan02,-2,solver
+7,MM3,SOKOMM,Vote_soft,MM3,79,1,cluster_dbscan02,-2,solver
+8,MM3,SOKOMM,Bag_KNN,MM3,79,1,cluster_dbscan02,-2,solver
+9,MM3,SOKOMM,SVM,MM3,80,1,cluster_dbscan02,-2,solver
+10,MM3,SOKOMM,Vote_soft,MM3,80,1,cluster_dbscan02,-2,solver
+11,MM3,SOKOMM,Bag_KNN,MM3,80,1,cluster_dbscan02,-2,solver
+0,box1,SOKO2BOX,Combined_prediction,box3,77,0,cluster_dbscan02,-2,ensemble
+1,box1,SOKO2BOX,Combined_prediction,box1,78,1,cluster_dbscan02,-2,ensemble
+2,MM3,SOKOMM,Combined_prediction,MM3,79,1,cluster_dbscan02,-2,ensemble
+3,MM3,SOKOMM,Combined_prediction,MM3,80,1,cluster_dbscan02,-2,ensemble
+0,435,KP_1,SVM,700,1,0,all_group,minPlus,answer
+1,435,KP_1,Vote_soft,435,1,1,all_group,minPlus,answer
+2,435,KP_1,Bag_KNN,435,1,1,all_group,minPlus,answer
+3,435,KP_1,SVM,700,2,0,all_group,minPlus,answer
+4,435,KP_1,Vote_soft,700,2,0,all_group,minPlus,answer
+5,435,KP_1,Bag_KNN,700,2,0,all_group,minPlus,answer
+6,435,KP_1,SVM,435,3,1,all_group,minPlus,answer
+7,435,KP_1,Vote_soft,435,3,1,all_group,minPlus,answer
+8,435,KP_1,Bag_KNN,435,3,1,all_group,minPlus,answer
+9,41,KP_2,SVM,41,4,1,all_group,minPlus,answer
+10,41,KP_2,Vote_soft,41,4,1,all_group,minPlus,answer
+11,41,KP_2,Bag_KNN,41,4,1,all_group,minPlus,answer
+12,41,KP_2,SVM,41,5,1,all_group,minPlus,answer
+13,41,KP_2,Vote_soft,41,5,1,all_group,minPlus,answer
+14,41,KP_2,Bag_KNN,41,5,1,all_group,minPlus,answer
+15,41,KP_2,SVM,41,6,1,all_group,minPlus,answer
+16,41,KP_2,Vote_soft,41,6,1,all_group,minPlus,answer
+17,41,KP_2,Bag_KNN,41,6,1,all_group,minPlus,answer
+18,10 miles,ThreeRobots,SVM,10 miles,7,1,all_group,minPlus,answer
+19,10 miles,ThreeRobots,Vote_soft,10 miles,7,1,all_group,minPlus,answer
+20,10 miles,ThreeRobots,Bag_KNN,10 miles,7,1,all_group,minPlus,answer
+21,10 miles,ThreeRobots,SVM,3 miles,8,0,all_group,minPlus,answer
+22,10 miles,ThreeRobots,Vote_soft,3 miles,8,0,all_group,minPlus,answer
+23,10 miles,ThreeRobots,Bag_KNN,1 mile,8,0,all_group,minPlus,answer
+24,10 miles,ThreeRobots,SVM,10 miles,9,1,all_group,minPlus,answer
+25,10 miles,ThreeRobots,Vote_soft,10 miles,9,1,all_group,minPlus,answer
+26,10 miles,ThreeRobots,Bag_KNN,10 miles,9,1,all_group,minPlus,answer
+27,50Kg,Apple,SVM,99Kg,10,0,all_group,minPlus,answer
+28,50Kg,Apple,Vote_soft,99Kg,10,0,all_group,minPlus,answer
+29,50Kg,Apple,Bag_KNN,99Kg,10,0,all_group,minPlus,answer
+30,50Kg,Apple,SVM,50Kg,11,1,all_group,minPlus,answer
+31,50Kg,Apple,Vote_soft,99Kg,11,0,all_group,minPlus,answer
+32,50Kg,Apple,Bag_KNN,50Kg,11,1,all_group,minPlus,answer
+33,50Kg,Apple,SVM,50Kg,12,1,all_group,minPlus,answer
+34,50Kg,Apple,Vote_soft,99Kg,12,0,all_group,minPlus,answer
+35,50Kg,Apple,Bag_KNN,99Kg,12,0,all_group,minPlus,answer
+36,100,Bakery,SVM,80,13,0,all_group,minPlus,answer
+37,100,Bakery,Vote_soft,80,13,0,all_group,minPlus,answer
+38,100,Bakery,Bag_KNN,80,13,0,all_group,minPlus,answer
+39,100,Bakery,SVM,80,14,0,all_group,minPlus,answer
+40,100,Bakery,Vote_soft,80,14,0,all_group,minPlus,answer
+41,100,Bakery,Bag_KNN,80,14,0,all_group,minPlus,answer
+42,100,Bakery,SVM,100,15,1,all_group,minPlus,answer
+43,100,Bakery,Vote_soft,100,15,1,all_group,minPlus,answer
+44,100,Bakery,Bag_KNN,100,15,1,all_group,minPlus,answer
+45,87.5,Coin,SVM,87.5,16,1,all_group,minPlus,answer
+46,87.5,Coin,Vote_soft,87.5,16,1,all_group,minPlus,answer
+47,87.5,Coin,Bag_KNN,37.5,16,0,all_group,minPlus,answer
+48,87.5,Coin,SVM,87.5,17,1,all_group,minPlus,answer
+49,87.5,Coin,Vote_soft,87.5,17,1,all_group,minPlus,answer
+50,87.5,Coin,Bag_KNN,87.5,17,1,all_group,minPlus,answer
+51,87.5,Coin,SVM,87.5,18,1,all_group,minPlus,answer
+52,87.5,Coin,Vote_soft,87.5,18,1,all_group,minPlus,answer
+53,87.5,Coin,Bag_KNN,87.5,18,1,all_group,minPlus,answer
+54,1 hour,CR_Conf,SVM,1 hour,19,1,all_group,minPlus,answer
+55,1 hour,CR_Conf,Vote_soft,1 hour,19,1,all_group,minPlus,answer
+56,1 hour,CR_Conf,Bag_KNN,1 hour,19,1,all_group,minPlus,answer
+57,1 hour,CR_Conf,SVM,1 hour,20,1,all_group,minPlus,answer
+58,1 hour,CR_Conf,Vote_soft,1 hour,20,1,all_group,minPlus,answer
+59,1 hour,CR_Conf,Bag_KNN,1 hour,20,1,all_group,minPlus,answer
+60,1 hour,CR_Conf,SVM,1 hour,21,1,all_group,minPlus,answer
+61,1 hour,CR_Conf,Vote_soft,1 hour,21,1,all_group,minPlus,answer
+62,1 hour,CR_Conf,Bag_KNN,1 hour,21,1,all_group,minPlus,answer
+63,1 hour,CR_Conf,SVM,1 hour,22,1,all_group,minPlus,answer
+64,1 hour,CR_Conf,Vote_soft,1 hour,22,1,all_group,minPlus,answer
+65,1 hour,CR_Conf,Bag_KNN,There is no way to know without additional information,22,0,all_group,minPlus,answer
+66,1 hour,CR_Conf,SVM,There is no way to know without additional information,23,0,all_group,minPlus,answer
+67,1 hour,CR_Conf,Vote_soft,There is no way to know without additional information,23,0,all_group,minPlus,answer
+68,1 hour,CR_Conf,Bag_KNN,1000 minutes,23,0,all_group,minPlus,answer
+69,1 hour,CR_Conf,SVM,1000 hours,24,0,all_group,minPlus,answer
+70,1 hour,CR_Conf,Vote_soft,1000 hours,24,0,all_group,minPlus,answer
+71,1 hour,CR_Conf,Bag_KNN,1 hour,24,1,all_group,minPlus,answer
+72,1 hour,CR_Conf,SVM,1000 minutes,25,0,all_group,minPlus,answer
+73,1 hour,CR_Conf,Vote_soft,1 hour,25,1,all_group,minPlus,answer
+74,1 hour,CR_Conf,Bag_KNN,1000 minutes,25,0,all_group,minPlus,answer
+75,1 hour,CR_Conf,SVM,1000 hours,26,0,all_group,minPlus,answer
+76,1 hour,CR_Conf,Vote_soft,Infinity,26,0,all_group,minPlus,answer
+77,1 hour,CR_Conf,Bag_KNN,Infinity,26,0,all_group,minPlus,answer
+78,1 hour,CR_Conf,SVM,1 minute,27,0,all_group,minPlus,answer
+79,1 hour,CR_Conf,Vote_soft,Infinity,27,0,all_group,minPlus,answer
+80,1 hour,CR_Conf,Bag_KNN,1 minute,27,0,all_group,minPlus,answer
+81,1 hour,CR_Conf,SVM,There is no way to know without additional information,28,0,all_group,minPlus,answer
+82,1 hour,CR_Conf,Vote_soft,There is no way to know without additional information,28,0,all_group,minPlus,answer
+83,1 hour,CR_Conf,Bag_KNN,2000 hours,28,0,all_group,minPlus,answer
+84,1 hour,CR_Conf,SVM,1 hour,29,1,all_group,minPlus,answer
+85,1 hour,CR_Conf,Vote_soft,1 hour,29,1,all_group,minPlus,answer
+86,1 hour,CR_Conf,Bag_KNN,1000 minutes,29,0,all_group,minPlus,answer
+87,1 hour,CR_Conf,SVM,1 minute,30,0,all_group,minPlus,answer
+88,1 hour,CR_Conf,Vote_soft,1 hour,30,1,all_group,minPlus,answer
+89,1 hour,CR_Conf,Bag_KNN,1 hour,30,1,all_group,minPlus,answer
+90,1 hour,CR_Conf,SVM,1 hour,31,1,all_group,minPlus,answer
+91,1 hour,CR_Conf,Vote_soft,1 hour,31,1,all_group,minPlus,answer
+92,1 hour,CR_Conf,Bag_KNN,1 hour,31,1,all_group,minPlus,answer
+93,1 hour,CR_Conf,SVM,1 hour,32,1,all_group,minPlus,answer
+94,1 hour,CR_Conf,Vote_soft,Infinity,32,0,all_group,minPlus,answer
+95,1 hour,CR_Conf,Bag_KNN,1 hour,32,1,all_group,minPlus,answer
+96,1 hour,CR_Conf,SVM,1000 hours,33,0,all_group,minPlus,answer
+97,1 hour,CR_Conf,Vote_soft,Infinity,33,0,all_group,minPlus,answer
+98,1 hour,CR_Conf,Bag_KNN,There is no way to know without additional information,33,0,all_group,minPlus,answer
+99,1 hour,CR_Conf,SVM,1000 hours,34,0,all_group,minPlus,answer
+100,1 hour,CR_Conf,Vote_soft,1 minute,34,0,all_group,minPlus,answer
+101,1 hour,CR_Conf,Bag_KNN,1 minute,34,0,all_group,minPlus,answer
+102,1 hour,CR_Conf,SVM,1 hour,35,1,all_group,minPlus,answer
+103,1 hour,CR_Conf,Vote_soft,1 hour,35,1,all_group,minPlus,answer
+104,1 hour,CR_Conf,Bag_KNN,1000 minutes,35,0,all_group,minPlus,answer
+105,1 hour,CR_Conf,SVM,1 hour,36,1,all_group,minPlus,answer
+106,1 hour,CR_Conf,Vote_soft,1 hour,36,1,all_group,minPlus,answer
+107,1 hour,CR_Conf,Bag_KNN,1 hour,36,1,all_group,minPlus,answer
+108,1 hour,CR_Conf,SVM,1000 hours,37,0,all_group,minPlus,answer
+109,1 hour,CR_Conf,Vote_soft,Infinity,37,0,all_group,minPlus,answer
+110,1 hour,CR_Conf,Bag_KNN,1 hour,37,1,all_group,minPlus,answer
+111,1 hour,CR_Conf,SVM,1000 hours,38,0,all_group,minPlus,answer
+112,1 hour,CR_Conf,Vote_soft,Infinity,38,0,all_group,minPlus,answer
+113,1 hour,CR_Conf,Bag_KNN,There is no way to know without additional information,38,0,all_group,minPlus,answer
+114,1 hour,CR_Conf,SVM,1000 seconds,39,0,all_group,minPlus,answer
+115,1 hour,CR_Conf,Vote_soft,Infinity,39,0,all_group,minPlus,answer
+116,1 hour,CR_Conf,Bag_KNN,1000 seconds,39,0,all_group,minPlus,answer
+117,1 hour,CR_Conf,SVM,1 hour,40,1,all_group,minPlus,answer
+118,1 hour,CR_Conf,Vote_soft,There is no way to know without additional information,40,0,all_group,minPlus,answer
+119,1 hour,CR_Conf,Bag_KNN,1 minute,40,0,all_group,minPlus,answer
+120,1 hour,CR_Conf,SVM,2000 hours,41,0,all_group,minPlus,answer
+121,1 hour,CR_Conf,Vote_soft,1000 minutes,41,0,all_group,minPlus,answer
+122,1 hour,CR_Conf,Bag_KNN,1000 minutes,41,0,all_group,minPlus,answer
+123,1 hour,CR_Conf,SVM,2000 hours,42,0,all_group,minPlus,answer
+124,1 hour,CR_Conf,Vote_soft,Infinity,42,0,all_group,minPlus,answer
+125,1 hour,CR_Conf,Bag_KNN,Infinity,42,0,all_group,minPlus,answer
+126,1 hour,CR_Conf,SVM,There is no way to know without additional information,43,0,all_group,minPlus,answer
+127,1 hour,CR_Conf,Vote_soft,There is no way to know without additional information,43,0,all_group,minPlus,answer
+128,1 hour,CR_Conf,Bag_KNN,1000 hours,43,0,all_group,minPlus,answer
+129,1 hour,CR_Conf,SVM,There is no way to know without additional information,44,0,all_group,minPlus,answer
+130,1 hour,CR_Conf,Vote_soft,There is no way to know without additional information,44,0,all_group,minPlus,answer
+131,1 hour,CR_Conf,Bag_KNN,1000000 hours,44,0,all_group,minPlus,answer
+132,1 hour,CR_Conf,SVM,1000 minutes,45,0,all_group,minPlus,answer
+133,1 hour,CR_Conf,Vote_soft,1 hour,45,1,all_group,minPlus,answer
+134,1 hour,CR_Conf,Bag_KNN,1000 seconds,45,0,all_group,minPlus,answer
+135,1 hour,CR_Conf,SVM,1000 minutes,46,0,all_group,minPlus,answer
+136,1 hour,CR_Conf,Vote_soft,Infinity,46,0,all_group,minPlus,answer
+137,1 hour,CR_Conf,Bag_KNN,Infinity,46,0,all_group,minPlus,answer
+138,1 hour,CR_Conf,SVM,1 hour,47,1,all_group,minPlus,answer
+139,1 hour,CR_Conf,Vote_soft,1 hour,47,1,all_group,minPlus,answer
+140,1 hour,CR_Conf,Bag_KNN,1 hour,47,1,all_group,minPlus,answer
+141,1 hour,CR_Conf,SVM,Infinity,48,0,all_group,minPlus,answer
+142,1 hour,CR_Conf,Vote_soft,1 hour,48,1,all_group,minPlus,answer
+143,1 hour,CR_Conf,Bag_KNN,1 hour,48,1,all_group,minPlus,answer
+144,1 hour,CR_Conf,SVM,Infinity,49,0,all_group,minPlus,answer
+145,1 hour,CR_Conf,Vote_soft,Infinity,49,0,all_group,minPlus,answer
+146,1 hour,CR_Conf,Bag_KNN,1 hour,49,1,all_group,minPlus,answer
+147,1 hour,CR_Conf,SVM,1000 minutes,50,0,all_group,minPlus,answer
+148,1 hour,CR_Conf,Vote_soft,1000 minutes,50,0,all_group,minPlus,answer
+149,1 hour,CR_Conf,Bag_KNN,1 hour,50,1,all_group,minPlus,answer
+150,1 hour,CR_Conf,SVM,1000 seconds,51,0,all_group,minPlus,answer
+151,1 hour,CR_Conf,Vote_soft,1000 seconds,51,0,all_group,minPlus,answer
+152,1 hour,CR_Conf,Bag_KNN,1000 seconds,51,0,all_group,minPlus,answer
+153,1 hour,CR_Conf,SVM,Infinity,52,0,all_group,minPlus,answer
+154,1 hour,CR_Conf,Vote_soft,Infinity,52,0,all_group,minPlus,answer
+155,1 hour,CR_Conf,Bag_KNN,1 hour,52,1,all_group,minPlus,answer
+156,1 hour,CR_Conf,SVM,There is no way to know without additional information,53,0,all_group,minPlus,answer
+157,1 hour,CR_Conf,Vote_soft,Infinity,53,0,all_group,minPlus,answer
+158,1 hour,CR_Conf,Bag_KNN,Infinity,53,0,all_group,minPlus,answer
+159,1 hour,CR_Conf,SVM,1 hour,54,1,all_group,minPlus,answer
+160,1 hour,CR_Conf,Vote_soft,Infinity,54,0,all_group,minPlus,answer
+161,1 hour,CR_Conf,Bag_KNN,Infinity,54,0,all_group,minPlus,answer
+162,1 hour,CR_Conf,SVM,There is no way to know without additional information,55,0,all_group,minPlus,answer
+163,1 hour,CR_Conf,Vote_soft,There is no way to know without additional information,55,0,all_group,minPlus,answer
+164,1 hour,CR_Conf,Bag_KNN,There is no way to know without additional information,55,0,all_group,minPlus,answer
+165,1 hour,CR_Conf,SVM,Infinity,56,0,all_group,minPlus,answer
+166,1 hour,CR_Conf,Vote_soft,Infinity,56,0,all_group,minPlus,answer
+167,1 hour,CR_Conf,Bag_KNN,Infinity,56,0,all_group,minPlus,answer
+168,28,Frog,SVM,28,57,1,all_group,minPlus,answer
+169,28,Frog,Vote_soft,28,57,1,all_group,minPlus,answer
+170,28,Frog,Bag_KNN,28,57,1,all_group,minPlus,answer
+171,28,Frog,SVM,28,58,1,all_group,minPlus,answer
+172,28,Frog,Vote_soft,28,58,1,all_group,minPlus,answer
+173,28,Frog,Bag_KNN,28,58,1,all_group,minPlus,answer
+174,28,Frog,SVM,28,59,1,all_group,minPlus,answer
+175,28,Frog,Vote_soft,28,59,1,all_group,minPlus,answer
+176,28,Frog,Bag_KNN,28,59,1,all_group,minPlus,answer
+177,"BNPR, ACDF, EIUG",LettersDice,SVM,"BNPR, ACDF, EIUG",60,1,all_group,minPlus,answer
+178,"BNPR, ACDF, EIUG",LettersDice,Vote_soft,"BNPR, ACDF, EIUG",60,1,all_group,minPlus,answer
+179,"BNPR, ACDF, EIUG",LettersDice,Bag_KNN,"BNPR, ACDF, EIUG",60,1,all_group,minPlus,answer
+180,"BNPR, ACDF, EIUG",LettersDice,SVM,"BNPR, ACDF, EIUG",61,1,all_group,minPlus,answer
+181,"BNPR, ACDF, EIUG",LettersDice,Vote_soft,"BNPR, ACDF, EIUG",61,1,all_group,minPlus,answer
+182,"BNPR, ACDF, EIUG",LettersDice,Bag_KNN,"BNPR, ACDF, EIUG",61,1,all_group,minPlus,answer
+183,"BNPR, ACDF, EIUG",LettersDice,SVM,"BNPR, ACDF, EIUG",62,1,all_group,minPlus,answer
+184,"BNPR, ACDF, EIUG",LettersDice,Vote_soft,"BNPR, ACDF, EIUG",62,1,all_group,minPlus,answer
+185,"BNPR, ACDF, EIUG",LettersDice,Bag_KNN,"BNPR, ACDF, EIUG",62,1,all_group,minPlus,answer
+186,3,MagicPotion,SVM,8,63,0,all_group,minPlus,answer
+187,3,MagicPotion,Vote_soft,8,63,0,all_group,minPlus,answer
+188,3,MagicPotion,Bag_KNN,3,63,1,all_group,minPlus,answer
+189,3,MagicPotion,SVM,1,64,0,all_group,minPlus,answer
+190,3,MagicPotion,Vote_soft,1,64,0,all_group,minPlus,answer
+191,3,MagicPotion,Bag_KNN,1,64,0,all_group,minPlus,answer
+192,3,MagicPotion,SVM,1,65,0,all_group,minPlus,answer
+193,3,MagicPotion,Vote_soft,1,65,0,all_group,minPlus,answer
+194,3,MagicPotion,Bag_KNN,1,65,0,all_group,minPlus,answer
+195,3,MagicPotion,SVM,8,66,0,all_group,minPlus,answer
+196,3,MagicPotion,Vote_soft,8,66,0,all_group,minPlus,answer
+197,3,MagicPotion,Bag_KNN,3,66,1,all_group,minPlus,answer
+198,3,MagicPotion,SVM,1,67,0,all_group,minPlus,answer
+199,3,MagicPotion,Vote_soft,8,67,0,all_group,minPlus,answer
+200,3,MagicPotion,Bag_KNN,3,67,1,all_group,minPlus,answer
+201,3,MagicPotion,SVM,8,68,0,all_group,minPlus,answer
+202,3,MagicPotion,Vote_soft,8,68,0,all_group,minPlus,answer
+203,3,MagicPotion,Bag_KNN,3,68,1,all_group,minPlus,answer
+204,3,MagicPotion,SVM,1,69,0,all_group,minPlus,answer
+205,3,MagicPotion,Vote_soft,8,69,0,all_group,minPlus,answer
+206,3,MagicPotion,Bag_KNN,3,69,1,all_group,minPlus,answer
+207,3,MagicPotion,SVM,8,70,0,all_group,minPlus,answer
+208,3,MagicPotion,Vote_soft,8,70,0,all_group,minPlus,answer
+209,3,MagicPotion,Bag_KNN,3,70,1,all_group,minPlus,answer
+210,3,MagicPotion,SVM,3,71,1,all_group,minPlus,answer
+211,3,MagicPotion,Vote_soft,3,71,1,all_group,minPlus,answer
+212,3,MagicPotion,Bag_KNN,3,71,1,all_group,minPlus,answer
+213,3,MagicPotion,SVM,8,72,0,all_group,minPlus,answer
+214,3,MagicPotion,Vote_soft,8,72,0,all_group,minPlus,answer
+215,3,MagicPotion,Bag_KNN,3,72,1,all_group,minPlus,answer
+216,ACB,Pills,SVM,CBA,73,0,all_group,minPlus,answer
+217,ACB,Pills,Vote_soft,ACB,73,1,all_group,minPlus,answer
+218,ACB,Pills,Bag_KNN,BCA,73,0,all_group,minPlus,answer
+219,ACB,Pills,SVM,BAC,74,0,all_group,minPlus,answer
+220,ACB,Pills,Vote_soft,ACB,74,1,all_group,minPlus,answer
+221,ACB,Pills,Bag_KNN,BAC,74,0,all_group,minPlus,answer
+222,ACB,Pills,SVM,ACB,75,1,all_group,minPlus,answer
+223,ACB,Pills,Vote_soft,ACB,75,1,all_group,minPlus,answer
+224,ACB,Pills,Bag_KNN,ACB,75,1,all_group,minPlus,answer
+225,ACB,Pills,SVM,ACB,76,1,all_group,minPlus,answer
+226,ACB,Pills,Vote_soft,ACB,76,1,all_group,minPlus,answer
+227,ACB,Pills,Bag_KNN,ACB,76,1,all_group,minPlus,answer
+228,box1,SOKO2BOX,SVM,box1,77,1,all_group,minPlus,answer
+229,box1,SOKO2BOX,Vote_soft,box3,77,0,all_group,minPlus,answer
+230,box1,SOKO2BOX,Bag_KNN,box1,77,1,all_group,minPlus,answer
+231,box1,SOKO2BOX,SVM,box1,78,1,all_group,minPlus,answer
+232,box1,SOKO2BOX,Vote_soft,box1,78,1,all_group,minPlus,answer
+233,box1,SOKO2BOX,Bag_KNN,box1,78,1,all_group,minPlus,answer
+234,MM3,SOKOMM,SVM,MM4,79,0,all_group,minPlus,answer
+235,MM3,SOKOMM,Vote_soft,MM3,79,1,all_group,minPlus,answer
+236,MM3,SOKOMM,Bag_KNN,MM4,79,0,all_group,minPlus,answer
+237,MM3,SOKOMM,SVM,MM4,80,0,all_group,minPlus,answer
+238,MM3,SOKOMM,Vote_soft,MM4,80,0,all_group,minPlus,answer
+239,MM3,SOKOMM,Bag_KNN,MM4,80,0,all_group,minPlus,answer
+240,a2,Traveler,SVM,a2,81,1,all_group,minPlus,answer
+241,a2,Traveler,Vote_soft,a2,81,1,all_group,minPlus,answer
+242,a2,Traveler,Bag_KNN,a4,81,0,all_group,minPlus,answer
+243,a2,Traveler,SVM,a2,82,1,all_group,minPlus,answer
+244,a2,Traveler,Vote_soft,a2,82,1,all_group,minPlus,answer
+245,a2,Traveler,Bag_KNN,a4,82,0,all_group,minPlus,answer
+246,a2,Traveler,SVM,a4,83,0,all_group,minPlus,answer
+247,a2,Traveler,Vote_soft,a4,83,0,all_group,minPlus,answer
+248,a2,Traveler,Bag_KNN,a4,83,0,all_group,minPlus,answer
+249,8 moves,RH1,SVM,8 moves,84,1,all_group,minPlus,answer
+250,8 moves,RH1,Vote_soft,8 moves,84,1,all_group,minPlus,answer
+251,8 moves,RH1,Bag_KNN,8 moves,84,1,all_group,minPlus,answer
+252,8 moves,RH1,SVM,8 moves,85,1,all_group,minPlus,answer
+253,8 moves,RH1,Vote_soft,8 moves,85,1,all_group,minPlus,answer
+254,8 moves,RH1,Bag_KNN,More than 10 moves,85,0,all_group,minPlus,answer
+255,8 moves,RH1,SVM,More than 10 moves,86,0,all_group,minPlus,answer
+256,8 moves,RH1,Vote_soft,8 moves,86,1,all_group,minPlus,answer
+257,8 moves,RH1,Bag_KNN,More than 10 moves,86,0,all_group,minPlus,answer
+258,8 moves,RH1,SVM,7 moves,87,0,all_group,minPlus,answer
+259,8 moves,RH1,Vote_soft,8 moves,87,1,all_group,minPlus,answer
+260,8 moves,RH1,Bag_KNN,8 moves,87,1,all_group,minPlus,answer
+261,15 moves,RH2,SVM,More than 16 moves,88,0,all_group,minPlus,answer
+262,15 moves,RH2,Vote_soft,More than 16 moves,88,0,all_group,minPlus,answer
+263,15 moves,RH2,Bag_KNN,More than 16 moves,88,0,all_group,minPlus,answer
+264,15 moves,RH2,SVM,15 moves,89,1,all_group,minPlus,answer
+265,15 moves,RH2,Vote_soft,15 moves,89,1,all_group,minPlus,answer
+266,15 moves,RH2,Bag_KNN,More than 16 moves,89,0,all_group,minPlus,answer
+267,15 moves,RH2,SVM,15 moves,90,1,all_group,minPlus,answer
+268,15 moves,RH2,Vote_soft,15 moves,90,1,all_group,minPlus,answer
+269,15 moves,RH2,Bag_KNN,More than 16 moves,90,0,all_group,minPlus,answer
+270,18 moves,RH3,SVM,More than 20 moves,91,0,all_group,minPlus,answer
+271,18 moves,RH3,Vote_soft,More than 20 moves,91,0,all_group,minPlus,answer
+272,18 moves,RH3,Bag_KNN,More than 20 moves,91,0,all_group,minPlus,answer
+273,18 moves,RH3,SVM,18 moves,92,1,all_group,minPlus,answer
+274,18 moves,RH3,Vote_soft,18 moves,92,1,all_group,minPlus,answer
+275,18 moves,RH3,Bag_KNN,18 moves,92,1,all_group,minPlus,answer
+276,18 moves,RH3,SVM,18 moves,93,1,all_group,minPlus,answer
+277,18 moves,RH3,Vote_soft,18 moves,93,1,all_group,minPlus,answer
+278,18 moves,RH3,Bag_KNN,More than 20 moves,93,0,all_group,minPlus,answer
+279,Picture D,RH_4,SVM,Picture D,94,1,all_group,minPlus,answer
+280,Picture D,RH_4,Vote_soft,Picture D,94,1,all_group,minPlus,answer
+281,Picture D,RH_4,Bag_KNN,Picture D,94,1,all_group,minPlus,answer
+282,Picture D,RH_4,SVM,Picture D,95,1,all_group,minPlus,answer
+283,Picture D,RH_4,Vote_soft,Picture D,95,1,all_group,minPlus,answer
+284,Picture D,RH_4,Bag_KNN,Picture F,95,0,all_group,minPlus,answer
+285,Picture D,RH_4,SVM,Picture A,96,0,all_group,minPlus,answer
+286,Picture D,RH_4,Vote_soft,Picture D,96,1,all_group,minPlus,answer
+287,Picture D,RH_4,Bag_KNN,Picture A,96,0,all_group,minPlus,answer
+288,Picture D,RH_4,SVM,Picture D,97,1,all_group,minPlus,answer
+289,Picture D,RH_4,Vote_soft,Picture D,97,1,all_group,minPlus,answer
+290,Picture D,RH_4,Bag_KNN,Picture D,97,1,all_group,minPlus,answer
+0,435,KP_1,SVM,435,1,1,all_group,minPlus,solver
+1,435,KP_1,Vote_soft,435,1,1,all_group,minPlus,solver
+2,435,KP_1,Bag_KNN,700,1,0,all_group,minPlus,solver
+3,435,KP_1,SVM,700,2,0,all_group,minPlus,solver
+4,435,KP_1,Vote_soft,700,2,0,all_group,minPlus,solver
+5,435,KP_1,Bag_KNN,700,2,0,all_group,minPlus,solver
+6,435,KP_1,SVM,435,3,1,all_group,minPlus,solver
+7,435,KP_1,Vote_soft,435,3,1,all_group,minPlus,solver
+8,435,KP_1,Bag_KNN,435,3,1,all_group,minPlus,solver
+9,41,KP_2,SVM,41,4,1,all_group,minPlus,solver
+10,41,KP_2,Vote_soft,41,4,1,all_group,minPlus,solver
+11,41,KP_2,Bag_KNN,41,4,1,all_group,minPlus,solver
+12,41,KP_2,SVM,41,5,1,all_group,minPlus,solver
+13,41,KP_2,Vote_soft,41,5,1,all_group,minPlus,solver
+14,41,KP_2,Bag_KNN,41,5,1,all_group,minPlus,solver
+15,41,KP_2,SVM,41,6,1,all_group,minPlus,solver
+16,41,KP_2,Vote_soft,41,6,1,all_group,minPlus,solver
+17,41,KP_2,Bag_KNN,41,6,1,all_group,minPlus,solver
+18,10 miles,ThreeRobots,SVM,10 miles,7,1,all_group,minPlus,solver
+19,10 miles,ThreeRobots,Vote_soft,10 miles,7,1,all_group,minPlus,solver
+20,10 miles,ThreeRobots,Bag_KNN,10 miles,7,1,all_group,minPlus,solver
+21,10 miles,ThreeRobots,SVM,3 miles,8,0,all_group,minPlus,solver
+22,10 miles,ThreeRobots,Vote_soft,3 miles,8,0,all_group,minPlus,solver
+23,10 miles,ThreeRobots,Bag_KNN,10 miles,8,1,all_group,minPlus,solver
+24,10 miles,ThreeRobots,SVM,10 miles,9,1,all_group,minPlus,solver
+25,10 miles,ThreeRobots,Vote_soft,10 miles,9,1,all_group,minPlus,solver
+26,10 miles,ThreeRobots,Bag_KNN,10 miles,9,1,all_group,minPlus,solver
+27,50Kg,Apple,SVM,99Kg,10,0,all_group,minPlus,solver
+28,50Kg,Apple,Vote_soft,99Kg,10,0,all_group,minPlus,solver
+29,50Kg,Apple,Bag_KNN,99Kg,10,0,all_group,minPlus,solver
+30,50Kg,Apple,SVM,99Kg,11,0,all_group,minPlus,solver
+31,50Kg,Apple,Vote_soft,99Kg,11,0,all_group,minPlus,solver
+32,50Kg,Apple,Bag_KNN,99Kg,11,0,all_group,minPlus,solver
+33,50Kg,Apple,SVM,50Kg,12,1,all_group,minPlus,solver
+34,50Kg,Apple,Vote_soft,99Kg,12,0,all_group,minPlus,solver
+35,50Kg,Apple,Bag_KNN,99Kg,12,0,all_group,minPlus,solver
+36,100,Bakery,SVM,80,13,0,all_group,minPlus,solver
+37,100,Bakery,Vote_soft,80,13,0,all_group,minPlus,solver
+38,100,Bakery,Bag_KNN,80,13,0,all_group,minPlus,solver
+39,100,Bakery,SVM,80,14,0,all_group,minPlus,solver
+40,100,Bakery,Vote_soft,80,14,0,all_group,minPlus,solver
+41,100,Bakery,Bag_KNN,80,14,0,all_group,minPlus,solver
+42,100,Bakery,SVM,80,15,0,all_group,minPlus,solver
+43,100,Bakery,Vote_soft,100,15,1,all_group,minPlus,solver
+44,100,Bakery,Bag_KNN,100,15,1,all_group,minPlus,solver
+45,87.5,Coin,SVM,87.5,16,1,all_group,minPlus,solver
+46,87.5,Coin,Vote_soft,87.5,16,1,all_group,minPlus,solver
+47,87.5,Coin,Bag_KNN,87.5,16,1,all_group,minPlus,solver
+48,87.5,Coin,SVM,87.5,17,1,all_group,minPlus,solver
+49,87.5,Coin,Vote_soft,87.5,17,1,all_group,minPlus,solver
+50,87.5,Coin,Bag_KNN,87.5,17,1,all_group,minPlus,solver
+51,87.5,Coin,SVM,87.5,18,1,all_group,minPlus,solver
+52,87.5,Coin,Vote_soft,87.5,18,1,all_group,minPlus,solver
+53,87.5,Coin,Bag_KNN,50,18,0,all_group,minPlus,solver
+54,1 hour,CR_Conf,SVM,1 hour,19,1,all_group,minPlus,solver
+55,1 hour,CR_Conf,Vote_soft,1 hour,19,1,all_group,minPlus,solver
+56,1 hour,CR_Conf,Bag_KNN,1 hour,19,1,all_group,minPlus,solver
+57,1 hour,CR_Conf,SVM,1 hour,20,1,all_group,minPlus,solver
+58,1 hour,CR_Conf,Vote_soft,1 hour,20,1,all_group,minPlus,solver
+59,1 hour,CR_Conf,Bag_KNN,1 hour,20,1,all_group,minPlus,solver
+60,1 hour,CR_Conf,SVM,1 hour,21,1,all_group,minPlus,solver
+61,1 hour,CR_Conf,Vote_soft,Infinity,21,0,all_group,minPlus,solver
+62,1 hour,CR_Conf,Bag_KNN,1 hour,21,1,all_group,minPlus,solver
+63,1 hour,CR_Conf,SVM,There is no way to know without additional information,22,0,all_group,minPlus,solver
+64,1 hour,CR_Conf,Vote_soft,There is no way to know without additional information,22,0,all_group,minPlus,solver
+65,1 hour,CR_Conf,Bag_KNN,There is no way to know without additional information,22,0,all_group,minPlus,solver
+66,1 hour,CR_Conf,SVM,There is no way to know without additional information,23,0,all_group,minPlus,solver
+67,1 hour,CR_Conf,Vote_soft,There is no way to know without additional information,23,0,all_group,minPlus,solver
+68,1 hour,CR_Conf,Bag_KNN,1 hour,23,1,all_group,minPlus,solver
+69,1 hour,CR_Conf,SVM,There is no way to know without additional information,24,0,all_group,minPlus,solver
+70,1 hour,CR_Conf,Vote_soft,1000 minutes,24,0,all_group,minPlus,solver
+71,1 hour,CR_Conf,Bag_KNN,1000 hours,24,0,all_group,minPlus,solver
+72,1 hour,CR_Conf,SVM,1 hour,25,1,all_group,minPlus,solver
+73,1 hour,CR_Conf,Vote_soft,1 hour,25,1,all_group,minPlus,solver
+74,1 hour,CR_Conf,Bag_KNN,1000 hours,25,0,all_group,minPlus,solver
+75,1 hour,CR_Conf,SVM,Infinity,26,0,all_group,minPlus,solver
+76,1 hour,CR_Conf,Vote_soft,1 hour,26,1,all_group,minPlus,solver
+77,1 hour,CR_Conf,Bag_KNN,There is no way to know without additional information,26,0,all_group,minPlus,solver
+78,1 hour,CR_Conf,SVM,Infinity,27,0,all_group,minPlus,solver
+79,1 hour,CR_Conf,Vote_soft,Infinity,27,0,all_group,minPlus,solver
+80,1 hour,CR_Conf,Bag_KNN,1000 hours,27,0,all_group,minPlus,solver
+81,1 hour,CR_Conf,SVM,There is no way to know without additional information,28,0,all_group,minPlus,solver
+82,1 hour,CR_Conf,Vote_soft,There is no way to know without additional information,28,0,all_group,minPlus,solver
+83,1 hour,CR_Conf,Bag_KNN,1 hour,28,1,all_group,minPlus,solver
+84,1 hour,CR_Conf,SVM,1 minute,29,0,all_group,minPlus,solver
+85,1 hour,CR_Conf,Vote_soft,1 hour,29,1,all_group,minPlus,solver
+86,1 hour,CR_Conf,Bag_KNN,1 hour,29,1,all_group,minPlus,solver
+87,1 hour,CR_Conf,SVM,1 hour,30,1,all_group,minPlus,solver
+88,1 hour,CR_Conf,Vote_soft,1 hour,30,1,all_group,minPlus,solver
+89,1 hour,CR_Conf,Bag_KNN,1 hour,30,1,all_group,minPlus,solver
+90,1 hour,CR_Conf,SVM,There is no way to know without additional information,31,0,all_group,minPlus,solver
+91,1 hour,CR_Conf,Vote_soft,There is no way to know without additional information,31,0,all_group,minPlus,solver
+92,1 hour,CR_Conf,Bag_KNN,There is no way to know without additional information,31,0,all_group,minPlus,solver
+93,1 hour,CR_Conf,SVM,Infinity,32,0,all_group,minPlus,solver
+94,1 hour,CR_Conf,Vote_soft,Infinity,32,0,all_group,minPlus,solver
+95,1 hour,CR_Conf,Bag_KNN,Infinity,32,0,all_group,minPlus,solver
+96,1 hour,CR_Conf,SVM,There is no way to know without additional information,33,0,all_group,minPlus,solver
+97,1 hour,CR_Conf,Vote_soft,1 minute,33,0,all_group,minPlus,solver
+98,1 hour,CR_Conf,Bag_KNN,Infinity,33,0,all_group,minPlus,solver
+99,1 hour,CR_Conf,SVM,1 minute,34,0,all_group,minPlus,solver
+100,1 hour,CR_Conf,Vote_soft,1 minute,34,0,all_group,minPlus,solver
+101,1 hour,CR_Conf,Bag_KNN,1 minute,34,0,all_group,minPlus,solver
+102,1 hour,CR_Conf,SVM,There is no way to know without additional information,35,0,all_group,minPlus,solver
+103,1 hour,CR_Conf,Vote_soft,1000 minutes,35,0,all_group,minPlus,solver
+104,1 hour,CR_Conf,Bag_KNN,1000 minutes,35,0,all_group,minPlus,solver
+105,1 hour,CR_Conf,SVM,There is no way to know without additional information,36,0,all_group,minPlus,solver
+106,1 hour,CR_Conf,Vote_soft,1000 hours,36,0,all_group,minPlus,solver
+107,1 hour,CR_Conf,Bag_KNN,1 minute,36,0,all_group,minPlus,solver
+108,1 hour,CR_Conf,SVM,1000 hours,37,0,all_group,minPlus,solver
+109,1 hour,CR_Conf,Vote_soft,1000 hours,37,0,all_group,minPlus,solver
+110,1 hour,CR_Conf,Bag_KNN,1000 hours,37,0,all_group,minPlus,solver
+111,1 hour,CR_Conf,SVM,Infinity,38,0,all_group,minPlus,solver
+112,1 hour,CR_Conf,Vote_soft,1000 seconds,38,0,all_group,minPlus,solver
+113,1 hour,CR_Conf,Bag_KNN,1000 seconds,38,0,all_group,minPlus,solver
+114,1 hour,CR_Conf,SVM,1 hour,39,1,all_group,minPlus,solver
+115,1 hour,CR_Conf,Vote_soft,1 hour,39,1,all_group,minPlus,solver
+116,1 hour,CR_Conf,Bag_KNN,1 hour,39,1,all_group,minPlus,solver
+117,1 hour,CR_Conf,SVM,1 hour,40,1,all_group,minPlus,solver
+118,1 hour,CR_Conf,Vote_soft,There is no way to know without additional information,40,0,all_group,minPlus,solver
+119,1 hour,CR_Conf,Bag_KNN,There is no way to know without additional information,40,0,all_group,minPlus,solver
+120,1 hour,CR_Conf,SVM,1000 seconds,41,0,all_group,minPlus,solver
+121,1 hour,CR_Conf,Vote_soft,1000 seconds,41,0,all_group,minPlus,solver
+122,1 hour,CR_Conf,Bag_KNN,1 hour,41,1,all_group,minPlus,solver
+123,1 hour,CR_Conf,SVM,1000 minutes,42,0,all_group,minPlus,solver
+124,1 hour,CR_Conf,Vote_soft,Infinity,42,0,all_group,minPlus,solver
+125,1 hour,CR_Conf,Bag_KNN,2000 hours,42,0,all_group,minPlus,solver
+126,1 hour,CR_Conf,SVM,1000 hours,43,0,all_group,minPlus,solver
+127,1 hour,CR_Conf,Vote_soft,1 minute,43,0,all_group,minPlus,solver
+128,1 hour,CR_Conf,Bag_KNN,1 minute,43,0,all_group,minPlus,solver
+129,1 hour,CR_Conf,SVM,There is no way to know without additional information,44,0,all_group,minPlus,solver
+130,1 hour,CR_Conf,Vote_soft,There is no way to know without additional information,44,0,all_group,minPlus,solver
+131,1 hour,CR_Conf,Bag_KNN,1 hour,44,1,all_group,minPlus,solver
+132,1 hour,CR_Conf,SVM,1000 minutes,45,0,all_group,minPlus,solver
+133,1 hour,CR_Conf,Vote_soft,1000 hours,45,0,all_group,minPlus,solver
+134,1 hour,CR_Conf,Bag_KNN,1000 hours,45,0,all_group,minPlus,solver
+135,1 hour,CR_Conf,SVM,Infinity,46,0,all_group,minPlus,solver
+136,1 hour,CR_Conf,Vote_soft,There is no way to know without additional information,46,0,all_group,minPlus,solver
+137,1 hour,CR_Conf,Bag_KNN,1000 seconds,46,0,all_group,minPlus,solver
+138,1 hour,CR_Conf,SVM,Infinity,47,0,all_group,minPlus,solver
+139,1 hour,CR_Conf,Vote_soft,1000 minutes,47,0,all_group,minPlus,solver
+140,1 hour,CR_Conf,Bag_KNN,Infinity,47,0,all_group,minPlus,solver
+141,1 hour,CR_Conf,SVM,There is no way to know without additional information,48,0,all_group,minPlus,solver
+142,1 hour,CR_Conf,Vote_soft,There is no way to know without additional information,48,0,all_group,minPlus,solver
+143,1 hour,CR_Conf,Bag_KNN,There is no way to know without additional information,48,0,all_group,minPlus,solver
+144,1 hour,CR_Conf,SVM,Infinity,49,0,all_group,minPlus,solver
+145,1 hour,CR_Conf,Vote_soft,Infinity,49,0,all_group,minPlus,solver
+146,1 hour,CR_Conf,Bag_KNN,Infinity,49,0,all_group,minPlus,solver
+147,1 hour,CR_Conf,SVM,1000 minutes,50,0,all_group,minPlus,solver
+148,1 hour,CR_Conf,Vote_soft,1 hour,50,1,all_group,minPlus,solver
+149,1 hour,CR_Conf,Bag_KNN,1 hour,50,1,all_group,minPlus,solver
+150,1 hour,CR_Conf,SVM,1000 seconds,51,0,all_group,minPlus,solver
+151,1 hour,CR_Conf,Vote_soft,1 hour,51,1,all_group,minPlus,solver
+152,1 hour,CR_Conf,Bag_KNN,1 minute,51,0,all_group,minPlus,solver
+153,1 hour,CR_Conf,SVM,Infinity,52,0,all_group,minPlus,solver
+154,1 hour,CR_Conf,Vote_soft,Infinity,52,0,all_group,minPlus,solver
+155,1 hour,CR_Conf,Bag_KNN,There is no way to know without additional information,52,0,all_group,minPlus,solver
+156,1 hour,CR_Conf,SVM,There is no way to know without additional information,53,0,all_group,minPlus,solver
+157,1 hour,CR_Conf,Vote_soft,There is no way to know without additional information,53,0,all_group,minPlus,solver
+158,1 hour,CR_Conf,Bag_KNN,1000 minutes,53,0,all_group,minPlus,solver
+159,1 hour,CR_Conf,SVM,There is no way to know without additional information,54,0,all_group,minPlus,solver
+160,1 hour,CR_Conf,Vote_soft,1000 hours,54,0,all_group,minPlus,solver
+161,1 hour,CR_Conf,Bag_KNN,1000 hours,54,0,all_group,minPlus,solver
+162,1 hour,CR_Conf,SVM,There is no way to know without additional information,55,0,all_group,minPlus,solver
+163,1 hour,CR_Conf,Vote_soft,There is no way to know without additional information,55,0,all_group,minPlus,solver
+164,1 hour,CR_Conf,Bag_KNN,There is no way to know without additional information,55,0,all_group,minPlus,solver
+165,1 hour,CR_Conf,SVM,Infinity,56,0,all_group,minPlus,solver
+166,1 hour,CR_Conf,Vote_soft,Infinity,56,0,all_group,minPlus,solver
+167,1 hour,CR_Conf,Bag_KNN,1 hour,56,1,all_group,minPlus,solver
+168,28,Frog,SVM,28,57,1,all_group,minPlus,solver
+169,28,Frog,Vote_soft,28,57,1,all_group,minPlus,solver
+170,28,Frog,Bag_KNN,28,57,1,all_group,minPlus,solver
+171,28,Frog,SVM,28,58,1,all_group,minPlus,solver
+172,28,Frog,Vote_soft,28,58,1,all_group,minPlus,solver
+173,28,Frog,Bag_KNN,28,58,1,all_group,minPlus,solver
+174,28,Frog,SVM,28,59,1,all_group,minPlus,solver
+175,28,Frog,Vote_soft,28,59,1,all_group,minPlus,solver
+176,28,Frog,Bag_KNN,28,59,1,all_group,minPlus,solver
+177,"BNPR, ACDF, EIUG",LettersDice,SVM,"BNPR, ACDF, EIUG",60,1,all_group,minPlus,solver
+178,"BNPR, ACDF, EIUG",LettersDice,Vote_soft,"BNPR, ACDF, EIUG",60,1,all_group,minPlus,solver
+179,"BNPR, ACDF, EIUG",LettersDice,Bag_KNN,"BNPR, ACDF, EIUG",60,1,all_group,minPlus,solver
+180,"BNPR, ACDF, EIUG",LettersDice,SVM,"BNPR, ACDF, EIUG",61,1,all_group,minPlus,solver
+181,"BNPR, ACDF, EIUG",LettersDice,Vote_soft,"BNPR, ACDF, EIUG",61,1,all_group,minPlus,solver
+182,"BNPR, ACDF, EIUG",LettersDice,Bag_KNN,"BNPR, ACDF, EIUG",61,1,all_group,minPlus,solver
+183,"BNPR, ACDF, EIUG",LettersDice,SVM,"BNPR, ACDF, EIUG",62,1,all_group,minPlus,solver
+184,"BNPR, ACDF, EIUG",LettersDice,Vote_soft,"BNPR, ACDF, EIUG",62,1,all_group,minPlus,solver
+185,"BNPR, ACDF, EIUG",LettersDice,Bag_KNN,"BNPR, ACDF, EIUG",62,1,all_group,minPlus,solver
+186,3,MagicPotion,SVM,8,63,0,all_group,minPlus,solver
+187,3,MagicPotion,Vote_soft,8,63,0,all_group,minPlus,solver
+188,3,MagicPotion,Bag_KNN,3,63,1,all_group,minPlus,solver
+189,3,MagicPotion,SVM,1,64,0,all_group,minPlus,solver
+190,3,MagicPotion,Vote_soft,1,64,0,all_group,minPlus,solver
+191,3,MagicPotion,Bag_KNN,8,64,0,all_group,minPlus,solver
+192,3,MagicPotion,SVM,1,65,0,all_group,minPlus,solver
+193,3,MagicPotion,Vote_soft,1,65,0,all_group,minPlus,solver
+194,3,MagicPotion,Bag_KNN,3,65,1,all_group,minPlus,solver
+195,3,MagicPotion,SVM,8,66,0,all_group,minPlus,solver
+196,3,MagicPotion,Vote_soft,3,66,1,all_group,minPlus,solver
+197,3,MagicPotion,Bag_KNN,3,66,1,all_group,minPlus,solver
+198,3,MagicPotion,SVM,8,67,0,all_group,minPlus,solver
+199,3,MagicPotion,Vote_soft,8,67,0,all_group,minPlus,solver
+200,3,MagicPotion,Bag_KNN,3,67,1,all_group,minPlus,solver
+201,3,MagicPotion,SVM,8,68,0,all_group,minPlus,solver
+202,3,MagicPotion,Vote_soft,3,68,1,all_group,minPlus,solver
+203,3,MagicPotion,Bag_KNN,3,68,1,all_group,minPlus,solver
+204,3,MagicPotion,SVM,1,69,0,all_group,minPlus,solver
+205,3,MagicPotion,Vote_soft,3,69,1,all_group,minPlus,solver
+206,3,MagicPotion,Bag_KNN,3,69,1,all_group,minPlus,solver
+207,3,MagicPotion,SVM,8,70,0,all_group,minPlus,solver
+208,3,MagicPotion,Vote_soft,3,70,1,all_group,minPlus,solver
+209,3,MagicPotion,Bag_KNN,3,70,1,all_group,minPlus,solver
+210,3,MagicPotion,SVM,1,71,0,all_group,minPlus,solver
+211,3,MagicPotion,Vote_soft,3,71,1,all_group,minPlus,solver
+212,3,MagicPotion,Bag_KNN,3,71,1,all_group,minPlus,solver
+213,3,MagicPotion,SVM,8,72,0,all_group,minPlus,solver
+214,3,MagicPotion,Vote_soft,8,72,0,all_group,minPlus,solver
+215,3,MagicPotion,Bag_KNN,3,72,1,all_group,minPlus,solver
+216,ACB,Pills,SVM,ACB,73,1,all_group,minPlus,solver
+217,ACB,Pills,Vote_soft,ACB,73,1,all_group,minPlus,solver
+218,ACB,Pills,Bag_KNN,ACB,73,1,all_group,minPlus,solver
+219,ACB,Pills,SVM,ACB,74,1,all_group,minPlus,solver
+220,ACB,Pills,Vote_soft,ACB,74,1,all_group,minPlus,solver
+221,ACB,Pills,Bag_KNN,BAC,74,0,all_group,minPlus,solver
+222,ACB,Pills,SVM,ACB,75,1,all_group,minPlus,solver
+223,ACB,Pills,Vote_soft,ACB,75,1,all_group,minPlus,solver
+224,ACB,Pills,Bag_KNN,ACB,75,1,all_group,minPlus,solver
+225,ACB,Pills,SVM,ACB,76,1,all_group,minPlus,solver
+226,ACB,Pills,Vote_soft,ACB,76,1,all_group,minPlus,solver
+227,ACB,Pills,Bag_KNN,ACB,76,1,all_group,minPlus,solver
+228,box1,SOKO2BOX,SVM,box1,77,1,all_group,minPlus,solver
+229,box1,SOKO2BOX,Vote_soft,box1,77,1,all_group,minPlus,solver
+230,box1,SOKO2BOX,Bag_KNN,box3,77,0,all_group,minPlus,solver
+231,box1,SOKO2BOX,SVM,box1,78,1,all_group,minPlus,solver
+232,box1,SOKO2BOX,Vote_soft,box1,78,1,all_group,minPlus,solver
+233,box1,SOKO2BOX,Bag_KNN,box1,78,1,all_group,minPlus,solver
+234,MM3,SOKOMM,SVM,MM4,79,0,all_group,minPlus,solver
+235,MM3,SOKOMM,Vote_soft,MM4,79,0,all_group,minPlus,solver
+236,MM3,SOKOMM,Bag_KNN,MM3,79,1,all_group,minPlus,solver
+237,MM3,SOKOMM,SVM,MM4,80,0,all_group,minPlus,solver
+238,MM3,SOKOMM,Vote_soft,MM4,80,0,all_group,minPlus,solver
+239,MM3,SOKOMM,Bag_KNN,MM3,80,1,all_group,minPlus,solver
+240,a2,Traveler,SVM,a2,81,1,all_group,minPlus,solver
+241,a2,Traveler,Vote_soft,a2,81,1,all_group,minPlus,solver
+242,a2,Traveler,Bag_KNN,a2,81,1,all_group,minPlus,solver
+243,a2,Traveler,SVM,a2,82,1,all_group,minPlus,solver
+244,a2,Traveler,Vote_soft,a2,82,1,all_group,minPlus,solver
+245,a2,Traveler,Bag_KNN,a2,82,1,all_group,minPlus,solver
+246,a2,Traveler,SVM,a4,83,0,all_group,minPlus,solver
+247,a2,Traveler,Vote_soft,a4,83,0,all_group,minPlus,solver
+248,a2,Traveler,Bag_KNN,a4,83,0,all_group,minPlus,solver
+249,8 moves,RH1,SVM,8 moves,84,1,all_group,minPlus,solver
+250,8 moves,RH1,Vote_soft,8 moves,84,1,all_group,minPlus,solver
+251,8 moves,RH1,Bag_KNN,8 moves,84,1,all_group,minPlus,solver
+252,8 moves,RH1,SVM,8 moves,85,1,all_group,minPlus,solver
+253,8 moves,RH1,Vote_soft,8 moves,85,1,all_group,minPlus,solver
+254,8 moves,RH1,Bag_KNN,8 moves,85,1,all_group,minPlus,solver
+255,8 moves,RH1,SVM,More than 10 moves,86,0,all_group,minPlus,solver
+256,8 moves,RH1,Vote_soft,8 moves,86,1,all_group,minPlus,solver
+257,8 moves,RH1,Bag_KNN,8 moves,86,1,all_group,minPlus,solver
+258,8 moves,RH1,SVM,8 moves,87,1,all_group,minPlus,solver
+259,8 moves,RH1,Vote_soft,8 moves,87,1,all_group,minPlus,solver
+260,8 moves,RH1,Bag_KNN,8 moves,87,1,all_group,minPlus,solver
+261,15 moves,RH2,SVM,More than 16 moves,88,0,all_group,minPlus,solver
+262,15 moves,RH2,Vote_soft,More than 16 moves,88,0,all_group,minPlus,solver
+263,15 moves,RH2,Bag_KNN,More than 16 moves,88,0,all_group,minPlus,solver
+264,15 moves,RH2,SVM,15 moves,89,1,all_group,minPlus,solver
+265,15 moves,RH2,Vote_soft,More than 16 moves,89,0,all_group,minPlus,solver
+266,15 moves,RH2,Bag_KNN,More than 16 moves,89,0,all_group,minPlus,solver
+267,15 moves,RH2,SVM,15 moves,90,1,all_group,minPlus,solver
+268,15 moves,RH2,Vote_soft,15 moves,90,1,all_group,minPlus,solver
+269,15 moves,RH2,Bag_KNN,15 moves,90,1,all_group,minPlus,solver
+270,18 moves,RH3,SVM,More than 20 moves,91,0,all_group,minPlus,solver
+271,18 moves,RH3,Vote_soft,More than 20 moves,91,0,all_group,minPlus,solver
+272,18 moves,RH3,Bag_KNN,18 moves,91,1,all_group,minPlus,solver
+273,18 moves,RH3,SVM,18 moves,92,1,all_group,minPlus,solver
+274,18 moves,RH3,Vote_soft,18 moves,92,1,all_group,minPlus,solver
+275,18 moves,RH3,Bag_KNN,18 moves,92,1,all_group,minPlus,solver
+276,18 moves,RH3,SVM,18 moves,93,1,all_group,minPlus,solver
+277,18 moves,RH3,Vote_soft,18 moves,93,1,all_group,minPlus,solver
+278,18 moves,RH3,Bag_KNN,18 moves,93,1,all_group,minPlus,solver
+279,Picture D,RH_4,SVM,Picture D,94,1,all_group,minPlus,solver
+280,Picture D,RH_4,Vote_soft,Picture D,94,1,all_group,minPlus,solver
+281,Picture D,RH_4,Bag_KNN,Picture D,94,1,all_group,minPlus,solver
+282,Picture D,RH_4,SVM,Picture D,95,1,all_group,minPlus,solver
+283,Picture D,RH_4,Vote_soft,Picture D,95,1,all_group,minPlus,solver
+284,Picture D,RH_4,Bag_KNN,Picture D,95,1,all_group,minPlus,solver
+285,Picture D,RH_4,SVM,Picture D,96,1,all_group,minPlus,solver
+286,Picture D,RH_4,Vote_soft,Picture D,96,1,all_group,minPlus,solver
+287,Picture D,RH_4,Bag_KNN,Picture D,96,1,all_group,minPlus,solver
+288,Picture D,RH_4,SVM,Picture D,97,1,all_group,minPlus,solver
+289,Picture D,RH_4,Vote_soft,Picture D,97,1,all_group,minPlus,solver
+290,Picture D,RH_4,Bag_KNN,Picture D,97,1,all_group,minPlus,solver
+0,435,KP_1,Combined_prediction,435,1,1,all_group,minPlus,combined
+1,435,KP_1,Combined_prediction,700,2,0,all_group,minPlus,combined
+2,435,KP_1,Combined_prediction,435,3,1,all_group,minPlus,combined
+3,41,KP_2,Combined_prediction,41,4,1,all_group,minPlus,combined
+4,41,KP_2,Combined_prediction,41,5,1,all_group,minPlus,combined
+5,41,KP_2,Combined_prediction,41,6,1,all_group,minPlus,combined
+6,10 miles,ThreeRobots,Combined_prediction,10 miles,7,1,all_group,minPlus,combined
+7,10 miles,ThreeRobots,Combined_prediction,3 miles,8,0,all_group,minPlus,combined
+8,10 miles,ThreeRobots,Combined_prediction,10 miles,9,1,all_group,minPlus,combined
+9,50Kg,Apple,Combined_prediction,99Kg,10,0,all_group,minPlus,combined
+10,50Kg,Apple,Combined_prediction,99Kg,11,0,all_group,minPlus,combined
+11,50Kg,Apple,Combined_prediction,99Kg,12,0,all_group,minPlus,combined
+12,100,Bakery,Combined_prediction,80,13,0,all_group,minPlus,combined
+13,100,Bakery,Combined_prediction,80,14,0,all_group,minPlus,combined
+14,100,Bakery,Combined_prediction,100,15,1,all_group,minPlus,combined
+15,87.5,Coin,Combined_prediction,87.5,16,1,all_group,minPlus,combined
+16,87.5,Coin,Combined_prediction,87.5,17,1,all_group,minPlus,combined
+17,87.5,Coin,Combined_prediction,87.5,18,1,all_group,minPlus,combined
+18,1 hour,CR_Conf,Combined_prediction,1 hour,19,1,all_group,minPlus,combined
+19,1 hour,CR_Conf,Combined_prediction,1 hour,20,1,all_group,minPlus,combined
+20,1 hour,CR_Conf,Combined_prediction,Infinity,21,0,all_group,minPlus,combined
+21,1 hour,CR_Conf,Combined_prediction,There is no way to know without additional information,22,0,all_group,minPlus,combined
+22,1 hour,CR_Conf,Combined_prediction,There is no way to know without additional information,23,0,all_group,minPlus,combined
+23,1 hour,CR_Conf,Combined_prediction,1000 minutes,24,0,all_group,minPlus,combined
+24,1 hour,CR_Conf,Combined_prediction,1 hour,25,1,all_group,minPlus,combined
+25,1 hour,CR_Conf,Combined_prediction,Infinity,26,0,all_group,minPlus,combined
+26,1 hour,CR_Conf,Combined_prediction,Infinity,27,0,all_group,minPlus,combined
+27,1 hour,CR_Conf,Combined_prediction,There is no way to know without additional information,28,0,all_group,minPlus,combined
+28,1 hour,CR_Conf,Combined_prediction,1 hour,29,1,all_group,minPlus,combined
+29,1 hour,CR_Conf,Combined_prediction,1 hour,30,1,all_group,minPlus,combined
+30,1 hour,CR_Conf,Combined_prediction,There is no way to know without additional information,31,0,all_group,minPlus,combined
+31,1 hour,CR_Conf,Combined_prediction,Infinity,32,0,all_group,minPlus,combined
+32,1 hour,CR_Conf,Combined_prediction,Infinity,33,0,all_group,minPlus,combined
+33,1 hour,CR_Conf,Combined_prediction,1 minute,34,0,all_group,minPlus,combined
+34,1 hour,CR_Conf,Combined_prediction,1000 minutes,35,0,all_group,minPlus,combined
+35,1 hour,CR_Conf,Combined_prediction,1000 hours,36,0,all_group,minPlus,combined
+36,1 hour,CR_Conf,Combined_prediction,1000 hours,37,0,all_group,minPlus,combined
+37,1 hour,CR_Conf,Combined_prediction,1000 seconds,38,0,all_group,minPlus,combined
+38,1 hour,CR_Conf,Combined_prediction,1 hour,39,1,all_group,minPlus,combined
+39,1 hour,CR_Conf,Combined_prediction,There is no way to know without additional information,40,0,all_group,minPlus,combined
+40,1 hour,CR_Conf,Combined_prediction,1000 seconds,41,0,all_group,minPlus,combined
+41,1 hour,CR_Conf,Combined_prediction,Infinity,42,0,all_group,minPlus,combined
+42,1 hour,CR_Conf,Combined_prediction,1 minute,43,0,all_group,minPlus,combined
+43,1 hour,CR_Conf,Combined_prediction,There is no way to know without additional information,44,0,all_group,minPlus,combined
+44,1 hour,CR_Conf,Combined_prediction,1 hour,45,1,all_group,minPlus,combined
+45,1 hour,CR_Conf,Combined_prediction,Infinity,46,0,all_group,minPlus,combined
+46,1 hour,CR_Conf,Combined_prediction,Infinity,47,0,all_group,minPlus,combined
+47,1 hour,CR_Conf,Combined_prediction,There is no way to know without additional information,48,0,all_group,minPlus,combined
+48,1 hour,CR_Conf,Combined_prediction,Infinity,49,0,all_group,minPlus,combined
+49,1 hour,CR_Conf,Combined_prediction,1 hour,50,1,all_group,minPlus,combined
+50,1 hour,CR_Conf,Combined_prediction,1 hour,51,1,all_group,minPlus,combined
+51,1 hour,CR_Conf,Combined_prediction,Infinity,52,0,all_group,minPlus,combined
+52,1 hour,CR_Conf,Combined_prediction,There is no way to know without additional information,53,0,all_group,minPlus,combined
+53,1 hour,CR_Conf,Combined_prediction,1000 hours,54,0,all_group,minPlus,combined
+54,1 hour,CR_Conf,Combined_prediction,There is no way to know without additional information,55,0,all_group,minPlus,combined
+55,1 hour,CR_Conf,Combined_prediction,Infinity,56,0,all_group,minPlus,combined
+56,28,Frog,Combined_prediction,28,57,1,all_group,minPlus,combined
+57,28,Frog,Combined_prediction,28,58,1,all_group,minPlus,combined
+58,28,Frog,Combined_prediction,28,59,1,all_group,minPlus,combined
+59,"BNPR, ACDF, EIUG",LettersDice,Combined_prediction,"BNPR, ACDF, EIUG",60,1,all_group,minPlus,combined
+60,"BNPR, ACDF, EIUG",LettersDice,Combined_prediction,"BNPR, ACDF, EIUG",61,1,all_group,minPlus,combined
+61,"BNPR, ACDF, EIUG",LettersDice,Combined_prediction,"BNPR, ACDF, EIUG",62,1,all_group,minPlus,combined
+62,3,MagicPotion,Combined_prediction,8,63,0,all_group,minPlus,combined
+63,3,MagicPotion,Combined_prediction,1,64,0,all_group,minPlus,combined
+64,3,MagicPotion,Combined_prediction,1,65,0,all_group,minPlus,combined
+65,3,MagicPotion,Combined_prediction,3,66,1,all_group,minPlus,combined
+66,3,MagicPotion,Combined_prediction,8,67,0,all_group,minPlus,combined
+67,3,MagicPotion,Combined_prediction,3,68,1,all_group,minPlus,combined
+68,3,MagicPotion,Combined_prediction,3,69,1,all_group,minPlus,combined
+69,3,MagicPotion,Combined_prediction,3,70,1,all_group,minPlus,combined
+70,3,MagicPotion,Combined_prediction,3,71,1,all_group,minPlus,combined
+71,3,MagicPotion,Combined_prediction,8,72,0,all_group,minPlus,combined
+72,ACB,Pills,Combined_prediction,ACB,73,1,all_group,minPlus,combined
+73,ACB,Pills,Combined_prediction,ACB,74,1,all_group,minPlus,combined
+74,ACB,Pills,Combined_prediction,ACB,75,1,all_group,minPlus,combined
+75,ACB,Pills,Combined_prediction,ACB,76,1,all_group,minPlus,combined
+76,box1,SOKO2BOX,Combined_prediction,box1,77,1,all_group,minPlus,combined
+77,box1,SOKO2BOX,Combined_prediction,box1,78,1,all_group,minPlus,combined
+78,MM3,SOKOMM,Combined_prediction,MM4,79,0,all_group,minPlus,combined
+79,MM3,SOKOMM,Combined_prediction,MM4,80,0,all_group,minPlus,combined
+80,a2,Traveler,Combined_prediction,a2,81,1,all_group,minPlus,combined
+81,a2,Traveler,Combined_prediction,a2,82,1,all_group,minPlus,combined
+82,a2,Traveler,Combined_prediction,a4,83,0,all_group,minPlus,combined
+83,8 moves,RH1,Combined_prediction,8 moves,84,1,all_group,minPlus,combined
+84,8 moves,RH1,Combined_prediction,8 moves,85,1,all_group,minPlus,combined
+85,8 moves,RH1,Combined_prediction,8 moves,86,1,all_group,minPlus,combined
+86,8 moves,RH1,Combined_prediction,8 moves,87,1,all_group,minPlus,combined
+87,15 moves,RH2,Combined_prediction,More than 16 moves,88,0,all_group,minPlus,combined
+88,15 moves,RH2,Combined_prediction,More than 16 moves,89,0,all_group,minPlus,combined
+89,15 moves,RH2,Combined_prediction,15 moves,90,1,all_group,minPlus,combined
+90,18 moves,RH3,Combined_prediction,More than 20 moves,91,0,all_group,minPlus,combined
+91,18 moves,RH3,Combined_prediction,18 moves,92,1,all_group,minPlus,combined
+92,18 moves,RH3,Combined_prediction,18 moves,93,1,all_group,minPlus,combined
+93,Picture D,RH_4,Combined_prediction,Picture D,94,1,all_group,minPlus,combined
+94,Picture D,RH_4,Combined_prediction,Picture D,95,1,all_group,minPlus,combined
+95,Picture D,RH_4,Combined_prediction,Picture D,96,1,all_group,minPlus,combined
+96,Picture D,RH_4,Combined_prediction,Picture D,97,1,all_group,minPlus,combined

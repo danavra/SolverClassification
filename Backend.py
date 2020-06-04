@@ -61,20 +61,24 @@ def create_db():
 @app.route('/db_analasys', methods=['POST'])
 def db_analasys():
  print("***********************************\n  Running function db_analasys()\n***********************************")
-
  # the data
  rf = request.get_data()
  print('data recieved: ' + str(rf))
  data = eval(rf)
+ for key in data.keys():
+  data[key] = data[key] == '1'
+ print('data type: {}'.format(type(data)))
+ print(data)
 
+ ans = run_all_experiments(basline_experiment=data['base_line'], cluster_experiment=data['context'],
+                     full_data_experiment=data['all_data'])
 
  # server response
- ans={'response' : str(data)}
+ # ans={'response' : str(data)}
  resp = jsonify(ans)
  resp.headers['Access-Control-Allow-Origin']='*'
  print('*********************************************************************************************************')
  return resp
-
 
 
 if __name__ == '__main__':
