@@ -272,8 +272,10 @@ def run_all_experiments(basline_experiment=True, cluster_experiment=True, full_d
             for agg_method in models.keys():
                 rel_df = exps_results[exps_results.aggregation == agg_method]
                 for modl in models[agg_method]:
-                    calc = rel_df[rel_df.Classifier == modl[0]][rel_df.entity == modl[1]]['is_correct']
-                    exps_results_dict['{a}_{m}_{e}'.format(a=agg_method, m=modl[0], e=modl[1])] = calc.sum()/len(calc)
+                    calc = rel_df[rel_df.Classifier == modl[0]]
+                    calc = calc[calc.entity == modl[1]]['is_correct']
+                    if len(calc):
+                        exps_results_dict['*{a}* {m}({e})'.format(a=agg_method, m=modl[0], e=modl[1])] = calc.sum()/len(calc)
         exps_results_dict['path'] = str(os.path.join(os.getcwd(), 'data', 'results.csv'))
 
         return exps_results_dict
@@ -282,4 +284,4 @@ def run_all_experiments(basline_experiment=True, cluster_experiment=True, full_d
 if __name__ == '__main__':
     with warnings.catch_warnings():
         warnings.filterwarnings('ignore')
-        # run_all_experiments()
+        run_all_experiments(basline_experiment=False, cluster_experiment=False)

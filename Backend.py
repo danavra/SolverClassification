@@ -1,6 +1,7 @@
 import pandas as pd
 from flask import Flask, request, jsonify
 from flask_cors import CORS
+import json
 from DataUtil import directories_validation, make_groups
 from FeatureExtraction import feature_extraction
 from MetaFeatureExtractor import meta_feature_extractor
@@ -63,16 +64,14 @@ def db_analasys():
  print("***********************************\n  Running function db_analasys()\n***********************************")
  # the data
  rf = request.get_data()
- print('data recieved: ' + str(rf))
  data = eval(rf)
  for key in data.keys():
   data[key] = data[key] == '1'
- print('data type: {}'.format(type(data)))
- print(data)
 
  ans = run_all_experiments(basline_experiment=data['base_line'], cluster_experiment=data['context'],
                      full_data_experiment=data['all_data'])
-
+ ans = json.dumps(ans)
+ # ans = {"path" : 'abc', "test" : 'test'}
  # server response
  # ans={'response' : str(data)}
  resp = jsonify(ans)
