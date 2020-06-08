@@ -84,15 +84,43 @@ function db_analasys() {
         data: JSON.stringify(selected),
         dataType: 'JSON',
         success: function (data) {
+            console.log('success:')
+            console.log(data)
+            // try{
+            //      res = JSON.parse(data)
+            //                 console.log('yanivvvvv')
+            //
+            // }catch (e) {
+            //     try{
+            //
+            //         res = JSON.parse(JSON.stringify(data))
+            //                                         console.log('yanivvvvv')
+            //
+            //     }catch (e) {
+            //         res = data
+            //                     console.log('yanivvvvv')
+            //
+            //     }
+            // }
+            res = JSON.parse(data)
+
+            title = "DB analasys completed successfully"
+            msg = 'Results:<br><br>'
+            path = res['path']
+            msg += 'A new file has been created at: ' + path + '<br><br>'
+            for(key in res){
+                if(key != 'path'){
+                    msg += key + ":   " + parseInt( parseFloat(res[key])*100) + '%<br><br>'
+                }
+            }
             $('#toggle_modal').modal('hide')
-            popNotification(JSON.stringify(data), 'It Fucking Works!!', 'green')
+            popNotification(msg, title,'green')
 
         }, error: function (data) {
-            $('#toggle_modal').modal('hide')
-            popError(data, "OH SHIT!")
+            console.log(data)
+            popError('something went wrong','server error')
         }
     })
-
 }
 
 
