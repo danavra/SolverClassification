@@ -1,9 +1,12 @@
 import pandas as pd
 import os
 import warnings
-from ModelTesting import leave_one_out, ANSWER_FEATURES, SOLVER_FEATURES
+from ModelTesting import leave_one_out, ANSWER_FEATURES, SOLVER_FEATURES, get_models
 from CombinedModel import combined_leave_one_out
-from DataUtil import data_preparation, NOT_ANSWERS
+from DataUtil import data_preparation, get_answers_from_df, NOT_ANSWERS
+from FeatureExtraction import extract_solver_features, extract_answer_features, SOLVER_COLUMNS
+from MetaFeatureExtractor import get_init_features
+from Clustering import clustering
 import aggregation_methods as agg
 
 COLUMNS = ['Problem', 'group_num', 'classifier', 'aggregation', 'entity', 'features', 'classification', 'is correct']
@@ -281,7 +284,68 @@ def run_all_experiments(basline_experiment=True, cluster_experiment=True, full_d
         return exps_results_dict
 
 
+####################################################### ANALYZER #######################################################
+def find_baseline_answer(df):
+    return agg.majority_rule(df)
+
+
+def find_cluster_answer(df):
+    not_ans = NOT_ANSWERS
+    df_answer_feat = extract_answer_features(df, not_ans, include_solver=False)
+
+    meta_features_path = os.path.join(os.getcwd(), 'data', 'analyzer', 'meta_features.csv')
+    meta_features_df = pd.read_csv(meta_features_path, index_col='group_number')
+    group_num = meta_features_df.index.max() + 1
+    dict_meta_feat = get_init_features(df)
+    for key in dict_meta_feat.keys():
+        dict_meta_feat[key] = [dict_meta_feat[key]]
+    df_meta_feat = pd.DataFrame.from_dict(dict_meta_feat)
+    meta_features_df = meta_features_df.append(df_meta_feat, ignore_index=True)
+    meta_features_df.index.names = ['group_number']
+    meta_features_df.to_csv(meta_features_path)
+    clustering(create_db=False)
+
+    clusters_df = pd.read_csv(os.path.join(os.getcwd(), 'data', 'analyzer', 'dbscan02.csv'))
+    cluster = clusters_df[clusters_df.group_number == group_num]['cluster'].unique()[0]
+    train_df = pd.read_csv(os.path.join(os.getcwd(), 'data', 'featured data', 'answer_features.csv'))
+    train_df['cluster'] = train_df['group_number'].apply(lambda x: get_cluster(x, clusters_df))
+    train_df = train_df[train_df.cluster == cluster]
+    kwargs = {'answer': True}
+    vote = get_models(**kwargs)['Vote_soft']
+    vote.fit(train_df[ANSWER_FEATURES], train_df['Class'])
+    probas = vote.predict_proba(df_answer_feat[ANSWER_FEATURES])
+    probas = list(map(lambda x: x[1], probas))
+    df_answer_feat['probas'] = probas
+    df_answer_feat.index.names = ['Answer']
+    return df_answer_feat[df_answer_feat.probas == df_answer_feat.probas.max()].index.values[0]
+
+
+def find_fulldata_answer(df):
+    not_ans = NOT_ANSWERS
+    df_answer_feat = extract_answer_features(df, not_ans, include_solver=False)
+    train_df = pd.read_csv(os.path.join(os.getcwd(), 'data', 'featured data', 'answer_features.csv'))
+    kwargs = {'answer': True}
+    bag = get_models(**kwargs)['Bag_KNN']
+    bag.fit(train_df[ANSWER_FEATURES], train_df.Class)
+    probas = bag.predict_proba(df_answer_feat[ANSWER_FEATURES])
+    probas = list(map(lambda x: x[1], probas))
+    df_answer_feat['probas'] = probas
+    df_answer_feat.index.names = ['Answer']
+    return df_answer_feat[df_answer_feat.probas == df_answer_feat.probas.max()].index.values[0]
+
+
+def analyze_new_problem(df):
+    res = {'baseline': find_baseline_answer(df), 'context': find_cluster_answer(df), 'full': find_fulldata_answer(df)}
+    return res
+
+
+########################################################################################################################
+
+
 if __name__ == '__main__':
     with warnings.catch_warnings():
         warnings.filterwarnings('ignore')
-        run_all_experiments(basline_experiment=False, cluster_experiment=False)
+        # run_all_experiments()
+        data = pd.read_csv(os.path.join(os.getcwd(), 'data', 'raw data', 'RawData_3Robots.csv'))
+        analyze_new_problem(data)
+        print('hhhhhhhhhhh'*20)

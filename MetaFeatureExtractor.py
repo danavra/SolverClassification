@@ -212,12 +212,16 @@ def extract_meta_features_old(all_prob_dir, json_meta_data):
         return ans_df
 
 
-def meta_feature_extractor():
+def meta_feature_extractor(create_db=True):
     all_prob_dir = listdir(join(getcwd(), 'data', 'raw data'))
     m_features = extract_meta_features(all_prob_dir)
     if m_features is not None:
         m_features.index.names = ['group_number']
-        m_features.to_csv(join(getcwd(), 'data', 'meta data', 'meta_features.csv'))
+        if create_db:
+            m_features.to_csv(join(getcwd(), 'data', 'meta data', 'meta_features.csv'))
+            m_features.to_csv(join(getcwd(), 'data', 'analyzer', 'meta_features.csv'))
+        else:
+            m_features.to_csv(join(getcwd(), 'data', 'analyzer', 'meta_features.csv'))
 
 
 if __name__ == '__main__':
