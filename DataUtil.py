@@ -173,6 +173,10 @@ def directories_validation():
     if not os.path.isdir(raw):
         os.mkdir(raw)
 
+    analyzer = os.path.join(data_dir, 'analyzer')
+    if not os.path.isdir(analyzer):
+        os.mkdir(analyzer)
+
 
 if __name__ == '__main__':
     with warnings.catch_warnings():

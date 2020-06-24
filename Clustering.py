@@ -6,8 +6,6 @@ from sklearn.decomposition import PCA
 from os import getcwd
 from os.path import join, isfile
 import warnings
-from ModelTesting import SOLVER_FEATURES, ANSWER_FEATURES
-from run_all_experiments import get_normalized_features_df
 
 META_FEATURES = ['consensus', 'highest_voted_ans', 'variance', 'avg_arrogance', 'med_arrogance', 'var_arrogance',
                  'avg_confidence', 'med_confidence', 'var_confidence', 'avg_EMAM', 'med_EMAM', 'var_EMAM', 'avg_EAAA',
@@ -58,11 +56,18 @@ def column(matrix, i):
     return [row[i] for row in matrix]
 
 
-def clustering():
-    file_name = join(getcwd(), 'data', 'meta data', 'meta_features.csv')
+def clustering(create_db=True):
+    if create_db:
+        file_name = join(getcwd(), 'data', 'meta data', 'meta_features.csv')
+    else:
+        file_name = join(getcwd(), 'data', 'analyzer', 'meta_features.csv')
     if isfile(file_name):
         clustered_df = make_cluster(file_name)
-        clustered_df.to_csv(join(getcwd(), 'data', 'clustered data', 'dbscan02.csv'))
+        if create_db:
+            clustered_df.to_csv(join(getcwd(), 'data', 'clustered data', 'dbscan02.csv'))
+            clustered_df.to_csv(join(getcwd(), 'data', 'analyzer', 'dbscan02.csv'))
+        else:
+            clustered_df.to_csv(join(getcwd(), 'data', 'analyzer', 'dbscan02.csv'))
 
 
 if __name__ == '__main__':
