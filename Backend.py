@@ -6,7 +6,8 @@ from DataUtil import directories_validation, make_groups
 from FeatureExtraction import feature_extraction
 from MetaFeatureExtractor import meta_feature_extractor
 from Clustering import clustering
-from run_all_experiments import run_all_experiments
+from run_all_experiments import run_all_experiments, analyze_new_problem
+import time
 
 app = Flask(__name__)
 CORS(app)
@@ -14,20 +15,19 @@ print('********   SEVER IS LISTENING...   ********')
 
 
 # solve_problem
-@app.route('/solve_problem', methods=['POST'])
-def solve_problem():
- print("Running function solve_problem()")
- uploaded_file = request.files['file']
- df = pd.read_csv(uploaded_file)
- print(df['Confidence'])
- x = list(df['Confidence'].to_numpy())
- print(x)
- # Server response
-
- ans = {'response' : 'ok' }
- resp = jsonify(ans)
- resp.headers['Access-Control-Allow-Origin']='*'
- return resp
+# @app.route('/solve_problem', methods=['POST'])
+# def solve_problem():
+#  print("Running function solve_problem()")
+#  uploaded_file = request.files['file']
+#  # Server response
+#
+#  # ans = analyze_new_problem(uploaded_file)
+#  # ans = {'baseline': 80, 'context': 100, 'full': 100}
+#  ans = [1, 'ss', 3.4, {}]
+#  time.sleep(5.3)
+#  resp = jsonify(ans)
+#  resp.headers['Access-Control-Allow-Origin']='*'
+#  return resp
 
 
 
