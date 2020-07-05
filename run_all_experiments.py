@@ -285,6 +285,12 @@ def run_all_experiments(basline_experiment=True, cluster_experiment=True, full_d
 
 
 ####################################################### ANALYZER #######################################################
+def write_analyzer_files():
+    mf = pd.read_csv(os.path.join(os.getcwd(), 'data', 'meta data', 'meta_features.csv'), index_col='group_number')
+    clst = pd.read_csv(os.path.join(os.getcwd(), 'data', 'clustered data', 'dbscan02.csv'), index_col='group_number')
+    mf.to_csv(os.path.join(os.getcwd(), 'data', 'analyzer', 'meta_features.csv'))
+    clst.to_csv(os.path.join(os.getcwd(), 'data', 'analyzer', 'dbscan02.csv'))
+
 def find_baseline_answer(df):
     return agg.majority_rule(df)
 
@@ -294,14 +300,18 @@ def find_cluster_answer(df):
     df_answer_feat = extract_answer_features(df, not_ans, include_solver=False)
 
     meta_features_path = os.path.join(os.getcwd(), 'data', 'analyzer', 'meta_features.csv')
-    meta_features_df = pd.read_csv(meta_features_path, index_col='group_number')
-    group_num = meta_features_df.index.max() + 1
+    # meta_features_df = pd.read_csv(meta_features_path, index_col='group_number')
+    meta_features_df = pd.read_csv(meta_features_path)
+    # group_num = meta_features_df.index.max() + 1
+    group_num = df.group_number.unique()[0]
     dict_meta_feat = get_init_features(df)
     for key in dict_meta_feat.keys():
         dict_meta_feat[key] = [dict_meta_feat[key]]
+    dict_meta_feat['group_number'] = group_num
     df_meta_feat = pd.DataFrame.from_dict(dict_meta_feat)
-    meta_features_df = meta_features_df.append(df_meta_feat, ignore_index=True)
-    meta_features_df.index.names = ['group_number']
+    meta_features_df = meta_features_df.append(df_meta_feat)
+    # meta_features_df.index.names = ['group_number']
+    meta_features_df.set_index('group_number', inplace=True)
     meta_features_df.to_csv(meta_features_path)
     clustering(create_db=False)
 
@@ -317,6 +327,7 @@ def find_cluster_answer(df):
     probas = list(map(lambda x: x[1], probas))
     df_answer_feat['probas'] = probas
     df_answer_feat.index.names = ['Answer']
+    write_analyzer_files()
     return df_answer_feat[df_answer_feat.probas == df_answer_feat.probas.max()].index.values[0]
 
 
@@ -331,11 +342,18 @@ def find_fulldata_answer(df):
     probas = list(map(lambda x: x[1], probas))
     df_answer_feat['probas'] = probas
     df_answer_feat.index.names = ['Answer']
+    write_analyzer_files()
     return df_answer_feat[df_answer_feat.probas == df_answer_feat.probas.max()].index.values[0]
 
 
-def analyze_new_problem(df):
-    res = {'baseline': find_baseline_answer(df), 'context': find_cluster_answer(df), 'full': find_fulldata_answer(df)}
+def analyze_new_problem(df_path):
+    df = pd.read_csv(df_path)
+    meta_features_path = os.path.join(os.getcwd(), 'data', 'analyzer', 'meta_features.csv')
+    meta_features_df = pd.read_csv(meta_features_path)
+    group_num = meta_features_df.group_number.max() + 1
+    df['group_number'] = group_num
+    write_analyzer_files()
+    res = {'baseline': find_baseline_answer(df), 'context': find_cluster_answer(df), 'full': find_cluster_answer(df)}
     return res
 
 

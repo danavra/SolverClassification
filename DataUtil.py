@@ -20,6 +20,12 @@ def get_answers_from_df(df_raw, not_answers=NOT_ANSWERS):
     return answers
 
 
+def dan(x):
+    print(type(x))
+    print(x)
+    ans = 0 if 'no' in x.lower() else 1
+    return ans
+
 def data_preparation(df_raw, not_answers=NOT_ANSWERS):
     """
     prepare the data
@@ -45,7 +51,8 @@ def data_preparation(df_raw, not_answers=NOT_ANSWERS):
     if 'Subjective Difficulty' in columns:
         df_raw['Subjective Difficulty'] = df_raw['Subjective Difficulty'].apply(lambda x: x / 10)
 
-    df_raw['Class'] = df_raw['Class'].apply(lambda x: 0 if 'no' in x.lower() else 1)
+    df_raw['Class'] = df_raw['Class'].apply(lambda x: 0 if 'no' in str(x).lower() else 1)
+    # df_raw['Class'] = df_raw['Class'].apply(lambda x: dan(x))
     return df_raw
 
 

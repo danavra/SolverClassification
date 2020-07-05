@@ -20,41 +20,45 @@
 //     })
 // }
 
-function solve_problem() {
-    server = "http://127.0.0.1:5000"
-    func = '/solve_problem'
-
-    // validate input
-    problem_file = document.getElementById('new_problem')
-    if(problem_file.value == null || problem_file.value === ''){
-        popError('Must upload a problem', 'Bad Input','left')
-        return
-    }
-
-    $('#solve_problem').modal('hide')
-    var fileInput = document.getElementById('new_problem');
-    var file = fileInput.files[0];
-    var form_data = new FormData();
-    form_data.append('file', file);
-    $.ajax({
-        
-        url:  server + func,
-		dataType: 'text',  // what to expect back from the PHP script, if anything
-		cache: false,
-		contentType: false,
-		processData: false,
-		data: form_data,
-		type: 'post',
-        success: function (data) {
-            $('#toggle_modal').modal('hide')
-            popNotification(JSON.stringify(data), 'It Fucking Works!!', 'green')
-
-        }, error: function (data) {
-            $('#toggle_modal').modal('hide')
-            popError('Connection refused', "OH SHIT!")
-        }
-    })
-}
+// function solve_problem() {
+//     server = "http://127.0.0.1:5000"
+//     func = '/solve_problem'
+//
+//     // validate input
+//     problem_file = document.getElementById('new_problem')
+//     if(problem_file.value == null || problem_file.value === ''){
+//         popError('Must upload a problem', 'Bad Input','left')
+//         return
+//     }
+//
+//     $('#solve_problem').modal('hide')
+//     var fileInput = document.getElementById('new_problem');
+//     var file = fileInput.files[0];
+//     var form_data = new FormData();
+//     form_data.append('file', file);
+//     $.ajax({
+//
+//         url:  server + func,
+// 		dataType: 'text',  // what to expect back from the PHP script, if anything
+// 		cache: false,
+// 		contentType: false,
+// 		processData: false,
+// 		data: form_data,
+// 		type: 'post',
+//         success: function (data) {
+//             $('#toggle_modal').modal('hide')
+//             popError("Please recreate the DataBase and run the analysis to continue", 'Missing Data!')
+//             // $('#toggle_modal').modal('hide')
+//             // // data = JSON.parse(data)
+//             // msg = 'BaseLine:  ' + data['baseline']+'<br>Full Data:  ' +data['full'] + '<br>Contexts:  ' + data['context'] + '<br>'
+//             // popNotification(msg, 'Results', 'green')
+//
+//         }, error: function (data) {
+//             $('#toggle_modal').modal('hide')
+//             popError('Connection refused', "OH NO")
+//         }
+//     })
+// }
 
 
 function db_analasys() {
@@ -77,7 +81,7 @@ function db_analasys() {
     });
 
     // send request to server
-    toggleNotification('Analysing DB', 'The magic is happening')
+    toggleNotification('Analysing DB', 'Please wait')
     $.ajax({
         type: "POST",
         url: server + func,
@@ -129,7 +133,7 @@ function create_db(){
     server = "http://127.0.0.1:5000"
     func = '/create_db'
 
-    toggleNotification('Creating DataBase', 'The magic is happening')
+    toggleNotification('Creating DataBase', 'Please wait')
     $.ajax({
         type: "POST",
         url: server + func,
